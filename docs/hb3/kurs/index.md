@@ -24,7 +24,7 @@ Jede Lektion dauert etwa 20 Minuten und endet mit einer Mini-Übung.
 
 ## Etappe 4: Bauteile
 
-- Lektion 8: Widerstand
+- [Lektion 8: Der Widerstand](08-widerstand.md)
 - Lektion 9: Kondensator
 - Lektion 10: Spule
 - Lektion 11: Diode und Gleichrichtung
