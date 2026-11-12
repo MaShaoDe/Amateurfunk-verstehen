@@ -1,7 +1,7 @@
 # Impressum und Datenschutz
 
 !!! warning "Entwurf, vor der Veröffentlichung ergänzen"
-    Die Angaben mit "offen" fehlen noch. Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
+    Die Angaben mit "offen" fehlen noch (GitHub-Ticketliste, lokale Schriften und Formelanzeige). Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
 
 ## Verantwortlich für den Inhalt
 
@@ -9,8 +9,8 @@
 | --- | --- |
 | Name | Marcel Sauder |
 | Rufzeichen | HE9QCU |
-| Anschrift | offen |
-| E-Mail | offen |
+| Anschrift | Zürcherstrasse 270, 8500 Frauenfeld, Schweiz |
+| E-Mail | [marcel@marcelsauder.ch](mailto:marcel@marcelsauder.ch) |
 
 ## Zweck und Art dieses Angebots
 
@@ -33,13 +33,13 @@ Die Inhalte wurden sorgfältig erstellt. Für Richtigkeit, Vollständigkeit und 
 ## Datenschutz
 
 - Es gibt keine Benutzerkonten, keine Formulare, keine Kommentare und keine Analyse- oder Werbe-Werkzeuge.
-- Der Webserver speichert beim Abruf technisch übliche Zugriffsdaten (zum Beispiel IP-Adresse und Zeitpunkt). Das gehört zum Betrieb des Hosters. Hoster: offen.
+- Der Webserver speichert beim Abruf technisch übliche Zugriffsdaten (zum Beispiel IP-Adresse und Zeitpunkt). Das gehört zum Betrieb des Hosters. Hoster: Novatrend.ch.
 - Beim Aufruf werden Schriften von Google Fonts und die Formelanzeige (MathJax) von cdnjs.cloudflare.com geladen. Dabei wird deine IP-Adresse an diese Anbieter übermittelt. Offen: Diese Dateien sollen künftig vom eigenen Server kommen.
 - Die Suche läuft lokal in deinem Browser.
 
 ## Kontakt
 
-Fehler gefunden oder Verbesserungsvorschlag? Melde dich unter der E-Mail-Adresse oben (offen) oder über die Ticketliste des offenen Projekts auf GitHub (offen, sobald das Projekt öffentlich ist).
+Fehler gefunden oder Verbesserungsvorschlag? Melde dich unter der E-Mail-Adresse oben oder über die Ticketliste des offenen Projekts auf GitHub (offen, sobald das Projekt öffentlich ist).
 
 ---
 

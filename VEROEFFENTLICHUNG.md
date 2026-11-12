@@ -3,7 +3,8 @@
 Diese Datei gehört nicht zur Webseite. Sie ist die interne Liste, was vor dem Start erledigt sein muss.
 
 ## Rechtliches und Angaben
-- [ ] Impressum ausfüllen: Anschrift, E-Mail, Hoster (`docs/allgemein/impressum.md`)
+- [x] Impressum: Anschrift, E-Mail, Hoster eingetragen (`docs/allgemein/impressum.md`)
+- [ ] Impressum: Hinweis auf GitHub-Ticketliste ergänzen, sobald das Projekt öffentlich ist
 - [ ] Hinweis "Entwurf" im Impressum entfernen
 - [ ] Prüfen, ob die Abbildungen selbst erstellt sind (Lizenz CC BY 4.0 nur dann möglich)
 - [ ] Fremdtexte nur paraphrasiert, BAKOM-Material nur verlinkt
