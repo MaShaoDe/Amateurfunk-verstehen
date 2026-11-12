@@ -17,7 +17,7 @@ zusammengestellt.
 
 Getippt wurde das ursprüngliche Manuskript auf einem selbstgebauten Computer mit einem Zilog-Z80-Prozessor, unter dem Betriebssystem CP/M 2.2, mit der Textverarbeitung WordStar der Firma MicroPro, damals eine der verbreitetsten Textverarbeitungen im professionellen und semiprofessionellen Umfeld.
 
-Mein selbstgebauter Computer war ein ELZET 80, aufgebaut aus Bausätzen der Firma Elektronikladen Detmold.
+Mein selbstgebauter Computer war ein ELZET 80, aufgebaut aus Bausätzen der Firma Elektronikladen Detmold. Meine eigenen ELZET 80 habe ich selbst zusammengebaut. Damals hat mein Vater viele Geräte finanziert und nach Hause gebracht.
 
 <figure markdown>
   ![Werbeanzeige für die Textverarbeitung WordStar von MicroPro](../images/entstehung/wordstar-werbung.jpg){ width="55%" loading=lazy }
@@ -41,7 +41,7 @@ Mein selbstgebauter Computer war ein ELZET 80, aufgebaut aus Bausätzen der Firm
 
 <figure markdown>
   ![Tragbarer Computer Elzet-P mit Bildschirm, Diskettenlaufwerken und Tastatur](../images/entstehung/elzet-p.jpg){ width="55%" loading=lazy }
-  <figcaption>Der ELZET-P (Portable) meines Vaters, mit 5,25-Zoll-Laufwerken. <span class="bildrechte">Foto: Familie Sauder</span></figcaption>
+  <figcaption>Der ELZET-P (Portable) meines Vaters, mit 5,25-Zoll-Laufwerken. Ich wohnte im selben Haus und habe oft daran gearbeitet. Als mein Vater ein neues System kaufte, habe ich ihn später übernommen. <span class="bildrechte">Foto: Familie Sauder</span></figcaption>
 </figure>
 
 
