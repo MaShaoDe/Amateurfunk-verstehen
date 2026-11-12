@@ -1,0 +1,101 @@
+# Lektion 5: Das Ohmsche Gesetz und die Leistung
+
+!!! abstract "Das lernst du in dieser Lektion"
+    - Wie Spannung, Strom und Widerstand zusammenhängen (Ohmsches Gesetz)
+    - Was elektrische Leistung ist und wie du sie berechnest
+    - Wie du Formeln mit dem Formeldreieck umstellst
+
+*Dauer: etwa 25 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 4](04-spannung-strom-widerstand.md).*
+
+## Das Ohmsche Gesetz
+
+In Lektion 4 hast du gesehen: Die Spannung treibt den Strom an, der Widerstand bremst ihn. Das Ohmsche Gesetz sagt genau, wie stark:
+
+$$U = R \cdot I$$
+
+- U: Spannung in Volt (V)
+- R: Widerstand in Ohm (Ω)
+- I: Strom in Ampere (A)
+
+Man kann die Formel umstellen:
+
+$$I = \frac{U}{R} \qquad\qquad R = \frac{U}{I}$$
+
+!!! example "Beispiel"
+    An einem Widerstand von 4 Ω liegen 12 V. Wie gross ist der Strom?
+
+    I = U / R = 12 / 4 = **3 A**
+
+## Das Formeldreieck
+
+So musst du die Formel nicht auswendig umstellen. Zeichne ein Dreieck. Oben steht U, unten stehen R und I nebeneinander:
+
+```
+    U
+  -----
+  R | I
+```
+
+Decke die Grösse ab, die du suchst:
+
+- U abdecken: übrig bleibt R · I
+- R abdecken: übrig bleibt U / I
+- I abdecken: übrig bleibt U / R
+
+## Die Leistung
+
+Die **Leistung** sagt, wie viel Energie pro Sekunde umgesetzt wird. Das Zeichen ist **P**, die Einheit **Watt (W)**.
+
+$$P = U \cdot I$$
+
+!!! example "Beispiel"
+    Ein Funkgerät nimmt bei 12 V einen Strom von 3 A auf.
+
+    P = U · I = 12 · 3 = **36 W**
+
+Auch diese Formel kannst du umstellen:
+
+$$I = \frac{P}{U} \qquad\qquad U = \frac{P}{I}$$
+
+Bei grossen und kleinen Leistungen helfen wieder die Vorsilben:
+
+- 1 kW = 1 000 W
+- 1 W = 1 000 mW
+
+!!! note "Merksatz"
+    Spannung mal Strom ergibt die Leistung: P = U · I. Spannung gleich Widerstand mal Strom: U = R · I.
+
+!!! tip "Prüfungstipp"
+    In der Prüfung darfst du die Formelsammlung benutzen. Das Umstellen und das Einsetzen musst du aber selbst können. Schreib immer zuerst die Formel hin, dann die Zahlen mit Einheit. Rechne vorher in V, A und Ω um (siehe Lektion 4).
+
+## Mini-Übung
+
+1. An einem Widerstand von 6 Ω liegen 12 V. Wie gross ist der Strom?
+2. Durch einen Widerstand von 100 Ω fliesst 0,5 A. Wie gross ist die Spannung?
+3. An einem Gerät liegen 230 V, es fliessen 2 A. Wie gross ist der Widerstand?
+4. Ein Gerät nimmt bei 12 V einen Strom von 2 A auf. Wie gross ist die Leistung?
+5. Ein Gerät mit 60 W läuft an 12 V. Wie gross ist der Strom?
+
+??? success "Resultate anzeigen"
+
+    | Aufgabe | Resultat |
+    | --- | --- |
+    | 1 | I = 12 / 6 = 2 A |
+    | 2 | U = 100 · 0,5 = 50 V |
+    | 3 | R = 230 / 2 = 115 Ω |
+    | 4 | P = 12 · 2 = 24 W |
+    | 5 | I = 60 / 12 = 5 A |
+
+## Das Wichtigste in 3 Sätzen
+
+- Ohmsches Gesetz: U = R · I, umgestellt I = U / R und R = U / I.
+- Leistung: P = U · I, die Einheit ist Watt.
+- Mit dem Formeldreieck stellst du Formeln sicher um.
+
+Zum Üben gibt es das [Übungsblatt zu Spannung, Strom, Widerstand und Leistung](../../technik/uebungsblatt-spannung-strom-widerstand-leistung.md).
+
+**Weiter:** Lektion 6 (folgt).
+
+---
+
+*© 1984 bis 2026 FerienBSD aka Marcel Sauder. Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de). Du darfst die Inhalte teilen und bearbeiten, wenn du den Urheber nennst.*
