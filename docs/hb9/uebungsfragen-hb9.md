@@ -1,7 +1,7 @@
 # Übungsfragen HB9
 
 !!! note "Eigene Übungsfragen"
-    Diese Fragen hat das Lehrwerk selbst geschrieben. Es sind nicht die Fragen des BAKOM. Sie prüfen, ob du den Stoff verstanden hast. Für Testprüfungen, die der Art der BAKOM-Fragen nahekommen, frage bei einem Amateurfunkverein in deiner Nähe nach. *offen: Empfehlung eines bestimmten Vereins, wird noch geklärt.*
+    Diese Fragen hat das Lehrwerk selbst geschrieben. Es sind nicht die Fragen des BAKOM. Sie prüfen, ob du den Stoff verstanden hast. Für Testprüfungen, die der Art der BAKOM-Fragen nahekommen, frage bei einem Amateurfunkverein in deiner Nähe nach.
 
 
 Lies die Frage, überlege dir die Antwort und schaue erst dann bei den Lösungen nach.
