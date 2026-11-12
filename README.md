@@ -4,7 +4,7 @@ Freies Lernmaterial für die schweizerischen Amateurfunkprüfungen **HB3** (Novi
 
 Das Material führt Schritt für Schritt durch Mathematik-Vorkurs, Grundlagen, Technik, Betriebstechnik und Vorschriften. Es enthält Übungsreihen mit separaten Resultaten, Lernchecklisten und Merkblätter.
 
-> Stand: im Aufbau. Eine erste Veröffentlichung folgt, sobald Struktur und Inhalt fertig sind.
+> Stand: Version 2 mit dem vollständigen HB3-Kurs (29 Lektionen) und den 18 HB9-Kapiteln.
 
 ## Aufbau
 
