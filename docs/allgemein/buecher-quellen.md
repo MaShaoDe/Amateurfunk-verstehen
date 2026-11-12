@@ -46,6 +46,7 @@ Zum Nachschlagen eignen sich ausserdem «Dezibel-Praxis» und «Die 100 wichtigs
 - [BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" }: Prüfungen, Konzessionen, Vorschriften und die Formelsammlung
 - [USKA](https://www.uska.ch/){ target="_blank" rel="noopener" }: Union Schweizerischer Kurzwellen-Amateure
 - [ARRL](https://www.arrl.org/){ target="_blank" rel="noopener" }: amerikanischer Verband, ergänzende Fachliteratur
+- [RSGB](https://rsgb.org/){ target="_blank" rel="noopener" }: britischer Verband, Bandpläne und ergänzende Fachliteratur
 
 ## Plattformen für Funkamateure
 
