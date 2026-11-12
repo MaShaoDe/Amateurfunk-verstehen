@@ -1,7 +1,7 @@
 # Impressum und Datenschutz
 
 !!! warning "Entwurf, vor der Veröffentlichung ergänzen"
-    Die Angaben mit "offen" fehlen noch (GitHub-Ticketliste und lokale Formelanzeige). Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
+    Die Angaben mit "offen" fehlen noch (GitHub-Ticketliste). Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
 
 ## Verantwortlich für den Inhalt
 
@@ -35,7 +35,7 @@ Die Inhalte wurden sorgfältig erstellt. Für Richtigkeit, Vollständigkeit und 
 - Es gibt keine Benutzerkonten, keine Formulare, keine Kommentare und keine Analyse- oder Werbe-Werkzeuge.
 - Der Webserver speichert beim Abruf technisch übliche Zugriffsdaten (zum Beispiel IP-Adresse und Zeitpunkt). Das gehört zum Betrieb des Hosters. Hoster: Novatrend.ch.
 - Die Schriften (Inter, Lizenz SIL OFL 1.1) liegen auf dem eigenen Server. Es gibt keine Verbindung zu Google.
-- Offen: Die Formelanzeige (MathJax) wird noch von cdnjs.cloudflare.com geladen. Dabei wird deine IP-Adresse an diesen Anbieter übermittelt. Sie soll künftig ebenfalls vom eigenen Server kommen.
+- Die Formelanzeige (MathJax, Lizenz Apache 2.0) liegt ebenfalls auf dem eigenen Server. Es werden keine Dateien von fremden Servern nachgeladen.
 - Die Suche läuft lokal in deinem Browser.
 
 ## Kontakt

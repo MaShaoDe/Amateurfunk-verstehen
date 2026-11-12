@@ -12,7 +12,7 @@ Diese Datei gehört nicht zur Webseite. Sie ist die interne Liste, was vor dem S
 
 ## Datenschutz und Technik
 - [x] Schriften lokal eingebunden (Inter, Lizenz in `LICENSES/Inter-OFL-1.1.txt`)
-- [ ] MathJax lokal einbinden statt von cdnjs
+- [x] MathJax lokal (wird beim Aufbau auf GitHub geholt, `deploy-v2.yml`). Beim Umzug auf `main` denselben Schritt in `deploy.yml` übernehmen
 - [ ] Meta-Tag "noindex" entfernen (`overrides/main.html`), sobald die Seite gefunden werden soll
 - [ ] `robots.txt` anpassen
 
