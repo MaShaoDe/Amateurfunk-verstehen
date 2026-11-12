@@ -104,3 +104,6 @@ nav:
       - Hilfsmittel zum Download: allgemein/downloads.md
       - Lernvideos und Nachschlagewerke: allgemein/lernquellen.md
       - Impressum und Datenschutz: allgemein/impressum.md
+
+extra:
+  generator: false
