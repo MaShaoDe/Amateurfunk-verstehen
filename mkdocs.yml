@@ -1,6 +1,5 @@
 site_name: "Amateurfunk verstehen. Lernen für HB3 und HB9 (Schweiz)"
 site_author: Marcel Sauder
-copyright: "© 1984 bis 2026 FerienBSD aka Marcel Sauder. Lizenz: <a href=\"https://creativecommons.org/licenses/by/4.0/deed.de\">CC BY 4.0</a>"
 site_description: Lernmaterial für die schweizerischen Amateurfunkprüfungen HB3 (Novice) und HB9, offen und frei nutzbar
 docs_dir: docs
 use_directory_urls: false
