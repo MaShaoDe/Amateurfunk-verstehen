@@ -50,7 +50,10 @@ extra_javascript:
   - javascripts/print.js
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js
 nav:
-  - Start: index.md
+  - Start:
+      - index.md
+      - So lernst du: lernplan.md
+      - Die Prüfung auf einen Blick: pruefung.md
   - HB3:
       - hb3/index.md
       - Vorkurs HB3: hb3/vk-mathematik-vorkurs-hb3.md
