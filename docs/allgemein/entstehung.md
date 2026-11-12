@@ -81,7 +81,7 @@ Die Abbildungen der heutigen Fassung sind also neu erstellt und neu beschriftet.
 
 ## Der Amateurfunk in der Schweiz von 1984
 
-Als dieses Lehrmaterial ursprünglich entstand, existierte das heutige BAKOM noch nicht. Zuständig für Funkkonzessionen waren die PTT, die schweizerischen Post-, Telefon- und Telegrafenbetriebe, über ihre Kreistelephondirektionen, die später zu Fernmeldekreisdirektionen wurden.
+Als dieses Lehrmaterial ursprünglich entstand, existierte das heutige [BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" } noch nicht. Zuständig für Funkkonzessionen waren die PTT, die schweizerischen Post-, Telefon- und Telegrafenbetriebe, über ihre Kreistelephondirektionen, die später zu Fernmeldekreisdirektionen wurden.
 
 Auch die heutige zweistufige Einteilung in HB3 und HB9 gab es damals noch nicht, diese Struktur wurde erst später im Rahmen der CEPT-Harmonisierung eingeführt. Stattdessen bestand ein anderes, ebenfalls zweistufiges System:
 
@@ -116,7 +116,7 @@ einschliesslich Ausbildungs- und Informationsmaterial der damaligen **Kreistelep
 
 Ergänzend wurde internationale Amateurfunk-Fachliteratur verwendet, insbesondere Veröffentlichungen der:
 
-**ARRL, American Radio Relay League**
+**[ARRL](https://www.arrl.org/){ target="_blank" rel="noopener" }, American Radio Relay League**
 
 Die damalige Fassung entsprach dem technischen und regulatorischen Stand der frühen 1980er-Jahre.
 

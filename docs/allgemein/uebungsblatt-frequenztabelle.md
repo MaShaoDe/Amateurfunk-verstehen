@@ -94,7 +94,7 @@ HB9 darf zusätzlich praktisch alle regulären Schweizer Amateurfunkbänder benu
 
 Typische Prüfungsfrage: **430 bis 440 MHz mit bis zu 1000 W**
 
-Antwort: **HB9 beziehungsweise CEPT / Konzession 1 oder 2**
+Antwort: **HB9 beziehungsweise [CEPT](https://www.cept.org/){ target="_blank" rel="noopener" } / Konzession 1 oder 2**
 
 ---
 

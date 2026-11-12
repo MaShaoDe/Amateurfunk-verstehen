@@ -3,7 +3,7 @@
 Hier steht, was du vor der Prüfung wissen musst: Ablauf, Kosten, erlaubte Hilfsmittel und was danach kommt.
 
 !!! info "Stand und Quellen"
-    Stand: November 2026. Verbindlich sind immer die Angaben des BAKOM. Prüf Kosten und Termine vor der Anmeldung auf der [BAKOM-Seite zu den Amateurfunkprüfungen](https://www.bakom.admin.ch/de/amateurfunk-pruefungen).
+    Stand: November 2026. Verbindlich sind immer die Angaben des [BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" }. Prüf Kosten und Termine vor der Anmeldung auf der [BAKOM-Seite zu den Amateurfunkprüfungen](https://www.bakom.admin.ch/de/amateurfunk-pruefungen).
 
 ## Ablauf
 
@@ -68,7 +68,7 @@ Die Fragen sind spezifisch fürs BAKOM. Ein Teil stammt nach Angabe eines ETH-Ve
 - Zum Senden brauchst du ein Rufzeichen, das du beim BAKOM beantragst.
 - Mit HB3 hast du ein Rufzeichen mit der Vorsilbe HB3 und darfst auf ausgewählten Bändern senden. Mit HB9 darfst du auf allen Amateurfunkbändern senden, mit bis zu 1000 W, und Geräte selbst bauen.
 - Von HB3 auf HB9 steigst du mit einer Ergänzungsprüfung auf. Sie besteht aus dem technischen Teil der Prüfung.
-- Die HB9-Prüfung folgt der europäischen Empfehlung CEPT T/R 61-02 (HAREC). Deshalb ist die Lizenz in vielen europäischen Ländern anerkannt.
+- Die HB9-Prüfung folgt der europäischen Empfehlung [CEPT](https://www.cept.org/){ target="_blank" rel="noopener" } T/R 61-02 (HAREC). Deshalb ist die Lizenz in vielen europäischen Ländern anerkannt.
 
 ## Wie wird bewertet?
 
