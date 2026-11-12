@@ -30,5 +30,5 @@ Diese Datei gehört nicht zur Webseite. Sie ist die interne Liste, was vor dem S
 
 ## Bildrechte der Entstehungsseite (`docs/allgemein/entstehung.md`)
 - [ ] 4 Bilder stammen aus dem Internet (CP/M-Bildschirm, CP/M-Plus-Handbuch, WordStar-Werbung, WordStar-Prospekt). Sie sind Werke Dritter und nicht von CC BY 4.0 gedeckt. Vor der Veröffentlichung ersetzen (eigener Screenshot aus der CP/M-Emulation, eigenes Foto des Handbuchs) oder entfernen
-- [ ] 3 Bilder (ELZET-K, CPU-Karte, ELZET-P) lagen auf der eigenen Festplatte. Urheber unklar. Eigene Fotos verwenden oder Urheber nennen
-- [ ] Danach den Vermerk "Bildrechte: offen" unter den Bildern entfernen
+- [x] 3 Bilder (ELZET-K, CPU-Karte, ELZET-P) hat Marcel Sauder oder sein Vater fotografiert, Vermerk "Foto: Familie Sauder"
+- [ ] Bei den 4 Internet-Bildern Vermerk "Bildrechte: offen" durch Quelle ersetzen (Webseite nennen), falls sie bleiben

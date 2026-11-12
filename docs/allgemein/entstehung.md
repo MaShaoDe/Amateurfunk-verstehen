@@ -31,17 +31,17 @@ Mein selbstgebauter Computer war ein ELZET 80, aufgebaut aus Bausätzen der Firm
 
 <figure markdown>
   ![Computer Elzet-K mit zwei Diskettenlaufwerken und Tastatur](../images/entstehung/elzet-k.jpg){ width="80%" loading=lazy }
-  <figcaption>Ein ELZET 80 im Gehäuse «Elzet-K»: ein Computer mit 8-Zoll-Diskettenlaufwerken und einer eingebauten Festplatte mit 5 Megabyte. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+  <figcaption>Mein ELZET 80 im Gehäuse «Elzet-K»: ein Computer mit 8-Zoll-Diskettenlaufwerken und einer eingebauten Festplatte mit 5 Megabyte. <span class="bildrechte">Foto: Familie Sauder</span></figcaption>
 </figure>
 
 <figure markdown>
   ![Platine der Elzet-80-CPU-Karte mit Zilog Z80](../images/entstehung/cpu-karte.jpg){ width="90%" loading=lazy }
-  <figcaption>Die CPU-Karte des ELZET 80 mit dem Zilog-Z80-Prozessor. Diese Karte habe ich selbst aus einem Bausatz zusammengebaut. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+  <figcaption>Die CPU-Karte des ELZET 80 mit dem Zilog-Z80-Prozessor. Diese Karte habe ich selbst aus einem Bausatz zusammengebaut. <span class="bildrechte">Foto: Familie Sauder</span></figcaption>
 </figure>
 
 <figure markdown>
   ![Tragbarer Computer Elzet-P mit Bildschirm, Diskettenlaufwerken und Tastatur](../images/entstehung/elzet-p.jpg){ width="55%" loading=lazy }
-  <figcaption>Später kam der ELZET-P (Portable) mit 5,25-Zoll-Laufwerken. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+  <figcaption>Der ELZET-P (Portable) meines Vaters, mit 5,25-Zoll-Laufwerken. <span class="bildrechte">Foto: Familie Sauder</span></figcaption>
 </figure>
 
 
