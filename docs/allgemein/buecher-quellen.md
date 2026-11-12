@@ -42,10 +42,10 @@ Videos, Mathematik zum Üben und weitere Hilfen stehen auf [Lernvideos und Nachs
 
 ## Dank
 
-Mein Dank geht an den **Funkclub Idaburg (HB9ID)**.
+Mein Dank geht an den **[Funkclub Idaburg (HB9ID)](https://hb9id.ch){ target="_blank" rel="noopener" }**.
 
 !!! info "Offen"
-    Hier fehlt noch dein persönlicher Dank in eigenen Worten und der Link zur Webseite des Clubs.
+    Hier fehlt noch dein persönlicher Dank in eigenen Worten: wofür du dem Club dankst.
 
 ---
 
