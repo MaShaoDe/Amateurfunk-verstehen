@@ -100,6 +100,7 @@ nav:
       - Prüfungshilfen:
           - Lerncheckliste HB3: hb3/vk-lerncheckliste-hb3.md
           - Aussendungsarten HB3: hb3/uebungsblatt-aussendungsarten-hb3.md
+          - Übungsfragen HB3: hb3/uebungsfragen-hb3.md
   - HB9:
       - hb9/index.md
       - Einführung:
@@ -129,6 +130,7 @@ nav:
           - "16. Sicherheit und EMV": hb9/16-sicherheit-emv.md
           - "17. Amateurfunk in der Schweiz": hb9/17-amateurfunk-schweiz.md
           - "18. Vorbereitung auf die Prüfung": hb9/18-pruefungsvorbereitung.md
+          - Übungsfragen HB9: hb9/uebungsfragen-hb9.md
   - Allgemein:
       - allgemein/index.md
       - Was ist Amateurfunk?: allgemein/was-ist-amateurfunk.md
