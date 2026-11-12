@@ -188,7 +188,7 @@ und:
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-1" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-1.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-1" src="images/abbildung_5-1.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-1:** Vereinfachtes Strahlungsdiagramm eines horizontalen Halbwellendipols. Die stärkste Abstrahlung erfolgt quer zur Dipolachse.
 .
@@ -265,7 +265,7 @@ Bei einer vertikalen Groundplane ist die Polarisation grundsätzlich:
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-2" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-2.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-2" src="images/abbildung_5-2.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-2:** Vertikale Groundplane und vereinfachte horizontale Rundstrahlcharakteristik. In der Horizontalebene wird annähernd in alle Richtungen abgestrahlt.
 .
@@ -319,7 +319,7 @@ Sein Strahlungsdiagramm wäre eine Kugel.
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-5" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-5.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-5" src="images/abbildung_5-5.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-5:** Der isotrope Strahler ist eine theoretische Referenzantenne mit gleicher Abstrahlung in alle Raumrichtungen.
 .
@@ -520,7 +520,7 @@ oder:
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-3" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-3.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-3" src="images/abbildung_5-3.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-3:** Grundprinzip einer Yagi-Antenne mit Reflektor, gespeistem Element und Direktoren. Die Hauptstrahlrichtung zeigt zur Direktorenseite.
 .
@@ -596,7 +596,7 @@ Das Diagramm besitzt typischerweise:
   .
   .
 
-<div style="text-align:center;"><img alt="Abbildung 5-4" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-4.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-4" src="images/abbildung_5-4.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-4:** Vereinfachtes Richtdiagramm mit Hauptkeule, Nebenkeulen, Rückkeule und 3-dB-Öffnungswinkel.
 .
@@ -744,7 +744,7 @@ Ein horizontal montierter Halbwellendipol erzeugt grundsätzlich:
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-6" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-6.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-6" src="images/abbildung_5-6.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-6:** Horizontal montierter Halbwellendipol. Das elektrische Feld und damit die Polarisation liegen grundsätzlich horizontal.
 .
@@ -761,7 +761,7 @@ Wird derselbe Dipol vertikal montiert, besitzt er grundsätzlich:
 
 **vertikale Polarisation**
 
-<div style="text-align:center;"><img alt="Abbildung 5-7" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-7.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-7" src="images/abbildung_5-7.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-7:** Vertikal montierter Dipol mit vertikaler Polarisation.
 
@@ -787,7 +787,7 @@ Die Gesamtausdehnung entspricht ungefähr jener eines Halbwellendipols.
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-8" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-8.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-8" src="images/abbildung_5-8.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-8:** Grundform eines Faltdipols. Gegenüber dem einfachen gestreckten Dipol besitzt er bei typischer symmetrischer Ausführung einen höheren Speisepunktwiderstand.
 .
@@ -855,7 +855,7 @@ Dadurch entsteht eine ausgeprägte Richtwirkung.
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-9" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-9.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-9" src="images/abbildung_5-9.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-9:** Grundprinzip der HB9CV-Antenne. Zwei aktiv gekoppelte Elemente erzeugen durch geeignete Phasenlage eine Richtwirkung.
 .
@@ -891,7 +891,7 @@ Mehrere hintereinander angeordnete Schleifen können eine Richtantenne bilden.
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-10" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-10.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-10" src="images/abbildung_5-10.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-10:** Vereinfachte Quad-Richtantenne. Die Schleifenelemente liegen hintereinander entlang der Antennenachse.
 .
@@ -951,7 +951,7 @@ Sie besteht typischerweise aus:
   .
   .
 
-<div style="text-align:center;"><img alt="Abbildung 5-11" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-11.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-11" src="images/abbildung_5-11.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-11:** Prinzip einer Magnetic Loop. Die grosse Hauptschleife bildet gemeinsam mit dem variablen Kondensator einen abgestimmten Schwingkreis. Die kleine Schleife dient der HF-Kopplung.
 .
@@ -1044,7 +1044,7 @@ umgesetzt.
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-12" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-12.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-12" src="images/abbildung_5-12.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-12:** Prinzip einer Parabolantenne. Der Reflektor bündelt die elektromagnetische Energie zwischen Brennpunkt und Hauptstrahlrichtung.
 .
@@ -1113,7 +1113,7 @@ Sie ermöglicht einen günstigen Übergang zwischen:
   .
   .
 
-<div style="text-align:center;"><img alt="Abbildung 5-13" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-13.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-13" src="images/abbildung_5-13.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-13:** Vereinfachte Hornantenne als Übergang zwischen Wellenleiter und freiem Raum.
 .
@@ -1158,7 +1158,7 @@ interessant.
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 5-14" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-14.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-14" src="images/abbildung_5-14.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-14:** Helixantenne in axialer Betriebsweise. Die Hauptstrahlrichtung verläuft entlang der Längsachse der Helix.
 .
@@ -1199,7 +1199,7 @@ Die wichtigsten Grundformen sind:
   .
   .
 
-<div style="text-align:center;"><img alt="Abbildung 5-15" src="/HAM-Radio/educ/lizkurs/images/abbildung_5-15.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 5-15" src="images/abbildung_5-15.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 5-15:** Vereinfachter Vergleich verschiedener Polarisationen. Bei linearer Polarisation bleibt die Richtung des elektrischen Feldes konstant. Bei zirkularer beziehungsweise elliptischer Polarisation dreht sich der Feldvektor.
 .

@@ -155,7 +155,7 @@ Die Richtung des elektrischen Feldes ist definitionsgemäss:
 
 gerichtet.
 
-<div style="text-align:center;"><img alt="Abbildung 3-4" src="/HAM-Radio/educ/lizkurs/images/abbildung_3-4.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 3-4" src="images/abbildung_3-4.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 3-4:** Vereinfachte Darstellung eines elektrischen Feldes zwischen positiver und negativer Ladung. Die Feldrichtung ist definitionsgemäss von Plus nach Minus gerichtet.
 
@@ -233,7 +233,7 @@ Ein elektrischer Strom erzeugt ein magnetisches Feld.
 
 Fliesst Strom durch einen geraden Leiter, verlaufen die magnetischen Feldlinien kreisförmig um diesen Leiter.
 
-<div style="text-align:center;"><img alt="Abbildung 3-3" src="/HAM-Radio/educ/lizkurs/images/abbildung_3-3.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 3-3" src="images/abbildung_3-3.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 3-3:** Magnetfeld um einen stromdurchflossenen Leiter. Die Rechte-Hand-Regel zeigt den Zusammenhang zwischen technischer Stromrichtung und Richtung des Magnetfeldes.
 
@@ -364,7 +364,7 @@ Eine Änderung kann beispielsweise entstehen, indem:
 - sich der Leiter im Magnetfeld bewegt
 - sich die Lage zwischen Leiter und Magnetfeld verändert
 
-<div style="text-align:center;"><img alt="Abbildung 3-2" src="/HAM-Radio/educ/lizkurs/images/abbildung_3-2.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 3-2" src="images/abbildung_3-2.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 3-2:** Bewegung beziehungsweise Änderung eines Leiters im Magnetfeld kann eine elektrische Spannung induzieren. Dieses Grundprinzip begegnet uns beispielsweise bei Generatoren und Transformatoren.
 
@@ -403,7 +403,7 @@ Im Fernfeld einer Funkantenne stehen:
 
 jeweils senkrecht aufeinander.
 
-<div style="text-align:center;"><img alt="Abbildung 3-1" src="/HAM-Radio/educ/lizkurs/images/abbildung_3-1.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 3-1" src="images/abbildung_3-1.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 3-1:** Im Fernfeld stehen elektrisches Feld \(E\), magnetisches Feld \(H\) und Ausbreitungsrichtung einer elektromagnetischen Welle senkrecht aufeinander.
 

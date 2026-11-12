@@ -125,7 +125,7 @@ Eine vollständige Wiederholung bezeichnet man als:
 
 Danach beginnt die nächste Periode.
 
-<div style="text-align:center;"><img alt="Abbildung 2-1" src="/HAM-Radio/educ/lizkurs/images/abbildung_2-1.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 2-1" src="images/abbildung_2-1.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 2-1:** Eine vollständige Periode einer sinusförmigen Schwingung. Die Periodendauer \(T\) ist die Zeit zwischen zwei gleichen Punkten aufeinanderfolgender Schwingungen.
 
@@ -467,7 +467,7 @@ Die Einheit ist:
 
 Meter.
 
-<div style="text-align:center;"><img alt="Abbildung 2-2" src="/HAM-Radio/educ/lizkurs/images/abbildung_2-2.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 2-2" src="images/abbildung_2-2.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 2-2:** Die Wellenlänge \(\lambda\) ist der räumliche Abstand zwischen zwei Punkten gleicher Phase, beispielsweise zwischen zwei aufeinanderfolgenden Wellenbergen.
 
