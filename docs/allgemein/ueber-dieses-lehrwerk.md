@@ -659,9 +659,9 @@ Dieses Lehrwerk soll deshalb nicht nur zur Prüfung führen, sondern dazu beitra
 
 # Navigation
 
-[↑ Zurück zum Inhaltsverzeichnis](einfuehrung.md)
+[↑ Zurück zum Inhaltsverzeichnis](../hb9/einfuehrung.md)
 
-[Kapitel 1: Elektrische Grundlagen →](01-elektrische-grundlagen.md)
+[Kapitel 1: Elektrische Grundlagen →](../hb9/01-elektrische-grundlagen.md)
 
 ---
 
