@@ -90,7 +90,7 @@ Bei grossen und kleinen Leistungen helfen wieder die Vorsilben:
 
 Zum Üben gibt es das [Übungsblatt zu Spannung, Strom, Widerstand und Leistung](../../technik/uebungsblatt-spannung-strom-widerstand-leistung.md).
 
-**Weiter:** Lektion 6 (folgt).
+**Weiter:** [Lektion 6: Reihen- und Parallelschaltung](06-reihen-und-parallelschaltung.md)
 
 ---
 
