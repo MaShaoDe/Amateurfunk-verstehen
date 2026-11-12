@@ -29,25 +29,25 @@ Für den Ausdruck empfiehlt sich das PDF, sauber im Querformat aufbereitet mit w
 <tbody>
 <tr><td><strong>2200 m</strong></td><td>135,7 bis 137,8 kHz</td><td>LF</td><td>sekundär</td><td>nicht zulässig</td><td>1 W ERP</td><td>–</td><td>–</td></tr>
 <tr><td><strong>630 m</strong></td><td>472 bis 479 kHz</td><td>MF</td><td>sekundär</td><td>nicht zulässig</td><td>5 W EIRP</td><td>–</td><td>–</td></tr>
-<tr class="hb3-ja"><td><strong>160 m</strong></td><td>1,810 bis 1,850 MHz</td><td>MF</td><td>primär</td><td>nicht zulässig</td><td>1000 W</td><td>ja</td><td>100 W</td></tr>
-<tr class="hb3-ja"><td><strong>160 m</strong></td><td>1,850 bis 2,000 MHz</td><td>MF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>ja</td><td>100 W</td></tr>
-<tr class="hb3-ja"><td><strong>80 m</strong></td><td>3,500 bis 3,800 MHz</td><td>HF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>ja</td><td>100 W</td></tr>
+<tr class="hb3-ja"><td><strong>160 m</strong></td><td>1,810 bis 1,850 MHz</td><td>MF</td><td>primär</td><td>nicht zulässig</td><td>1000 W</td><td>✓</td><td>100 W</td></tr>
+<tr class="hb3-ja"><td><strong>160 m</strong></td><td>1,850 bis 2,000 MHz</td><td>MF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>✓</td><td>100 W</td></tr>
+<tr class="hb3-ja"><td><strong>80 m</strong></td><td>3,500 bis 3,800 MHz</td><td>HF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>✓</td><td>100 W</td></tr>
 <tr><td><strong>60 m</strong></td><td>5,3515 bis 5,3665 MHz</td><td>HF</td><td>sekundär</td><td>nicht zulässig</td><td>15 W EIRP</td><td>–</td><td>–</td></tr>
 <tr><td><strong>40 m</strong></td><td>7,000 bis 7,200 MHz</td><td>HF</td><td>primär</td><td>primär</td><td>1000 W</td><td>–</td><td>–</td></tr>
 <tr><td><strong>30 m</strong></td><td>10,100 bis 10,150 MHz</td><td>HF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>–</td><td>–</td></tr>
 <tr><td><strong>20 m</strong></td><td>14,000 bis 14,250 MHz</td><td>HF</td><td>primär</td><td>primär</td><td>1000 W</td><td>–</td><td>–</td></tr>
 <tr><td><strong>20 m</strong></td><td>14,250 bis 14,350 MHz</td><td>HF</td><td>primär</td><td>nicht zulässig</td><td>1000 W</td><td>–</td><td>–</td></tr>
 <tr><td><strong>17 m</strong></td><td>18,068 bis 18,168 MHz</td><td>HF</td><td>primär</td><td>primär</td><td>1000 W</td><td>–</td><td>–</td></tr>
-<tr class="hb3-ja"><td><strong>15 m</strong></td><td>21,000 bis 21,450 MHz</td><td>HF</td><td>primär</td><td>primär</td><td>1000 W</td><td>ja</td><td>100 W</td></tr>
+<tr class="hb3-ja"><td><strong>15 m</strong></td><td>21,000 bis 21,450 MHz</td><td>HF</td><td>primär</td><td>primär</td><td>1000 W</td><td>✓</td><td>100 W</td></tr>
 <tr><td><strong>12 m</strong></td><td>24,890 bis 24,990 MHz</td><td>HF</td><td>primär</td><td>primär</td><td>1000 W</td><td>–</td><td>–</td></tr>
-<tr class="hb3-ja"><td><strong>10 m</strong></td><td>28,000 bis 29,700 MHz</td><td>HF</td><td>primär</td><td>primär</td><td>1000 W</td><td>ja</td><td>100 W</td></tr>
+<tr class="hb3-ja"><td><strong>10 m</strong></td><td>28,000 bis 29,700 MHz</td><td>HF</td><td>primär</td><td>primär</td><td>1000 W</td><td>✓</td><td>100 W</td></tr>
 <tr><td><strong>6 m</strong></td><td>50,000 bis 52,000 MHz</td><td>VHF</td><td>sekundär</td><td>nicht zulässig</td><td>100 W</td><td>–</td><td>–</td></tr>
 <tr><td><strong>4 m</strong></td><td>70,000 bis 70,0375 MHz</td><td>VHF</td><td>sekundär</td><td>nicht zulässig</td><td>25 W ERP</td><td>–</td><td>–</td></tr>
 <tr><td><strong>4 m</strong></td><td>70,1125 bis 70,500 MHz</td><td>VHF</td><td>sekundär</td><td>nicht zulässig</td><td>25 W ERP</td><td>–</td><td>–</td></tr>
-<tr class="hb3-ja"><td><strong>2 m</strong></td><td>144,000 bis 146,000 MHz</td><td>VHF</td><td>primär</td><td>primär</td><td>1000 W</td><td>ja</td><td>50 W</td></tr>
-<tr class="hb3-ja"><td><strong>70 cm</strong></td><td>430,000 bis 435,000 MHz</td><td>UHF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>ja</td><td>50 W</td></tr>
-<tr class="hb3-ja"><td><strong>70 cm</strong></td><td>435,000 bis 438,000 MHz</td><td>UHF</td><td>primär</td><td>sekundär</td><td>1000 W</td><td>ja</td><td>50 W</td></tr>
-<tr class="hb3-ja"><td><strong>70 cm</strong></td><td>438,000 bis 440,000 MHz</td><td>UHF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>ja</td><td>50 W</td></tr>
+<tr class="hb3-ja"><td><strong>2 m</strong></td><td>144,000 bis 146,000 MHz</td><td>VHF</td><td>primär</td><td>primär</td><td>1000 W</td><td>✓</td><td>50 W</td></tr>
+<tr class="hb3-ja"><td><strong>70 cm</strong></td><td>430,000 bis 435,000 MHz</td><td>UHF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>✓</td><td>50 W</td></tr>
+<tr class="hb3-ja"><td><strong>70 cm</strong></td><td>435,000 bis 438,000 MHz</td><td>UHF</td><td>primär</td><td>sekundär</td><td>1000 W</td><td>✓</td><td>50 W</td></tr>
+<tr class="hb3-ja"><td><strong>70 cm</strong></td><td>438,000 bis 440,000 MHz</td><td>UHF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>✓</td><td>50 W</td></tr>
 <tr><td><strong>23 cm</strong></td><td>1240 bis 1260 MHz</td><td>UHF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>–</td><td>–</td></tr>
 <tr><td><strong>23 cm</strong></td><td>1260 bis 1270 MHz</td><td>UHF</td><td>sekundär</td><td>sekundär, nur Uplink</td><td>1000 W</td><td>–</td><td>–</td></tr>
 <tr><td><strong>23 cm</strong></td><td>1270 bis 1300 MHz</td><td>UHF</td><td>sekundär</td><td>nicht zulässig</td><td>1000 W</td><td>–</td><td>–</td></tr>
