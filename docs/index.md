@@ -41,7 +41,7 @@ Wähle deinen Weg:
 
 ## Gut zu wissen
 
-- [Über dieses Lehrwerk](allgemein/ueber-dieses-lehrwerk.md): wer es gemacht hat, warum und wie es seit 1984 entstand
+- [Wie das Lehrwerk entstand](allgemein/entstehung.md): die Geschichte seit 1984, von Karopapier bis KI
 - [Was ist Amateurfunk?](allgemein/was-ist-amateurfunk.md): was du damit machen kannst und wozu die Prüfung da ist
 - [So lernst du: dein eigener Plan](allgemein/lernplan.md): finde heraus, wo du anfängst
 - [Die Prüfung auf einen Blick](allgemein/pruefung.md): Ablauf, Kosten, Anmeldung und Taschenrechner

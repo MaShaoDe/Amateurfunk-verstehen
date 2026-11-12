@@ -28,6 +28,7 @@ Diese Datei gehört nicht zur Webseite. Sie ist die interne Liste, was vor dem S
 - [ ] README, Mitmachen-Anleitung (CONTRIBUTING) und Lizenzdatei prüfen
 - [ ] Tag und Release setzt Marcel Sauder selbst
 
-## Bildrechte der Entstehungsseite
-- [ ] Rechte der 7 Fotos in `docs/images/entstehung/` klären (Urheber nennen oder durch eigene Fotos ersetzen). Die Werbung und der Prospekt von WordStar und das CP/M-Handbuch sind Werke Dritter. Sie sind nicht von der Lizenz CC BY 4.0 gedeckt.
+## Bildrechte der Entstehungsseite (`docs/allgemein/entstehung.md`)
+- [ ] 4 Bilder stammen aus dem Internet (CP/M-Bildschirm, CP/M-Plus-Handbuch, WordStar-Werbung, WordStar-Prospekt). Sie sind Werke Dritter und nicht von CC BY 4.0 gedeckt. Vor der Veröffentlichung ersetzen (eigener Screenshot aus der CP/M-Emulation, eigenes Foto des Handbuchs) oder entfernen
+- [ ] 3 Bilder (ELZET-K, CPU-Karte, ELZET-P) lagen auf der eigenen Festplatte. Urheber unklar. Eigene Fotos verwenden oder Urheber nennen
 - [ ] Danach den Vermerk "Bildrechte: offen" unter den Bildern entfernen
