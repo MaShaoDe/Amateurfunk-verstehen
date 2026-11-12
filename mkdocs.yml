@@ -97,14 +97,16 @@ nav:
       - Was ist Amateurfunk?: allgemein/was-ist-amateurfunk.md
       - So lernst du: allgemein/lernplan.md
       - Die Prüfung auf einen Blick: allgemein/pruefung.md
-      - Frequenztabelle: allgemein/uebungsblatt-frequenztabelle.md
-      - Buchstabieralphabet: allgemein/uebungsblatt-buchstabieralphabet.md
-      - Q-Codes für die Prüfung: allgemein/uebungsblatt-q-codes-pruefung.md
-      - Alle Q-Codes: allgemein/uebungsblatt-q-codes-alle.md
-      - U, R, I und Leistung: allgemein/uebungsblatt-spannung-strom-widerstand-leistung.md
-      - Hilfsmittel zum Download: allgemein/downloads.md
       - Lernvideos und Nachschlagewerke: allgemein/lernquellen.md
       - Impressum und Datenschutz: allgemein/impressum.md
+  - Technisches:
+      - technik/index.md
+      - Frequenztabelle: technik/uebungsblatt-frequenztabelle.md
+      - Buchstabieralphabet: technik/uebungsblatt-buchstabieralphabet.md
+      - Q-Codes für die Prüfung: technik/uebungsblatt-q-codes-pruefung.md
+      - Alle Q-Codes: technik/uebungsblatt-q-codes-alle.md
+      - U, R, I und Leistung: technik/uebungsblatt-spannung-strom-widerstand-leistung.md
+      - Hilfsmittel zum Download: technik/downloads.md
 
 extra:
   generator: false

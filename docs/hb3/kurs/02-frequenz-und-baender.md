@@ -47,7 +47,7 @@ $$\lambda = \frac{300}{f}$$
     - 145 MHz: 300 / 145 ≈ 2,1 m. Das Band heisst **"2-m-Band"**.
     - 435 MHz: 300 / 435 ≈ 0,69 m. Das Band heisst **"70-cm-Band"**.
 
-Die Namen sind also gerundet. Die genauen Frequenzen eines Bands stehen in der [Frequenztabelle](../../allgemein/uebungsblatt-frequenztabelle.md). Dort siehst du auch, welche Bänder du mit HB3 nutzen darfst.
+Die Namen sind also gerundet. Die genauen Frequenzen eines Bands stehen in der [Frequenztabelle](../../technik/uebungsblatt-frequenztabelle.md). Dort siehst du auch, welche Bänder du mit HB3 nutzen darfst.
 
 !!! tip "Prüfungstipp"
     Rechne zuerst alles in **MHz** um, bevor du die Formel einsetzt. So passt die Zahl 300 und du bekommst die Wellenlänge direkt in Metern.

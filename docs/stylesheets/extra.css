@@ -247,3 +247,6 @@ body { font-family: var(--md-text-font); }
 .md-typeset figure img { max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,.25); }
 .md-typeset figcaption { font-size: .8rem; margin-top: .6em; opacity: .85; }
 .md-typeset figcaption .bildrechte { display: block; font-size: .7rem; opacity: .7; }
+
+/* Technisches: Pastell-Gold */
+body[data-area="technik"] { --md-primary-fg-color: #E9D07A; --md-primary-fg-color--dark: #DFC25E; --md-primary-bg-color: #3A2C00; --md-primary-bg-color--light: #54400A; --md-accent-fg-color: #8A6A00; --md-typeset-a-color: #7A5C00; }

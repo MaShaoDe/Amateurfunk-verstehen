@@ -1598,7 +1598,7 @@ Nach bestandener Prüfung beginnt der interessanteste Teil:
 
 [← Kapitel 17: Amateurfunk in der Schweiz](17-amateurfunk-schweiz.md)
 
-[Hilfsmittel zum Download →](../allgemein/downloads.md)
+[Hilfsmittel zum Download →](../technik/downloads.md)
 
 [↑ Zurück zum Inhaltsverzeichnis](einfuehrung.md)
 
