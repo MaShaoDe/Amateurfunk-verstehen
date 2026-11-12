@@ -24,7 +24,7 @@ Die Inhalte dieser Seiten stehen unter der Lizenz [CC BY 4.0](https://creativeco
 
 > © 1984 bis 2026 FerienBSD aka Marcel Sauder, Lizenz CC BY 4.0
 
-Material des BAKOM und anderer Stellen ist davon ausgenommen. Es wird nur verlinkt. Wie das Lehrwerk entstand, steht unter [Über dieses Lehrwerk](ueber-dieses-lehrwerk.md).
+Material des BAKOM und anderer Stellen ist davon ausgenommen. Es wird nur verlinkt. Wie das Lehrwerk entstand, steht unter [Wie das Lehrwerk entstand](entstehung.md).
 
 ## Haftung
 
