@@ -50,7 +50,4 @@ Wähle deinen Weg:
 
 --8<-- "vergleich-kurz-start.md"
 
-!!! note "Im Aufbau"
-    Diese Version des Lehrwerks wird gerade neu aufgebaut. Der bisherige Kurs bleibt unter seiner alten Adresse erreichbar.
-
 Autor: Marcel Sauder. Inhalte unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
