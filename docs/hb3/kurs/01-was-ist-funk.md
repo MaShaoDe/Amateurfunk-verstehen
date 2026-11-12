@@ -97,7 +97,7 @@ Rechne selbst. Danach kannst du die Resultate aufklappen.
 - Die Frequenz in Hz sagt, wie oft die Welle pro Sekunde schwingt.
 - Wellenlänge in m = 300 geteilt durch Frequenz in MHz.
 
-**Weiter:** Lektion 2 (folgt).
+**Weiter:** [Lektion 2: Frequenz und Bänder](02-frequenz-und-baender.md)
 
 ---
 
