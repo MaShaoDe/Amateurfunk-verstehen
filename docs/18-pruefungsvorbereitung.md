@@ -570,7 +570,7 @@ g = 20\cdot\lg\left(\frac{U_2}{U_1}\right)
 Einige Grössenordnungen sollte man kennen:
 
 | Änderung | Leistungsverhältnis |
-| --- | --- |
+| --- | ---: |
 | +3 dB | ungefähr doppelte Leistung |
 | -3 dB | ungefähr halbe Leistung |
 | +10 dB | zehnfache Leistung |

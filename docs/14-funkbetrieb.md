@@ -341,7 +341,7 @@ angegeben.
 Vereinfacht:
 
 | Wert | Bedeutung |
-| --- | --- |
+| ---: | --- |
 | 1 | nicht lesbar |
 | 2 | kaum lesbar |
 | 3 | mit Schwierigkeiten lesbar |

@@ -153,7 +153,7 @@ Wirkungsgrad:
 ### 9. SI-Vorsätze
 
 | Vorsatz | Zeichen | Faktor |
-| --- | --- | --- |
+| --- | ---: | ---: |
 | nano | n | `10⁻⁹` |
 | mikro | µ | `10⁻⁶` |
 | milli | m | `10⁻³` |
