@@ -1379,7 +1379,7 @@ Die genaue Spannung hängt von der verwendeten Logikfamilie ab.
 Ein NOT-Gatter kehrt den Eingang um.
 
 | Eingang | Ausgang |
-| --- | --- |
+| ---: | ---: |
 | 0 | 1 |
 | 1 | 0 |
 
@@ -1388,7 +1388,7 @@ Ein NOT-Gatter kehrt den Eingang um.
 Ein AND-Gatter liefert nur dann 1, wenn **alle** Eingänge 1 sind.
 
 | A | B | Ausgang |
-| --- | --- | --- |
+| ---: | ---: | ---: |
 | 0 | 0 | 0 |
 | 0 | 1 | 0 |
 | 1 | 0 | 0 |
@@ -1399,7 +1399,7 @@ Ein AND-Gatter liefert nur dann 1, wenn **alle** Eingänge 1 sind.
 Ein OR-Gatter liefert 1, wenn **mindestens ein** Eingang 1 ist.
 
 | A | B | Ausgang |
-| --- | --- | --- |
+| ---: | ---: | ---: |
 | 0 | 0 | 0 |
 | 0 | 1 | 1 |
 | 1 | 0 | 1 |

@@ -125,7 +125,7 @@ Eine vollständige Wiederholung bezeichnet man als:
 
 Danach beginnt die nächste Periode.
 
-![](/HAM-Radio/educ/lizkurs/images/abbildung_2-1.png)
+<div style="text-align:center;"><img alt="Abbildung 2-1" src="/HAM-Radio/educ/lizkurs/images/abbildung_2-1.png" style="width:60%; height:auto;"></div>
 
 **Abbildung 2-1:** Eine vollständige Periode einer sinusförmigen Schwingung. Die Periodendauer \(T\) ist die Zeit zwischen zwei gleichen Punkten aufeinanderfolgender Schwingungen.
 
@@ -427,7 +427,7 @@ Amateurfunk verwendet Frequenzen von sehr tiefen Frequenzbereichen bis weit in d
 Einige typische Grössenordnungen sind:
 
 | Amateurfunkbezeichnung | typische Frequenz |
-| --- | --- |
+| --- | ---: |
 | 80-m-Band | einige MHz |
 | 40-m-Band | etwa 7 MHz |
 | 20-m-Band | etwa 14 MHz |
@@ -467,7 +467,7 @@ Die Einheit ist:
 
 Meter.
 
-![](/HAM-Radio/educ/lizkurs/images/abbildung_2-2.png)
+<div style="text-align:center;"><img alt="Abbildung 2-2" src="/HAM-Radio/educ/lizkurs/images/abbildung_2-2.png" style="width:60%; height:auto;"></div>
 
 **Abbildung 2-2:** Die Wellenlänge \(\lambda\) ist der räumliche Abstand zwischen zwei Punkten gleicher Phase, beispielsweise zwischen zwei aufeinanderfolgenden Wellenbergen.
 
