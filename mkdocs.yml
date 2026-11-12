@@ -54,6 +54,7 @@ nav:
   - Start: index.md
   - HB3:
       - hb3/index.md
+      - Lektion 1, Was ist Funk?: hb3/kurs/01-was-ist-funk.md
       - Vorkurs HB3: hb3/vk-mathematik-vorkurs-hb3.md
       - Übungsreihe HB3: hb3/vk-uebungsreihe-hb3.md
       - Resultate HB3: hb3/vk-uebungsreihe-hb3-resultate.md
