@@ -1,8 +1,5 @@
 # Impressum und Datenschutz
 
-!!! warning "Entwurf, vor der Veröffentlichung ergänzen"
-    Die GitHub-Links funktionieren erst, wenn das Projekt öffentlich ist. Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
-
 ## Verantwortlich für den Inhalt
 
 | Angabe | Inhalt |
@@ -28,7 +25,7 @@ Die Inhalte dieser Seiten stehen unter der Lizenz [CC BY 4.0](https://creativeco
 
 Material des BAKOM und anderer Stellen ist davon ausgenommen. Es wird nur verlinkt.
 
-Einzelne historische Abbildungen auf der Seite [Wie das Lehrwerk entstand](entstehung.md) stammen aus dem Internet. Sie sind als solche gekennzeichnet und nicht unter CC BY 4.0 lizenziert. Wer Rechte an einem dieser Bilder hat und es nicht auf dieser Seite sehen möchte, meldet sich bitte über die E-Mail-Adresse oben. Das Bild wird dann umgehend entfernt. Wie das Lehrwerk entstand, steht unter [Wie das Lehrwerk entstand](entstehung.md).
+Einzelne historische Abbildungen auf der Seite [Wie das Lehrwerk entstand](entstehung.md) stammen aus dem Internet. Sie sind als solche gekennzeichnet und nicht unter CC BY 4.0 lizenziert. Wer Rechte an einem dieser Bilder hat und es nicht auf dieser Seite sehen möchte, meldet sich bitte über die E-Mail-Adresse oben. Das Bild wird dann umgehend entfernt.
 
 ## Haftung
 
