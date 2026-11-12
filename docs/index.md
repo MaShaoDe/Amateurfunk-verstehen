@@ -45,9 +45,9 @@ Wähle deinen Weg:
 - [So lernst du: dein eigener Plan](allgemein/lernplan.md): finde heraus, wo du anfängst
 - [Die Prüfung auf einen Blick](allgemein/pruefung.md): Ablauf, Kosten, Anmeldung und Taschenrechner
 
-## Was ist der Unterschied?
+## Kurz verglichen
 
---8<-- "vergleich-hb3-hb9.md"
+--8<-- "vergleich-kurz-start.md"
 
 !!! note "Im Aufbau"
     Diese Version des Lehrwerks wird gerade neu aufgebaut. Der bisherige Kurs bleibt unter seiner alten Adresse erreichbar.
