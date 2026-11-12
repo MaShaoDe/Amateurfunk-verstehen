@@ -4,6 +4,7 @@ Dieser Bereich gilt für HB3 und HB9.
 
 ## Zum Einstieg
 
+- [Über dieses Lehrwerk](ueber-dieses-lehrwerk.md): wer es gemacht hat, warum und wie es entstand (seit 1984)
 - [Was ist Amateurfunk?](was-ist-amateurfunk.md)
 - [So lernst du: dein eigener Plan](lernplan.md)
 - [Die Prüfung auf einen Blick](pruefung.md)

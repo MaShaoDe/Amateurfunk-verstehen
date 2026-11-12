@@ -10,4 +10,4 @@ Die aktuelle Fassung findest du auf der Amateurfunk-Seite des BAKOM: [BAKOM Amat
 
 ---
 
-*Inhalte dieser Seiten: © 2026 FerienBSD aka Marcel Sauder, Lizenz CC BY 4.0. Material des BAKOM ist davon ausgenommen und wird nur verlinkt.*
+*Inhalte dieser Seiten: © 1984 bis 2026 FerienBSD aka Marcel Sauder, Lizenz CC BY 4.0. Material des BAKOM ist davon ausgenommen und wird nur verlinkt.*
