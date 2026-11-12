@@ -5,7 +5,7 @@
     - Wie sich Strom und Spannung in der Parallelschaltung verhalten
     - Wie du den Gesamtwiderstand berechnest
 
-*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 5](05-ohmsches-gesetz-und-leistung.md).*
+*Dauer: etwa 40 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 5](05-ohmsches-gesetz-und-leistung.md).*
 
 ## Die Reihenschaltung
 
@@ -78,6 +78,38 @@ So gehst du vor:
 !!! tip "Prüfungstipp"
     Schätze zuerst: Parallel muss das Ergebnis kleiner sein als der kleinste Widerstand. Wenn dein Resultat grösser ist, hast du dich verrechnet.
 
+## Die Spannungsquelle
+
+Eine **Spannungsquelle** liefert eine Spannung, zum Beispiel eine Batterie, ein Akku, ein Netzgerät oder eine Solarzelle. Eine ideale Quelle hält ihre Spannung konstant, egal wie viel Strom fliesst.
+
+Eine echte Quelle hat einen **Innenwiderstand R<sub>i</sub>**. Du kannst sie dir als ideale Quelle mit einem Widerstand in Reihe vorstellen.
+
+- **Leerlauf:** Es fliesst kein Strom. Die Klemmenspannung ist gleich der Leerlaufspannung.
+- **Belastung:** Es fliesst Strom I. Am Innenwiderstand fällt die Spannung I · R<sub>i</sub> ab. Die Klemmenspannung sinkt.
+- **Kurzschluss:** Die Klemmen sind direkt verbunden. Es fliesst ein sehr grosser Strom, nur der Innenwiderstand begrenzt ihn. Das kann gefährlich werden, darum gehört eine Sicherung in die Zuleitung.
+
+!!! example "Beispiel"
+    Eine Quelle hat im Leerlauf 12,0 V. Bei 2 A sinkt die Klemmenspannung auf 11,6 V.
+
+    Spannungsabfall im Inneren: 12,0 − 11,6 = 0,4 V. R<sub>i</sub> = 0,4 / 2 = **0,2 Ω**
+
+Eine **Stromquelle** ist das Gegenstück: Sie hält den **Strom** konstant, unabhängig von der angeschlossenen Last. Das kommt vor allem in elektronischen Schaltungen vor, zum Beispiel bei LED-Treibern. Eine Batterie ist normalerweise eine Spannungsquelle.
+
+### Batterien und Akkus
+
+Eine Batterie wandelt chemische Energie in elektrische um. Ein Akku ist wiederaufladbar. Packs bestehen aus mehreren Zellen.
+
+- **Zellen in Reihe:** Die Spannungen addieren sich. 4 Zellen mit je 1,5 V ergeben **6 V**.
+- **Zellen parallel:** Die Spannung bleibt gleich, die Kapazität und die mögliche Stromabgabe werden grösser.
+
+Auf Akkus stehen zwei Angaben:
+
+- **Ah (Amperestunden):** Ladungsmenge. 5 Ah können 5 A während 1 Stunde oder 1 A während 5 Stunden liefern.
+- **Wh (Wattstunden):** Energiemenge. Es gilt W = U · Ah.
+
+!!! example "Beispiel"
+    Ein Akku mit 12 V und 5 Ah enthält W = 12 · 5 = **60 Wh**.
+
 ## Mini-Übung
 
 1. Widerstände mit 47 Ω, 100 Ω und 220 Ω liegen in Reihe. Wie gross ist der Gesamtwiderstand?
@@ -85,6 +117,10 @@ So gehst du vor:
 3. Zwei Widerstände mit je 100 Ω liegen parallel. Wie gross ist der Gesamtwiderstand?
 4. 12 Ω und 4 Ω liegen parallel. Wie gross ist der Gesamtwiderstand?
 5. An 12 V liegen zwei Widerstände mit je 12 Ω parallel. Wie gross ist der Gesamtstrom?
+6. Eine Quelle hat 12,0 V im Leerlauf und 11,5 V bei 1 A Belastung. Wie gross ist der Innenwiderstand?
+7. Vier Zellen mit je 1,2 V liegen in Reihe. Wie gross ist die Gesamtspannung?
+8. Ein Akku hat 12 V und 7 Ah. Wie viele Wattstunden sind das?
+9. Was hält eine Stromquelle konstant?
 
 ??? success "Resultate anzeigen"
 
@@ -95,6 +131,10 @@ So gehst du vor:
     | 3 | R = 100 / 2 = 50 Ω |
     | 4 | R = (12 · 4) / (12 + 4) = 48 / 16 = 3 Ω |
     | 5 | Jeder Zweig: 12 / 12 = 1 A, gesamt 2 A |
+    | 6 | R<sub>i</sub> = 0,5 / 1 = 0,5 Ω |
+    | 7 | 4 · 1,2 = 4,8 V |
+    | 8 | 12 · 7 = 84 Wh |
+    | 9 | den Strom |
 
 ## Das Wichtigste in 3 Sätzen
 

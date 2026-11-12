@@ -5,7 +5,7 @@
     - Wie AM, FM und SSB funktionieren
     - Was Bandbreite bedeutet
 
-*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 16](16-oszillator-und-pll.md).*
+*Dauer: etwa 40 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 16](16-oszillator-und-pll.md).*
 
 ## Träger und Modulation
 
@@ -24,6 +24,10 @@ Die **Amplitude** des Trägers ändert sich im Takt der NF.
 - Es entstehen zwei **Seitenbänder** links und rechts vom Träger
 - Die belegte Bandbreite ist etwa doppelt so gross wie die höchste NF-Frequenz, bei Sprache typisch etwa 6 kHz
 - Einfach, aber nicht effizient: der Träger enthält keine Information und braucht viel Leistung
+- Der **Modulationsgrad** m sagt, wie stark der Träger moduliert wird: m = Û<sub>NF</sub> / Û<sub>Träger</sub>. Bei 100 % geht die Hüllkurve gerade bis auf null. Über 100 % ist das Signal übermoduliert und verzerrt.
+
+!!! example "Beispiel Modulationsgrad"
+    Der Träger hat 10 V, die NF 5 V: m = 5 / 10 = 0,5 = **50 %**
 
 ## FM: Frequenzmodulation
 
@@ -32,6 +36,13 @@ Die **Frequenz** des Trägers ändert sich im Takt der NF. Die Höhe bleibt glei
 - Die belegte Bandbreite hängt vom Frequenzhub und von der NF-Frequenz ab. Für Schmalband-FM (Sprechfunk) sind Empfangsfilter mit etwa 12 bis 15 kHz üblich. Das ist nicht dasselbe wie der Kanalabstand.
 - Wenig empfindlich gegen Störungen, die die Höhe verändern, darum klare Wiedergabe
 - Üblich auf VHF und UHF, zum Beispiel über Relais (Repeater)
+- Der **Frequenzhub** Δf ist die Abweichung der Trägerfrequenz von der Mittenfrequenz. Er hängt von der Lautstärke ab, nicht von der Tonhöhe.
+- Die Bandbreite rechnest du näherungsweise nach **Carson**: B = 2 · (Δf + f<sub>NF</sub>). Die Formel steht in der BAKOM-Formelsammlung.
+
+!!! example "Beispiel Bandbreite"
+    Hub 2,5 kHz, höchste NF 3 kHz: B = 2 · (2,5 + 3) = **11 kHz**
+
+Bandbreite und Kanalabstand sind nicht dasselbe.
 
 ## SSB: Einseitenband
 
@@ -45,6 +56,29 @@ Bei SSB (single sideband) wird der Träger unterdrückt und nur **ein Seitenband
 ## CW: Telegrafie
 
 Bei CW wird der Träger ein- und ausgetastet, in Morsezeichen. Die Bandbreite ist sehr klein, nur wenige hundert Hz. CW kommt mit schwachen Signalen am weitesten.
+
+## Phasenmodulation und digitale Verfahren
+
+Bei der **Phasenmodulation (PM)** wird die Phase des Trägers verändert. Sie ist mit FM verwandt.
+
+Bei **digitalen Betriebsarten** werden Amplitude, Frequenz oder Phase des Trägers in festen Stufen (Zuständen) verändert. So werden Nullen und Einsen übertragen.
+
+## Die Aussendungsbezeichnung
+
+Jede Aussendungsart hat ein Kürzel aus 3 Zeichen:
+
+1. Zeichen: **Modulationsart** des Trägers
+2. Zeichen: **Art des Signals**
+3. Zeichen: **Art der Information**
+
+| Kürzel | Bedeutung |
+| --- | --- |
+| A1A | CW, Telegrafie |
+| A3E | AM-Telefonie |
+| J3E | SSB-Telefonie |
+| F3E | FM-Telefonie |
+
+Beispiel J3E: J = Einseitenband mit unterdrücktem Träger, 3 = ein analoger Kanal, E = Telefonie.
 
 ## Im Vergleich
 
@@ -72,6 +106,9 @@ Die Kürzel der Aussendungsarten findest du im [Übungsblatt Aussendungsarten](.
 3. Welche Art hat die kleinste Bandbreite von AM, FM und SSB?
 4. Wie gross ist die AM-Bandbreite bei einer höchsten NF-Frequenz von 3 kHz?
 5. Welches Seitenband ist üblich bei 7 MHz?
+6. Der Träger hat 20 V, die NF 10 V. Wie gross ist der Modulationsgrad?
+7. Hub 2,5 kHz, höchste NF 3 kHz. Wie gross ist die FM-Bandbreite nach Carson?
+8. Was bedeutet J3E?
 
 ??? success "Resultate anzeigen"
 
@@ -82,6 +119,9 @@ Die Kürzel der Aussendungsarten findest du im [Übungsblatt Aussendungsarten](.
     | 3 | SSB |
     | 4 | 2 · 3 = 6 kHz |
     | 5 | das untere (LSB) |
+    | 6 | m = 10 / 20 = 0,5 = 50 % |
+    | 7 | B = 2 · (2,5 + 3) = 11 kHz |
+    | 8 | SSB-Telefonie |
 
 ## Das Wichtigste in 3 Sätzen
 

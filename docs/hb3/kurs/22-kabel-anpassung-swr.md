@@ -5,7 +5,7 @@
     - Was 50 Ω und SWR bedeuten
     - Wie Kabeldämpfung wirkt
 
-*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 21](21-antennen.md).*
+*Dauer: etwa 40 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 21](21-antennen.md).*
 
 ## Das Koaxialkabel
 
@@ -30,6 +30,22 @@ Jedes Kabel schluckt einen Teil der Leistung. Das heisst **Dämpfung** und wird 
     Ein Kabel dämpft 3 dB. Der Sender gibt 100 W ab. An der Antenne kommen nur **50 W** an.
 
 Darum nimmt man auf UKW kurze Kabel mit guter Qualität.
+
+## Verkürzungsfaktor
+
+In einem Kabel breitet sich die Welle **langsamer** aus als im freien Raum. Das Verhältnis heisst **Verkürzungsfaktor** k<sub>v</sub>. Für Koaxkabel mit Polyethylen-Isolation ist er etwa **0,66**. Die Wellenlänge im Kabel ist darum kürzer.
+
+!!! example "Beispiel"
+    Bei 14,2 MHz ist die Wellenlänge im freien Raum 300 / 14,2 = 21,1 m. Im Kabel sind es 21,1 · 0,66 = **etwa 13,9 m**.
+
+## Symmetrisch und unsymmetrisch
+
+- **Koaxkabel** sind **unsymmetrische** Leitungen: Innenleiter und Geflecht haben unterschiedliche Rollen.
+- **Zweidrahtleitungen** (offene Leitungen) sind **symmetrisch**: Beide Leiter sind gleichwertig.
+
+Zwischen beiden vermittelt ein **Balun**. Fehlt er, kann HF als **Mantelwelle** aussen auf dem Koaxkabel fliessen. Das Kabel strahlt dann mit und kann Störungen verursachen.
+
+Für sehr hohe Frequenzen (Mikrowellen, GHz) gibt es **Hohlleiter**, das sind Metallrohre, in denen die Welle geführt wird.
 
 ## Anpassung
 
@@ -56,7 +72,10 @@ $$SWR = \frac{Z_{gross}}{Z_{klein}}$$
 !!! example "Beispiel 2"
     Antenne mit 25 Ω an einem 50-Ω-System: SWR = 50 / 25 = **2 : 1**
 
-Ein SWR von 2 : 1 bedeutet, dass etwa 11 % der Leistung reflektiert werden. Bei 3 : 1 sind es etwa 25 %.
+Aus dem SWR s folgt der **Reflexionsfaktor** r = (s − 1) / (s + 1). Die reflektierte Leistung ist r². Beide Formeln stehen in der BAKOM-Formelsammlung.
+
+!!! example "Beispiel"
+    SWR 2 : 1: r = 1 / 3. Reflektiert werden r² = 1 / 9, also **etwa 11 %** der Leistung. Bei 3 : 1 sind es etwa 25 %.
 
 ## Folgen schlechter Anpassung
 
@@ -81,6 +100,9 @@ Bei einem SWR bis etwa 1,5 : 1 ist meist alles in Ordnung. Wichtig ist, dass du 
 3. Was bedeutet SWR 1 : 1?
 4. Ein Kabel dämpft 3 dB. Der Sender gibt 20 W ab. Wie viel kommt an?
 5. Wie wirkt sich eine höhere Frequenz auf die Kabeldämpfung aus?
+6. Ein Koaxkabel hat k<sub>v</sub> = 0,66. Wie lang ist eine Wellenlänge im Kabel bei einer Wellenlänge von 10 m im freien Raum?
+7. Ist ein Koaxkabel symmetrisch oder unsymmetrisch?
+8. Wie viel Prozent der Leistung werden bei SWR 2 : 1 reflektiert?
 
 ??? success "Resultate anzeigen"
 
@@ -91,6 +113,9 @@ Bei einem SWR bis etwa 1,5 : 1 ist meist alles in Ordnung. Wichtig ist, dass du 
     | 3 | perfekte Anpassung, keine Reflexion |
     | 4 | 10 W (3 dB halbieren die Leistung) |
     | 5 | Die Dämpfung wird grösser |
+    | 6 | 10 · 0,66 = 6,6 m |
+    | 7 | unsymmetrisch |
+    | 8 | etwa 11 % |
 
 ## Das Wichtigste in 3 Sätzen
 

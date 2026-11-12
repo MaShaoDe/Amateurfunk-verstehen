@@ -5,7 +5,7 @@
     - Zu wissen, was die Ionosphäre macht
     - Zu beurteilen, welches Band wann geeignet ist
 
-*Dauer: etwa 25 Minuten. Voraussetzung: [Lektion 22](22-kabel-anpassung-swr.md).*
+*Dauer: etwa 35 Minuten. Voraussetzung: [Lektion 22](22-kabel-anpassung-swr.md).*
 
 ## Die Wege einer Funkwelle
 
@@ -27,6 +27,37 @@ Die **Ionosphäre** ist eine Schicht in grosser Höhe. Sie besteht aus elektrisc
 Ob ein Band offen ist, hängt von Tageszeit, Jahreszeit und Sonnenaktivität ab. Die Sonnenaktivität schwankt in einem Zyklus von rund 11 Jahren. Bei hoher Aktivität sind die hohen Kurzwellenbänder (zum Beispiel 10 m) offen, bei niedriger eher nicht.
 
 Zwischen dem Ende der Bodenwelle und der Stelle, wo die Raumwelle landet, liegt eine **tote Zone** ohne Empfang.
+
+## E-Schicht und Sporadic E
+
+Über der D-Schicht liegt die **E-Schicht**. Sie kann Kurzwellen zur Erde zurückführen. Gelegentlich bilden sich örtlich begrenzte, stark ionisierte Bereiche, die **Sporadic E** (Es) heissen. Auf 10 m ergeben sich dadurch oft überraschend starke Verbindungen über mittlere Distanzen (**Short Skip**, meist unter etwa 1 000 km). Auch im VHF-Bereich sind dadurch ungewöhnliche Reichweiten möglich.
+
+## Abstrahlwinkel
+
+- **Flacher Abstrahlwinkel:** die Welle geht weit weg, gut für **DX**
+- **Steiler Abstrahlwinkel:** die Welle kommt nach kurzer Strecke zurück, gut für kürzere Verbindungen
+
+## MUF und LUF
+
+- **MUF** (maximal nutzbare Frequenz): die höchste Frequenz, die auf einem Funkweg noch von der Ionosphäre zurückgeführt wird. Darüber geht die Welle hindurch in den Weltraum. Die MUF hängt **nicht von der Sendeleistung** ab.
+- **LUF** (niedrigste nutzbare Frequenz): darunter ist die Absorption zu stark oder das Signal zu schwach.
+
+Nutzbar ist der Bereich zwischen LUF und MUF. Tagsüber und bei hoher Sonnenaktivität liegt die MUF höher, die hohen Bänder wie 15 m und 10 m werden offen. Nachts und bei niedriger Aktivität sind die tiefen Bänder besser.
+
+Bei einer starken Sonneneruption kann die D-Schicht plötzlich stark absorbieren, und die Kurzwelle fällt für kurze Zeit aus. Das heisst **Mögel-Dellinger-Effekt**.
+
+## Fading
+
+**Fading** (Schwund) ist das Schwanken der Signalstärke, obwohl sich Sender und Empfänger nicht bewegen. Ursache ist meist, dass das Signal auf mehreren Wegen mit unterschiedlicher Länge ankommt und sich die Wellen verstärken oder auslöschen.
+
+## Besonderes auf VHF und UHF
+
+Auf 2 m und 70 cm herrscht die direkte Ausbreitung vor. Es gibt aber besondere Erscheinungen:
+
+- **Inversion und Tropo:** Bei einer Temperaturinversion wird die Welle zur Erde zurückgebogen. Das gibt **Überreichweiten** von mehreren hundert Kilometern.
+- **Aurora:** Bei starker geomagnetischer Aktivität streuen ionisierte Bereiche VHF-Signale. Sie klingen rau und verzerrt. Das ist vor allem im Norden interessant.
+- **Meteor Scatter:** Meteore hinterlassen kurzzeitig ionisierte Spuren, an denen VHF-Signale gestreut werden.
+- **Scatter** allgemein heisst Streuung: ein Teil der Energie wird in eine andere Richtung gelenkt.
 
 ## Ausbreitung nach Band
 
@@ -51,6 +82,10 @@ Auf VHF und UHF kommen **Überreichweiten** vor, zum Beispiel bei besonderen Wet
 3. Wie breiten sich 2 m und 70 cm normalerweise aus?
 4. Welche Schicht gibt es nur am Tag und dämpft tiefe Frequenzen?
 5. Wie lange dauert ein Sonnenzyklus ungefähr?
+6. Wovon hängt die MUF nicht ab?
+7. Was bringt ein flacher Abstrahlwinkel?
+8. Was ist Sporadic E?
+9. Was kann auf 2 m bei besonderen Wetterlagen Überreichweiten verursachen?
 
 ??? success "Resultate anzeigen"
 
@@ -61,6 +96,10 @@ Auf VHF und UHF kommen **Überreichweiten** vor, zum Beispiel bei besonderen Wet
     | 3 | als Sichtverbindung |
     | 4 | die D-Schicht |
     | 5 | etwa 11 Jahre |
+    | 6 | von der Sendeleistung |
+    | 7 | weite Verbindungen (DX) |
+    | 8 | örtlich stark ionisierte Bereiche in der E-Schicht, die Short-Skip-Verbindungen ermöglichen |
+    | 9 | eine Temperaturinversion (Tropo) |
 
 ## Das Wichtigste in 3 Sätzen
 

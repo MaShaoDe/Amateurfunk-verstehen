@@ -40,10 +40,11 @@ Das ganze Alphabet zum Üben findest du im [Übungsblatt Buchstabieralphabet](..
 
 ## Q-Codes
 
-Q-Codes sind Kurzfragen und Kurzantworten, die in jeder Sprache gleich verstanden werden. Für die Prüfung gibt es eine Kernliste mit 13 Q-Codes (gilt für HB3 und HB9):
+Q-Codes sind Kurzfragen und Kurzantworten, die in jeder Sprache gleich verstanden werden. Diese 14 Q-Codes solltest du für die Prüfung kennen (gilt für HB3 und HB9). Sie stammen aus dem Übungsblatt zur Kernliste und aus Kapitel 14 des HB9-Lehrwerks:
 
 | Q-Code | Bedeutung |
 | --- | --- |
+| QRL | Ist die Frequenz belegt? Die Frequenz ist belegt |
 | QRM | Ich werde gestört beziehungsweise meine Übermittlung wird gestört |
 | QRN | atmosphärische Störungen beeinträchtigen den Empfang |
 | QRO | Sendeleistung erhöhen |
@@ -67,10 +68,14 @@ Alle Q-Codes für später stehen auf dem Blatt [Alle Q-Codes](../../technik/uebu
 | Kürzel | Bedeutung |
 | --- | --- |
 | CQ | allgemeiner Anruf an alle |
-| 73 | beste Grüsse |
+| 73 | beste Grüsse, auch Gesprächsschluss |
 | DX | grosse Entfernung, ferne Station |
 | OM | Funkamateur (englisch old man) |
 | RST | Bewertung des Signals nach Lesbarkeit, Signalstärke und Tonqualität |
+| UTC | einheitliche Weltzeit (Coordinated Universal Time) |
+| YL | Funkamateurin (englisch young lady) |
+| PSE | bitte (englisch please) |
+| TNX | danke (englisch thanks) |
 
 !!! tip "Prüfungstipp"
     Q-Codes und das Buchstabieralphabet musst du auswendig können. Übe sie regelmässig laut, am besten mit abgedeckter Antwortspalte.
@@ -82,6 +87,8 @@ Alle Q-Codes für später stehen auf dem Blatt [Alle Q-Codes](../../technik/uebu
 3. Was bedeutet QRV?
 4. Was ist der Unterschied zwischen QRM und QRN?
 5. Wofür steht CQ?
+6. Was bedeutet QRL?
+7. Wofür stehen TNX und PSE?
 
 ??? success "Resultate anzeigen"
 
@@ -92,11 +99,13 @@ Alle Q-Codes für später stehen auf dem Blatt [Alle Q-Codes](../../technik/uebu
     | 3 | Ich bin bereit |
     | 4 | QRM: Störung durch Menschen oder Technik, QRN: atmosphärische Störung |
     | 5 | allgemeiner Anruf an alle |
+    | 6 | Ist die Frequenz belegt? Die Frequenz ist belegt. |
+    | 7 | TNX: danke, PSE: bitte |
 
 ## Das Wichtigste in 3 Sätzen
 
 - Das Rufzeichen wird beim Anruf und alle 10 Minuten genannt.
-- Das ICAO-Alphabet und die 13 Q-Codes musst du auswendig können.
+- Das ICAO-Alphabet und die 14 Q-Codes musst du auswendig können.
 - Zusätze wie /P und /M sagen, wo gesendet wird.
 
 **Weiter:** [Lektion 28: Die Schweizer Vorschriften für HB3](28-schweizer-vorschriften-hb3.md)

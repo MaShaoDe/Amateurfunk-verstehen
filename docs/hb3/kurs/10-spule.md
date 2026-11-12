@@ -5,7 +5,7 @@
     - Wie sie sich bei Gleich- und Wechselstrom verhält
     - Den Unterschied zum Kondensator
 
-*Dauer: etwa 25 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 9](09-kondensator.md).*
+*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 9](09-kondensator.md).*
 
 ## Aufbau und Aufgabe
 
@@ -31,6 +31,17 @@ Die Induktivität wird grösser mit mehr Windungen, mit grösserem Durchmesser u
 - **Gleichstrom:** Die Spule hat nur den kleinen Widerstand ihres Drahtes. Der Strom fliesst fast ungehindert.
 - **Wechselstrom:** Die Spule bremst den Strom, weil das sich ändernde Magnetfeld eine Gegenspannung erzeugt (Induktion). Dieser Widerstand heisst Blindwiderstand.
 - Je höher die Frequenz, desto stärker bremst die Spule.
+
+### Der Blindwiderstand
+
+Der Widerstand einer Spule für Wechselstrom heisst **Blindwiderstand** (induktive Reaktanz) X<sub>L</sub>:
+
+$$X_L = 2\pi \cdot f \cdot L$$
+
+Je höher die Frequenz f oder die Induktivität L, desto grösser ist X<sub>L</sub>. Das ist das Gegenteil vom Kondensator.
+
+!!! example "Beispiel"
+    Eine Spule mit 10 µH bei 10 MHz: X<sub>L</sub> = 2π · 10 · 10<sup>6</sup> · 10 · 10<sup>-6</sup> = **etwa 628 Ω**. Bei 1 MHz sind es nur etwa 63 Ω.
 
 ## Kondensator und Spule im Vergleich
 
@@ -61,6 +72,8 @@ Die Induktivität wird grösser mit mehr Windungen, mit grösserem Durchmesser u
 3. Wie verhält sich eine Spule bei Gleichstrom?
 4. Welches Bauteil bremst hohe Frequenzen: Spule oder Kondensator?
 5. In welchem Feld speichert die Spule Energie?
+6. Wie gross ist der Blindwiderstand einer Spule mit 1 mH bei 1 kHz?
+7. Was entsteht in einem Leiter, wenn sich das Magnetfeld ändert?
 
 ??? success "Resultate anzeigen"
 
@@ -71,6 +84,8 @@ Die Induktivität wird grösser mit mehr Windungen, mit grösserem Durchmesser u
     | 3 | Sie lässt ihn fast ungehindert durch, nur der Drahtwiderstand bremst |
     | 4 | die Spule |
     | 5 | im magnetischen Feld |
+    | 6 | X<sub>L</sub> = 2π · 1 000 · 0,001 = etwa 6,3 Ω |
+    | 7 | eine Spannung (Induktion) |
 
 ## Das Wichtigste in 3 Sätzen
 

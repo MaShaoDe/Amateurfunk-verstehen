@@ -5,7 +5,7 @@
     - Wozu Endstufe und Ausgangsfilter da sind
     - Was Ausgangsleistung und Wirkungsgrad bedeuten
 
-*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 18](18-empfaenger.md).*
+*Dauer: etwa 35 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 18](18-empfaenger.md).*
 
 ## Das Blockschaltbild
 
@@ -39,6 +39,13 @@ Die Ausgangsleistung wird in Watt angegeben. Bei SSB schwankt sie mit der Sprach
 
 Wie viel Leistung du senden darfst, hängt von deiner Zulassung ab (Lektion 28).
 
+## Pufferstufe und ALC
+
+- **Pufferstufe:** trennt den Oszillator von den folgenden Stufen. So beeinflusst die Last die Frequenz nicht.
+- **ALC (automatische Aussteuerungsregelung):** begrenzt die Aussteuerung, damit die Endstufe nicht übersteuert wird.
+
+Ein guter Sender wird nicht nur nach der Leistung beurteilt, sondern auch nach seiner **spektralen Reinheit**: möglichst wenig Oberwellen und Nebenaussendungen. Ein Ausgangsfilter repariert aber keine breite Modulation, die durch Übersteuerung entsteht. Die Formel für den Wirkungsgrad steht in der BAKOM-Formelsammlung.
+
 ## Oberwellen und Übersteuerung
 
 Eine nicht ganz saubere Endstufe erzeugt **Oberwellen**. Das sind Vielfache der Sendefrequenz. Sie stören andere Funkdienste. Das **Tiefpassfilter** am Ausgang soll sie dämpfen.
@@ -58,6 +65,8 @@ Auch Übersteuerung (Lektion 15) erzeugt Verzerrungen und Oberwellen. Darum beim
 3. Eine Endstufe nimmt 200 W auf und gibt 100 W HF ab. Wie gross ist der Wirkungsgrad?
 4. Wohin geht die nicht abgestrahlte Energie?
 5. Wofür steht PEP?
+6. Wozu dient die ALC?
+7. Wozu dient eine Pufferstufe?
 
 ??? success "Resultate anzeigen"
 
@@ -68,6 +77,8 @@ Auch Übersteuerung (Lektion 15) erzeugt Verzerrungen und Oberwellen. Darum beim
     | 3 | 100 / 200 = 50 % |
     | 4 | in Wärme |
     | 5 | Spitzenleistung der Hüllkurve (peak envelope power) |
+    | 6 | sie begrenzt die Aussteuerung, damit die Endstufe nicht übersteuert |
+    | 7 | sie trennt den Oszillator von den folgenden Stufen |
 
 ## Das Wichtigste in 3 Sätzen
 

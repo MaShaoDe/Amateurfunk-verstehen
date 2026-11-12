@@ -5,7 +5,7 @@
     - Was die Periodendauer bedeutet
     - Wie du Frequenz und Periodendauer ineinander umrechnest
 
-*Dauer: etwa 20 Minuten. Du brauchst nur einen Taschenrechner. Voraussetzung: [Lektion 2](02-frequenz-und-baender.md).*
+*Dauer: etwa 25 Minuten. Du brauchst nur einen Taschenrechner. Voraussetzung: [Lektion 2](02-frequenz-und-baender.md).*
 
 ## Wie entsteht eine Funkwelle?
 
@@ -17,6 +17,21 @@ Du kannst dir eine Schaukel vorstellen: Sie schwingt hin und her, immer im gleic
 
 !!! note "Merksatz"
     Ein schwingender Strom in einer Antenne erzeugt eine elektromagnetische Welle. Sie läuft mit Lichtgeschwindigkeit.
+
+## Felder und Induktion
+
+- **Elektrisches Feld:** Es umgibt elektrische Ladungen und besteht zwischen zwei Punkten mit unterschiedlicher Spannung. Je grösser die Spannung und je kleiner der Abstand, desto stärker ist es. Zwischen zwei Kondensatorplatten gilt: $E = U / d$ (Einheit V/m).
+- **Magnetisches Feld:** Es umgibt jeden stromdurchflossenen Leiter. Die **Rechte-Hand-Regel** zeigt die Richtung: Der Daumen zeigt in die technische Stromrichtung (von Plus nach Minus), die gekrümmten Finger zeigen die Richtung des Magnetfelds.
+- **Induktion:** Ändert sich ein Magnetfeld, entsteht in einem Leiter eine Spannung. Darauf beruhen Spule, Transformator und Antenne.
+
+Ein ruhendes Feld ist noch keine Funkwelle. Erst wenn sich beide Felder ändern und sich ablösen, entsteht eine Welle. In ihr stehen das elektrische Feld, das magnetische Feld und die Ausbreitungsrichtung **senkrecht aufeinander**. Funkwellen und Licht sind beide elektromagnetische Wellen.
+
+Nahe an der Antenne ist das Feld kompliziert (**Nahfeld**). Erst weiter weg verhält es sich wie eine regelmässige Welle (**Fernfeld**).
+
+!!! example "Beispiel"
+    Zwischen zwei Platten im Abstand von 2 cm liegen 100 V.
+
+    E = U / d = 100 / 0,02 = **5 000 V/m**
 
 ## Die Periodendauer
 
@@ -76,6 +91,8 @@ Die Wellenlänge kennst du aus Lektion 2: λ = 300 / f (f in MHz, λ in Metern).
 2. Wie lang ist die Periodendauer bei 100 kHz? Gib sie in µs an.
 3. Eine Schwingung dauert 2 µs. Welche Frequenz ist das in kHz?
 4. Die Frequenz steigt von 7 MHz auf 14 MHz. Was passiert mit der Periodendauer?
+5. Zwischen zwei Platten im Abstand von 5 cm liegen 200 V. Wie stark ist das elektrische Feld?
+6. Welche Regel verbindet die Stromrichtung mit der Richtung des Magnetfelds?
 
 ??? success "Resultate anzeigen"
 
@@ -85,6 +102,8 @@ Die Wellenlänge kennst du aus Lektion 2: λ = 300 / f (f in MHz, λ in Metern).
     | 2 | 1 / 100 000 = 0,000 01 s = 10 µs |
     | 3 | 1 / 0,000 002 = 500 000 Hz = 500 kHz |
     | 4 | Sie halbiert sich. |
+    | 5 | E = 200 / 0,05 = 4 000 V/m |
+    | 6 | die Rechte-Hand-Regel |
 
 ## Das Wichtigste in 3 Sätzen
 

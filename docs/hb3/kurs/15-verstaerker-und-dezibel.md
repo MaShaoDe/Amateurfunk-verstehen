@@ -19,7 +19,7 @@ Verhältnisse können riesig werden. Darum gibt man sie in **Dezibel (dB)** an. 
 
 $$a = 10 \cdot \log\frac{P_{aus}}{P_{ein}} \qquad\qquad a = 20 \cdot \log\frac{U_{aus}}{U_{ein}}$$
 
-Die erste Formel gilt für **Leistungen**, die zweite für **Spannungen**. Ein positiver Wert ist eine Verstärkung, ein negativer eine **Dämpfung**.
+Beide Formeln stehen in der BAKOM-Formelsammlung. Die erste Formel gilt für **Leistungen**, die zweite für **Spannungen**. Ein positiver Wert ist eine Verstärkung, ein negativer eine **Dämpfung**.
 
 Diese Werte solltest du auswendig kennen:
 
