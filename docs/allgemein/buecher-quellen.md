@@ -3,19 +3,19 @@
 !!! note "So sind die Angaben entstanden"
     Ich habe die Angebotsseiten gelesen, nicht die Bücher selbst geprüft. Preise und Verfügbarkeit siehst du im Shop. Die Liste wächst, wenn du Bücher empfiehlst, die dir geholfen haben.
 
-## Bücher für die Schweizer Prüfung
+## Bücher für die Prüfung
 
-Diese Bücher gibt es bei einem Schweizer Fachhändler: [Lutz Electronics (HB9NBG)](https://lutz-electronics.ch/fachliteratur-lernpakete-werkstatt/ausbildung-literatur/){ target="_blank" rel="noopener" }, Grindel.
+**Eckart K. W. Moltrecht: Amateurfunk-Lehrgang.** Der Autor ist Deutscher, das Buch ist für deutsche Verhältnisse geschrieben. Die Technik lässt sich aber sehr gut übertragen, und die deutsche Novizenlizenz entspricht dem HB3. Vorschriften und Prüfungsablauf unterscheiden sich, dafür gelten bei uns die Angaben des BAKOM. Das Buch wird von vielen Seiten empfohlen, auch die Fachleute vom [Funkclub Idaburg (HB9ID)](https://hb9id.ch){ target="_blank" rel="noopener" } sind davon überzeugt. Ich habe es angeschafft, aber noch nicht genau durchgearbeitet.
 
-- **Eckart K. W. Moltrecht: Technik für HB3** (Einsteigerlizenz). Nach dem Shop für Kurse und Selbststudium gedacht und am Prüfungsfragenkatalog ausgerichtet.
-- **Eckart K. W. Moltrecht: Technik für HB9** («Der Weg zu HB9»). Dasselbe für die HB9-Prüfung.
+Lutz Electronics führt Ausgaben unter den Titeln **«Technik für HB3»** und **«Technik für HB9»** («Der Weg zu HB9»). Ob sie an die Schweiz angepasst sind, sagt die Shopseite nicht. Das Buch von Zisler und Lauterbach ist eine Ergänzung:
+
 - **Harald Zisler und Thomas Lauterbach: Amateurfunk, Das umfassende Handbuch.** Ein dickes Nachschlagewerk zu Elektrotechnik, Elektronik und Funktechnik, geeignet für Einsteiger und zum Vertiefen. Auch der Funk Club Hauenstein (HB9BC) empfiehlt es zum Ergänzen (3. Auflage, ISBN 978-3-367-10068-2).
 
 ## Wo du die Bücher kaufen kannst
 
 Bewusst nur Schweizer und europäische Händler. Such dort nach dem Titel und dem Autor, ob das Buch lieferbar ist, siehst du im Shop.
 
-- [Lutz Electronics](https://lutz-electronics.ch/fachliteratur-lernpakete-werkstatt/ausbildung-literatur/){ target="_blank" rel="noopener" }: Fachhändler für Amateurfunk, Schweiz. Führt die Moltrecht-Bücher für HB3 und HB9 und die Bücher von René Lutz.
+- [Lutz Electronics](https://lutz-electronics.ch/fachliteratur-lernpakete-werkstatt/ausbildung-literatur/){ target="_blank" rel="noopener" }: Fachhändler für Amateurfunk, Schweiz. Führt die Moltrecht-Bücher und die Bücher von René Lutz.
 - [Orell Füssli](https://www.orellfuessli.com/){ target="_blank" rel="noopener" }: Schweizer Buchhandlung mit Onlineshop
 - [Ex Libris](https://www.exlibris.ch/de/){ target="_blank" rel="noopener" }: Schweizer Onlineshop für Bücher
 - [Lehmanns Media](https://www.lehmanns.ch/){ target="_blank" rel="noopener" }: Fachbuchhandlung mit Schweizer Shop
