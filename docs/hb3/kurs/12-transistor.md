@@ -27,14 +27,14 @@ So schaltet ein winziger Strom ein grosses Relais oder eine Lampe.
 
 ## Der Transistor als Verstärker
 
-Im Bereich dazwischen folgt der Kollektorstrom dem Basisstrom, aber viel grösser. Das Verhältnis ist die **Stromverstärkung**:
+Im Bereich dazwischen folgt der Kollektorstrom dem Basisstrom, aber viel grösser. Das Verhältnis ist die **Stromverstärkung** β (auch h<sub>FE</sub> genannt):
 
-$$B = \frac{I_C}{I_B}$$
+$$\beta = \frac{I_C}{I_B}$$
 
 !!! example "Beispiel"
-    Ein Transistor hat B = 100. Der Basisstrom beträgt 1 mA.
+    Ein Transistor hat β = 100. Der Basisstrom beträgt 1 mA.
 
-    I<sub>C</sub> = B · I<sub>B</sub> = 100 · 1 = **100 mA**
+    I<sub>C</sub> = β · I<sub>B</sub> = 100 · 1 = **100 mA**
 
 Ein schwaches Signal an der Basis erscheint so verstärkt am Kollektor. Damit arbeiten Verstärker in Empfängern und Sendern.
 

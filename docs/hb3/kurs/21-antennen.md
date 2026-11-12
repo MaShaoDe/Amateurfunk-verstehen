@@ -19,7 +19,7 @@ $$\lambda = \frac{300}{f}$$
 
 mit λ in Metern und f in Megahertz. Je höher die Frequenz, desto kürzer die Welle und desto kürzer die Antenne.
 
-Weil die Welle im Draht etwas langsamer ist, muss eine Antenne etwa **5 % kürzer** gebaut werden als die rechnerische Länge. Dafür multiplizierst du mit 0,95.
+Weil die Welle im Draht etwas langsamer ist, muss eine Antenne etwa **5 % kürzer** gebaut werden als die rechnerische Länge. Dafür multiplizierst du mit 0,95. Das ist eine Faustregel für Drahtantennen, der genaue Wert hängt von Draht und Umgebung ab.
 
 ## Der Halbwellendipol
 
