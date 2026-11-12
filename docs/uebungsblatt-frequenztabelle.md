@@ -2,6 +2,8 @@
 
 Für den Ausdruck empfiehlt sich das PDF, sauber im Querformat aufbereitet mit wiederholten Tabellenköpfen.
 
+[💾 PDF herunterladen](files/uebungsblatt-frequenztabelle-hb3-hb9.pdf){ .print-button download style="text-decoration:none;display:inline-flex;" }
+
 ## 1. Frequenzbereiche und Bezeichnungen
 
 <table class="uebungsblatt-table">
