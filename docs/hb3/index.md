@@ -13,6 +13,7 @@ Die HB3-Prüfung ist der Einstieg in den Amateurfunk. Du darfst damit auf ausgew
 - [Kursübersicht](kurs/index.md): alle geplanten Lektionen
 - [Lektion 1: Was ist Funk?](kurs/01-was-ist-funk.md) (Probelektion)
 - [Lektion 2: Frequenz und Bänder](kurs/02-frequenz-und-baender.md)
+- [Lektion 3: Elektromagnetische Wellen und Periodendauer](kurs/03-wellen-und-periodendauer.md)
 
 ## Das brauchst du für HB3
 
