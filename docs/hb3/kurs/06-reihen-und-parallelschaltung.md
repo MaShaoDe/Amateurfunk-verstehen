@@ -104,7 +104,7 @@ So gehst du vor:
 
 Zum Üben gibt es das [Übungsblatt zu Spannung, Strom, Widerstand und Leistung](../../technik/uebungsblatt-spannung-strom-widerstand-leistung.md).
 
-**Weiter:** Lektion 7 (folgt).
+**Weiter:** [Lektion 7: Gleichstrom und Wechselstrom](07-gleichstrom-und-wechselstrom.md)
 
 ---
 
