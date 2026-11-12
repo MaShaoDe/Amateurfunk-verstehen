@@ -250,3 +250,8 @@ body { font-family: var(--md-text-font); }
 
 /* Technisches: Pastell-Gold */
 body[data-area="technik"] { --md-primary-fg-color: #E9D07A; --md-primary-fg-color--dark: #DFC25E; --md-primary-bg-color: #3A2C00; --md-primary-bg-color--light: #54400A; --md-accent-fg-color: #8A6A00; --md-typeset-a-color: #7A5C00; }
+
+/* Mehr Abstand vor der Copyright-Zeile am Seitenende (nur Bildschirm) */
+@media screen {
+  .md-typeset hr:has(+ p > em:only-child) { margin-top: 3.5rem; }
+}
