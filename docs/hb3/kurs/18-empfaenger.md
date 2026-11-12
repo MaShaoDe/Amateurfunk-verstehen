@@ -23,7 +23,7 @@ Fast jeder Funkempfänger arbeitet als **Überlagerungsempfänger**, kurz **Supe
 
 Der Mischer überlagert zwei Frequenzen: die Empfangsfrequenz und die des Oszillators. Heraus kommen unter anderem die **Summe** und die **Differenz**. Die Differenz ist die **Zwischenfrequenz (ZF)**.
 
-Die ZF ist **immer gleich**, egal auf welcher Frequenz du empfängst. Darum lassen sich Filter und Verstärker dafür sehr gut bauen. Übliche Werte sind zum Beispiel 455 kHz oder 10,7 MHz.
+Die ZF ist **immer gleich**, egal auf welcher Frequenz du empfängst. Darum lassen sich Filter und Verstärker dafür sehr gut bauen. Übliche Werte sind zum Beispiel 455 kHz, 10,7 MHz oder 9 MHz. Welche ZF ein Gerät hat, hängt von seiner Bauart ab. Manche Empfänger haben auch mehrere ZF hintereinander.
 
 !!! example "Beispiel"
     Empfang auf 14,2 MHz, ZF = 9 MHz.
