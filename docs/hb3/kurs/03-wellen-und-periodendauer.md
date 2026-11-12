@@ -92,7 +92,7 @@ Die Wellenlänge kennst du aus Lektion 2: λ = 300 / f (f in MHz, λ in Metern).
 - Die Periodendauer ist die Zeit für eine Schwingung: T = 1 / f.
 - In einer Periode läuft die Welle genau eine Wellenlänge weit.
 
-**Weiter:** Lektion 4 (folgt).
+**Weiter:** [Lektion 4: Spannung, Strom und Widerstand](04-spannung-strom-widerstand.md)
 
 ---
 
