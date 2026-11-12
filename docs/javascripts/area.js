@@ -7,10 +7,6 @@ function setArea() {
   else if (p.indexOf("/allgemein/") !== -1) a = "allgemein";
   else if (p.indexOf("/technik/") !== -1) a = "technik";
   document.body.setAttribute("data-area", a);
-  var c = { hb3: "#F5B58C", hb9: "#EBA9C5", allgemein: "#8FD1C8", technik: "#E9D07A", start: "#CFD8DC" }[a];
-  var m = document.querySelector('meta[name="theme-color"]');
-  if (!m) { m = document.createElement("meta"); m.name = "theme-color"; document.head.appendChild(m); }
-  m.content = c;
 }
 setArea();
 if (typeof document$ !== "undefined") { document$.subscribe(setArea); }
