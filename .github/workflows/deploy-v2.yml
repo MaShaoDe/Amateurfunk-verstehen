@@ -49,13 +49,6 @@ jobs:
           echo "Benutzer endet mit Leerzeichen/Zeilenumbruch: $([[ "$U" =~ [[:space:]]$ ]] && echo ja || echo nein)"
           echo "Passwort endet mit Leerzeichen/Zeilenumbruch: $([[ "$P" =~ [[:space:]]$ ]] && echo ja || echo nein)"
 
-      - name: Test, Antwort des FTP-Servers (ohne Zugangsdaten)
-        env:
-          S: ${{ secrets.FTP_SERVER }}
-        run: |
-          echo "IP-Adresse: $(getent hosts "$S" | cut -d' ' -f1)"
-          echo QUIT | timeout 20 openssl s_client -starttls ftp -connect "$S:21" -quiet 2>&1 | head -8 || true
-
       - name: Per FTPS in den Unterordner v2 hochladen
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
