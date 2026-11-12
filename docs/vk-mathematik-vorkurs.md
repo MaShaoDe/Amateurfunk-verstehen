@@ -195,7 +195,7 @@ Besonders wichtig:
 Diese sollten sicher erkannt werden:
 
 | Vorsatz | Zeichen | Faktor |
-| --- | --- | --- |
+| --- | ---: | ---: |
 | pico | p | `10⁻¹²` |
 | nano | n | `10⁻⁹` |
 | mikro | µ | `10⁻⁶` |
