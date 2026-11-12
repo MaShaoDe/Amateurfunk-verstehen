@@ -17,5 +17,4 @@ Hier sammeln wir geprüfte Quellen, die beim Lernen helfen.
 - [Mathebibel, Prozentrechnung](https://www.mathebibel.de/prozentrechnung)
 - [Mathebibel, Logarithmus](https://www.mathebibel.de/logarithmus)
 
-!!! note "Wird ergänzt"
-    Weitere Quellen wie Bücher und Vereine folgen, sobald sie geprüft sind.
+Bücher, offizielle Stellen und den Dank findest du auf [Bücher, Quellen und Dank](buecher-quellen.md).

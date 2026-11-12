@@ -92,12 +92,13 @@ nav:
           - "18. Vorbereitung auf die Prüfung": hb9/18-pruefungsvorbereitung.md
   - Allgemein:
       - allgemein/index.md
-      - Über dieses Lehrwerk: allgemein/ueber-dieses-lehrwerk.md
-      - Wie das Lehrwerk entstand: allgemein/entstehung.md
       - Was ist Amateurfunk?: allgemein/was-ist-amateurfunk.md
       - So lernst du: allgemein/lernplan.md
       - Die Prüfung auf einen Blick: allgemein/pruefung.md
       - Lernvideos und Nachschlagewerke: allgemein/lernquellen.md
+      - Bücher, Quellen und Dank: allgemein/buecher-quellen.md
+      - Über dieses Lehrwerk: allgemein/ueber-dieses-lehrwerk.md
+      - Wie das Lehrwerk entstand: allgemein/entstehung.md
       - Impressum und Datenschutz: allgemein/impressum.md
   - Technisches:
       - technik/index.md
