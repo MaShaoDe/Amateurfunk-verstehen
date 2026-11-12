@@ -63,7 +63,7 @@ Mein selbstgebauter Computer war ein ELZET 80, aufgebaut aus Bausätzen der Firm
 
 ## So entstand das Original: Karopapier, Bleistift und Mortadella
 
-Gelernt habe ich damals aus dem Buch «Amateurfunk Technik» von Heini Sutz und Ueli Hofer. Daraus habe ich viele Notizen gemacht und Lernzusammenfassungen getippt. Sie bilden den Kern des Lehrwerks.
+Gelernt habe ich damals unter anderem aus dem Buch «Amateurfunktechnik» von Heini Sutz und Ueli Hofer. Daraus habe ich viele Notizen gemacht und Lernzusammenfassungen getippt. Sie bilden den Kern des Lehrwerks.
 
 Die Skizzen von damals waren ein Sammelsurium aus Karopapier und Makulatur, auf deren Rückseite ich gezeichnet habe. Ich zeichnete sie mit Bleistift, korrigierte, radierte aus und zeichnete neu. Manche Blätter haben sogar Mortadella-Flecken.
 
@@ -156,7 +156,7 @@ Dabei wurden veraltete technische oder regulatorische Angaben nicht ungeprüft �
 
 ## Quellen sammeln, ordnen und redigieren
 
-Ich habe unzählige Quellen zusammengesucht und seitenweise Dokumente von damals eingescannt. Dazu kam viel Material aus Büchern von damals, auch aus dem Buch «Amateurfunk Technik» von Heini Sutz und Ueli Hofer (1971). All das ist eingeflossen.
+Ich habe unzählige Quellen zusammengesucht und seitenweise Dokumente von damals eingescannt. Dazu kam viel Material aus Büchern von damals, auch aus dem Buch «Amateurfunktechnik» von Heini Sutz und Ueli Hofer (1971). All das ist eingeflossen.
 
 Die vielen Zettel habe ich eingelesen und mit der KI aussortieren lassen. Ich habe der KI gesagt, wie ich Struktur und Aufbau haben will, und sie hat die Unterlagen dann zurechtgezupft. Meine Texte hat die KI nach meinen Vorgaben (Prompts) neu formuliert. Danach habe ich Dutzende Redigierdurchgänge gemacht, bis ich zufrieden war.
 
@@ -291,7 +291,7 @@ Historische Grundlagen:
 - schweizerische PTT-Unterlagen
 - Unterlagen damaliger Kreistelephondirektionen beziehungsweise späterer Fernmeldekreisdirektionen
 - Amateurfunk-Fachliteratur der frühen 1980er-Jahre
-- Heini Sutz und Ueli Hofer: «Amateurfunk Technik» (1971)
+- Heini Sutz und Ueli Hofer: «Amateurfunktechnik» (1971)
 - ARRL-Fachliteratur
 
 Grundlagen der heutigen Fassung:
