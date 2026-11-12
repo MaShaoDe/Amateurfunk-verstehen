@@ -18,4 +18,4 @@ Die HB3-Prüfung ist der Einstieg in den Amateurfunk. Du darfst damit auf ausgew
 
 ## Danach: HB9
 
-Wenn du später die volle Zulassung willst, baut der [HB9-Kurs](../hb9/index.md) auf deinem HB3-Wissen auf.
+Wenn du später die volle Zulassung (CEPT-Lizenz) willst, baut der [HB9-Kurs](../hb9/index.md) auf deinem HB3-Wissen auf.

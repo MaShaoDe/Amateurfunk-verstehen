@@ -1,6 +1,6 @@
 # HB9
 
-Die HB9-Prüfung führt zur vollen Amateurfunkzulassung. Sie verlangt Technik, Betrieb und Vorschriften in der ganzen Tiefe.
+Die HB9-Prüfung führt zur vollen Amateurfunkzulassung, auch CEPT-Lizenz genannt. Sie verlangt Technik, Betrieb und Vorschriften in der ganzen Tiefe.
 
 ## Wo startest du?
 

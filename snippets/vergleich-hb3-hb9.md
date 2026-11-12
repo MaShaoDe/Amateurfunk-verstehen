@@ -1,6 +1,6 @@
 | Merkmal | HB3 | HB9 |
 | --- | --- | --- |
-| Zulassung | Novice | volle Amateurfunkzulassung |
+| Zulassung | Novice | volle Amateurfunkzulassung (CEPT-Lizenz) |
 | 160 m | ✓ | ✓ |
 | 80 m | ✓ | ✓ |
 | 60 m | – | ✓ |
