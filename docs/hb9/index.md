@@ -1,5 +1,8 @@
 # HB9
 
+!!! tip "Neu hier?"
+    Lies zuerst [So lernst du: dein eigener Plan](../allgemein/lernplan.md). Er zeigt dir, wo du anfängst.
+
 Die HB9-Prüfung führt zur vollen Amateurfunkzulassung, auch CEPT-Lizenz genannt. Sie verlangt Technik, Betrieb und Vorschriften in der ganzen Tiefe.
 
 ## Wo startest du?

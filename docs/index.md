@@ -1,6 +1,7 @@
 ---
 title: Start
 hide:
+  - navigation
   - toc
 ---
 
@@ -40,9 +41,9 @@ Wähle deinen Weg:
 
 ## Gut zu wissen
 
-- [Was ist Amateurfunk?](was-ist-amateurfunk.md): was du damit machen kannst und wozu die Prüfung da ist
-- [So lernst du: dein eigener Plan](lernplan.md): finde heraus, wo du anfängst
-- [Die Prüfung auf einen Blick](pruefung.md): Ablauf, Kosten, Anmeldung und Taschenrechner
+- [Was ist Amateurfunk?](allgemein/was-ist-amateurfunk.md): was du damit machen kannst und wozu die Prüfung da ist
+- [So lernst du: dein eigener Plan](allgemein/lernplan.md): finde heraus, wo du anfängst
+- [Die Prüfung auf einen Blick](allgemein/pruefung.md): Ablauf, Kosten, Anmeldung und Taschenrechner
 
 ## Was ist der Unterschied?
 
