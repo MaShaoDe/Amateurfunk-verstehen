@@ -5,9 +5,11 @@
 
 ## Bücher für die Prüfung
 
-**Eckart K. W. Moltrecht: Amateurfunk-Lehrgang.** Der Autor ist Deutscher, das Buch ist für deutsche Verhältnisse geschrieben. Die Technik lässt sich aber sehr gut übertragen, und die deutsche Novizenlizenz entspricht dem HB3. Vorschriften und Prüfungsablauf unterscheiden sich, dafür gelten bei uns die Angaben des BAKOM. Das Buch wird von vielen Seiten empfohlen, auch die Fachleute vom [Funkclub Idaburg (HB9ID)](https://hb9id.ch){ target="_blank" rel="noopener" } sind davon überzeugt. Ich habe es angeschafft, aber noch nicht genau durchgearbeitet.
+**Eckart K. W. Moltrecht: Amateurfunk-Lehrgang.** Der Autor ist Deutscher, und die Bücher sind für die deutschen Prüfungen geschrieben. Die Technik ist trotzdem weitgehend dieselbe wie bei uns, weil beide Länder zur CEPT gehören und das Schweizer HB9 dem CEPT-Prüfungsstoff folgt. Die deutsche Novizenlizenz entspricht dem HB3. Vorschriften und Prüfungsablauf unterscheiden sich. Dafür gelten bei uns die Angaben des BAKOM.
 
-Lutz Electronics führt Ausgaben unter den Titeln **«Technik für HB3»** und **«Technik für HB9»** («Der Weg zu HB9»). Ob sie an die Schweiz angepasst sind, sagt die Shopseite nicht. Das Buch von Zisler und Lauterbach ist eine Ergänzung:
+Das Buch wird von vielen Seiten empfohlen, auch die Fachleute vom [Funkclub Idaburg (HB9ID)](https://hb9id.ch){ target="_blank" rel="noopener" } sind davon überzeugt. Ich habe es angeschafft, aber noch nicht genau durchgearbeitet.
+
+Lutz Electronics empfiehlt die Technikbände von Moltrecht als Vorbereitung auf HB3 und auf HB9. Das ist die Empfehlung des Händlers, auf den Büchern selbst steht es nicht. Als Ergänzung eignet sich ein zweites Buch:
 
 - **Harald Zisler und Thomas Lauterbach: Amateurfunk, Das umfassende Handbuch.** Ein dickes Nachschlagewerk zu Elektrotechnik, Elektronik und Funktechnik, geeignet für Einsteiger und zum Vertiefen. Auch der Funk Club Hauenstein (HB9BC) empfiehlt es zum Ergänzen (3. Auflage, ISBN 978-3-367-10068-2).
 
