@@ -88,7 +88,7 @@ $$U_{eff} = \frac{\hat{U}}{\sqrt{2}} \approx 0{,}707 \cdot \hat{U} \qquad\qquad 
 - Wechselspannung hat Scheitelwert, Spitze-Spitze-Wert und Effektivwert.
 - Effektivwert = 0,707 · Scheitelwert, Spitze-Spitze = 2 · Scheitelwert.
 
-**Weiter:** Lektion 8 (folgt).
+**Weiter:** [Lektion 8: Der Widerstand](08-widerstand.md)
 
 ---
 
