@@ -16,6 +16,7 @@ Die HB3-Prüfung ist der Einstieg in den Amateurfunk. Du darfst damit auf ausgew
 - [Lektion 3: Elektromagnetische Wellen und Periodendauer](kurs/03-wellen-und-periodendauer.md)
 - [Lektion 4: Spannung, Strom und Widerstand](kurs/04-spannung-strom-widerstand.md)
 - [Lektion 5: Das Ohmsche Gesetz und die Leistung](kurs/05-ohmsches-gesetz-und-leistung.md)
+- [Lektion 6: Reihen- und Parallelschaltung](kurs/06-reihen-und-parallelschaltung.md)
 
 ## Das brauchst du für HB3
 
