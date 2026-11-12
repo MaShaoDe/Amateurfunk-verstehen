@@ -11,9 +11,7 @@ theme:
   palette:
     primary: indigo
     accent: indigo
-  font:
-    text: Roboto
-    code: Roboto Mono
+  font: false
   features:
     - navigation.instant
     - navigation.tracking
@@ -50,6 +48,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - javascripts/print.js
   - javascripts/area.js
+  - javascripts/mail.js
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js
 nav:
   - Start: index.md
