@@ -227,7 +227,7 @@ body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(2) .md-butto
 body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(3) .md-button { background-color: #8FD1C8; border-color: #8FD1C8; color: #0B2F2B; }
 
 /* Namensnennung in der Fusszeile */
-.autor-fuss { margin-top: 5rem; background: var(--md-primary-fg-color); color: var(--md-primary-bg-color); }
+.autor-fuss { margin-top: 7rem; background: var(--md-primary-fg-color); color: var(--md-primary-bg-color); }
 .autor-fuss__inhalt { max-width: 61rem; margin: 0 auto; padding: .9rem 1rem; font-size: .8rem; line-height: 1.5; }
 .autor-fuss a { color: inherit; text-decoration: underline; }
 @media print { .autor-fuss { display: none; } }
