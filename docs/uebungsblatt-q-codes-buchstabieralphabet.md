@@ -1,6 +1,6 @@
 # Übungsblatt: Q-Codes und Buchstabieralphabet
 
-Ein separates, ausdruckbares Übungsblatt zum Auswendiglernen der internationalen Buchstabiertabelle und der gebräuchlichsten Q-Codes. Beide Themen werden bereits ausführlich in [Kapitel 14: Funkbetrieb](14-funkbetrieb.html) erklärt. Dieses Blatt ist bewusst eine kompakte, eigenständige Zusammenfassung zum Üben und Ausdrucken.
+Ein separates, ausdruckbares Übungsblatt zum Auswendiglernen der internationalen Buchstabiertabelle und der gebräuchlichsten Q-Codes. Beide Themen werden bereits ausführlich in [Kapitel 14: Funkbetrieb](14-funkbetrieb.md) erklärt. Dieses Blatt ist bewusst eine kompakte, eigenständige Zusammenfassung zum Üben und Ausdrucken.
 
 Tipp zum Üben: Antwortspalte beim ersten Durchgang mit der Hand abdecken, Buchstabe beziehungsweise Code laut aussprechen oder die Bedeutung nennen, erst danach die Lösung aufdecken.
 

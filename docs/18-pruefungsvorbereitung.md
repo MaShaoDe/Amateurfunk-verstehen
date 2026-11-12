@@ -1596,11 +1596,11 @@ Nach bestandener Prüfung beginnt der interessanteste Teil:
 
 # Navigation
 
-[← Kapitel 17: Amateurfunk in der Schweiz](17-amateurfunk-schweiz.html)
+[← Kapitel 17: Amateurfunk in der Schweiz](17-amateurfunk-schweiz.md)
 
-[Hilfsmittel zum Download →](downloads.html)
+[Hilfsmittel zum Download →](downloads.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
 ---
 

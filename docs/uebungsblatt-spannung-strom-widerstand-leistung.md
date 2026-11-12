@@ -1,6 +1,6 @@
 # Übungsblatt: Spannung, Strom, Widerstand, Leistung
 
-Ein separates, ausdruckbares Übungsblatt zum Ohmschen Gesetz, zu Widerstandsschaltungen sowie zu elektrischer Leistung und Arbeit. Die Theorie dazu steht bereits ausführlich in [Kapitel 1: Elektrische Grundlagen](01-elektrische-grundlagen.html). Dieses Blatt ergänzt sie um kompakte Merkdreiecke, Schaltbilder und durchnummerierte Rechenaufgaben zum Üben.
+Ein separates, ausdruckbares Übungsblatt zum Ohmschen Gesetz, zu Widerstandsschaltungen sowie zu elektrischer Leistung und Arbeit. Die Theorie dazu steht bereits ausführlich in [Kapitel 1: Elektrische Grundlagen](01-elektrische-grundlagen.md). Dieses Blatt ergänzt sie um kompakte Merkdreiecke, Schaltbilder und durchnummerierte Rechenaufgaben zum Üben.
 
 ## Grundlagen U, R, I
 

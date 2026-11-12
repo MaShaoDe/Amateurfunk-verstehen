@@ -1186,11 +1186,11 @@ ICAO-Buchstabieralphabet (NATO-Alphabet), Standard in Luftfahrt, Seefahrt und Am
 
 ## Navigation
 
-[← Kapitel 13: Praktischer Antennenbau](13-praktischer-antennenbau.html)
+[← Kapitel 13: Praktischer Antennenbau](13-praktischer-antennenbau.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 15: DX, Relais und Satelliten →](15-dx-relais-satelliten.html)
+[Kapitel 15: DX, Relais und Satelliten →](15-dx-relais-satelliten.md)
 
 ---
 

@@ -884,11 +884,11 @@ Für HB3 stehen die grundlegenden Zusammenhänge und die sichere Zuordnung der w
 
 ## Navigation
 
-[← Kapitel 7: Speiseleitungen](07-speiseleitungen.html)
+[← Kapitel 7: Speiseleitungen](07-speiseleitungen.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 9: Sender und Empfänger →](09-sender-empfaenger.html)
+[Kapitel 9: Sender und Empfänger →](09-sender-empfaenger.md)
 
 ---
 

@@ -1053,11 +1053,11 @@ Die BAKOM-Formelsammlung stellt die dafür benötigten Formeln an der Prüfung z
 
 ## Navigation
 
-[← Kapitel 5: Antennenformen und Abstrahlung](05-antennenformen.html)
+[← Kapitel 5: Antennenformen und Abstrahlung](05-antennenformen.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 7: Speiseleitungen →](07-speiseleitungen.html)
+[Kapitel 7: Speiseleitungen →](07-speiseleitungen.md)
 
 ---
 

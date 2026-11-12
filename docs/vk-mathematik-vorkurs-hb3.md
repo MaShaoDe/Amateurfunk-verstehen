@@ -1,6 +1,6 @@
 # HB3 Mathematik-Vorkurs
 
-Dies ist die auf die HB3-NOVICE-Prüfung zugeschnittene, kürzere Fassung des [HB9-Mathematik-Vorkurses](vk-mathematik-vorkurs.html), siehe dort auch die [Bemerkung zu HB3](vk-mathematik-vorkurs.html#bemerkung-zu-hb3).
+Dies ist die auf die HB3-NOVICE-Prüfung zugeschnittene, kürzere Fassung des [HB9-Mathematik-Vorkurses](vk-mathematik-vorkurs.md), siehe dort auch die [Bemerkung zu HB3](vk-mathematik-vorkurs.md#bemerkung-zu-hb3).
 
 ## Ziel
 
@@ -338,7 +338,7 @@ Wenn dies zuverlässig funktioniert, sollte keine weitere allgemeine Mathematik 
 
 ## Und danach?
 
-Wer nach der HB3-Zulassung später auf HB9 aufsteigen möchte, findet die vertiefte Fassung im [HB9-Mathematik-Vorkurs](vk-mathematik-vorkurs.html). Die dort zusätzlichen Abschnitte (Quadrat, Quadratwurzel, Kehrwerte, Logarithmen, Trigonometrie, Betrag) sind genau die Stellen, die für den Aufstieg zusätzlich gelernt werden müssen.
+Wer nach der HB3-Zulassung später auf HB9 aufsteigen möchte, findet die vertiefte Fassung im [HB9-Mathematik-Vorkurs](vk-mathematik-vorkurs.md). Die dort zusätzlichen Abschnitte (Quadrat, Quadratwurzel, Kehrwerte, Logarithmen, Trigonometrie, Betrag) sind genau die Stellen, die für den Aufstieg zusätzlich gelernt werden müssen.
 
 ---
 

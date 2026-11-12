@@ -1512,7 +1512,7 @@ Durch Regelung kann der Oszillator stabil an diese Referenz gekoppelt werden.
 
 Moderne Synthesizer können damit sehr viele stabile Frequenzen erzeugen.
 
-Die genaue Schaltungstechnik einer PLL wird in [Kapitel 11](11-elektronische-bauteile-schaltungen.html#pll) vertieft.
+Die genaue Schaltungstechnik einer PLL wird in [Kapitel 11](11-elektronische-bauteile-schaltungen.md#pll) vertieft.
 
 ---
 
@@ -2491,11 +2491,11 @@ Die Modulationsverfahren und Betriebsarten folgen in Kapitel 10.
 
 # Navigation
 
-[← Kapitel 8: Funkwellenausbreitung](08-funkwellenausbreitung.html)
+[← Kapitel 8: Funkwellenausbreitung](08-funkwellenausbreitung.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 10: Modulation und Betriebsarten →](10-modulation-betriebsarten.html)
+[Kapitel 10: Modulation und Betriebsarten →](10-modulation-betriebsarten.md)
 
 ---
 
