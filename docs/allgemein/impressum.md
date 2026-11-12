@@ -1,7 +1,7 @@
 # Impressum und Datenschutz
 
 !!! warning "Entwurf, vor der Veröffentlichung ergänzen"
-    Die Angaben mit "offen" fehlen noch (GitHub-Ticketliste, lokale Schriften und Formelanzeige). Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
+    Die Angaben mit "offen" fehlen noch (GitHub-Ticketliste und lokale Formelanzeige). Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
 
 ## Verantwortlich für den Inhalt
 
@@ -10,7 +10,7 @@
 | Name | Marcel Sauder |
 | Rufzeichen | HE9QCU |
 | Anschrift | Zürcherstrasse 270, 8500 Frauenfeld, Schweiz |
-| E-Mail | [marcel@marcelsauder.ch](mailto:marcel@marcelsauder.ch) |
+| E-Mail | <span class="mailschutz" data-u="marcel" data-d="marcelsauder" data-t="ch">marcel (at) marcelsauder (punkt) ch</span> |
 
 ## Zweck und Art dieses Angebots
 
@@ -34,7 +34,8 @@ Die Inhalte wurden sorgfältig erstellt. Für Richtigkeit, Vollständigkeit und 
 
 - Es gibt keine Benutzerkonten, keine Formulare, keine Kommentare und keine Analyse- oder Werbe-Werkzeuge.
 - Der Webserver speichert beim Abruf technisch übliche Zugriffsdaten (zum Beispiel IP-Adresse und Zeitpunkt). Das gehört zum Betrieb des Hosters. Hoster: Novatrend.ch.
-- Beim Aufruf werden Schriften von Google Fonts und die Formelanzeige (MathJax) von cdnjs.cloudflare.com geladen. Dabei wird deine IP-Adresse an diese Anbieter übermittelt. Offen: Diese Dateien sollen künftig vom eigenen Server kommen.
+- Die Schriften (Inter, Lizenz SIL OFL 1.1) liegen auf dem eigenen Server. Es gibt keine Verbindung zu Google.
+- Offen: Die Formelanzeige (MathJax) wird noch von cdnjs.cloudflare.com geladen. Dabei wird deine IP-Adresse an diesen Anbieter übermittelt. Sie soll künftig ebenfalls vom eigenen Server kommen.
 - Die Suche läuft lokal in deinem Browser.
 
 ## Kontakt

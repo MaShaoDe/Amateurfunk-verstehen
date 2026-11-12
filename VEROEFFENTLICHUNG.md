@@ -11,7 +11,7 @@ Diese Datei gehört nicht zur Webseite. Sie ist die interne Liste, was vor dem S
 - [ ] Keine persönlichen Daten in Dateien (Zugangsdaten nur als GitHub-Secrets)
 
 ## Datenschutz und Technik
-- [ ] Schriften (Google Fonts) lokal einbinden oder auf Systemschriften wechseln
+- [x] Schriften lokal eingebunden (Inter, Lizenz in `LICENSES/Inter-OFL-1.1.txt`)
 - [ ] MathJax lokal einbinden statt von cdnjs
 - [ ] Meta-Tag "noindex" entfernen (`overrides/main.html`), sobald die Seite gefunden werden soll
 - [ ] `robots.txt` anpassen
