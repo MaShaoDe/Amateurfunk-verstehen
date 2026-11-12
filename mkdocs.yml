@@ -6,22 +6,21 @@ use_directory_urls: false
 theme:
   name: material
   language: de
+  custom_dir: overrides
   favicon: assets/images/favicon.png
   palette:
     primary: indigo
     accent: indigo
-  font:
-    text: Roboto
-    code: Roboto Mono
+  font: false
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
+    - navigation.indexes
     - navigation.top
     - navigation.footer
-    - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -29,52 +28,127 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+  - admonition
   - toc:
       permalink: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets:
+      base_path: [snippets]
+      check_paths: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/mathjax.js
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js
+  - javascripts/print.js
+  - javascripts/area.js
+  - javascripts/mail.js
+  - assets/mathjax/tex-mml-chtml.js
 nav:
-  - Start:
-      - index.md
-      - Über dieses Lehrwerk: 00-ueber-dieses-lehrwerk.md
-  - Vorkurs & Übungsreihen:
-      - Mathematik-Vorkurs (HB9): vk-mathematik-vorkurs.md
-      - Mathematik-Vorkurs (HB3): vk-mathematik-vorkurs-hb3.md
-      - Übungsreihe (HB9): vk-uebungsreihe.md
-      - Übungsreihe Resultate (HB9): vk-uebungsreihe-resultate.md
-      - Übungsreihe (HB3): vk-uebungsreihe-hb3.md
-      - Übungsreihe Resultate (HB3): vk-uebungsreihe-hb3-resultate.md
-      - Lerncheckliste (HB9): vk-lerncheckliste.md
-      - Lerncheckliste (HB3): vk-lerncheckliste-hb3.md
-      - Übungsblatt Q-Codes & Alphabet: uebungsblatt-q-codes-buchstabieralphabet.md
-      - Übungsblatt U-R-I & Leistung: uebungsblatt-spannung-strom-widerstand-leistung.md
-      - Übungsblatt Aussendungsarten (HB9): uebungsblatt-aussendungsarten-hb9.md
-      - Übungsblatt Aussendungsarten (HB3): uebungsblatt-aussendungsarten-hb3.md
-      - Übungsblatt Frequenztabelle HB3/HB9: uebungsblatt-frequenztabelle.md
-  - Kapitel:
-      - 1. Elektrische Grundlagen: 01-elektrische-grundlagen.md
-      - 2. Frequenz, Periodendauer und Wellenlänge: 02-frequenz-wellenlaenge.md
-      - 3. Elektromagnetische Wellen: 03-elektromagnetische-wellen.md
-      - 4. Grundlagen der Antennentechnik: 04-antennen-grundlagen.md
-      - 5. Antennenformen und Abstrahlung: 05-antennenformen.md
-      - 6. Impedanz, Anpassung und SWR: 06-impedanz-anpassung-swr.md
-      - 7. Speiseleitungen: 07-speiseleitungen.md
-      - 8. Funkwellenausbreitung: 08-funkwellenausbreitung.md
-      - 9. Sender und Empfänger: 09-sender-empfaenger.md
-      - 10. Modulation und Betriebsarten: 10-modulation-betriebsarten.md
-      - 11. Elektronische Bauteile und Schaltungen: 11-elektronische-bauteile-schaltungen.md
-      - 12. Messtechnik: 12-messtechnik.md
-      - 13. Praktischer Antennenbau: 13-praktischer-antennenbau.md
-      - 14. Funkbetrieb: 14-funkbetrieb.md
-      - 15. DX, Relais und Satelliten: 15-dx-relais-satelliten.md
-      - 16. Sicherheit und EMV: 16-sicherheit-emv.md
-      - 17. Amateurfunk in der Schweiz: 17-amateurfunk-schweiz.md
-      - 18. Vorbereitung auf die Prüfung: 18-pruefungsvorbereitung.md
-  - Hilfsmittel zum Download: downloads.md
+  - Start: index.md
+  - Allgemein:
+      - allgemein/index.md
+      - Was ist Amateurfunk?: allgemein/was-ist-amateurfunk.md
+      - So lernst du: allgemein/lernplan.md
+      - Die Prüfung auf einen Blick: allgemein/pruefung.md
+      - Lernvideos und Nachschlagewerke: allgemein/lernquellen.md
+      - Bücher, Quellen und Dank: allgemein/buecher-quellen.md
+      - Über dieses Lehrwerk: allgemein/ueber-dieses-lehrwerk.md
+      - Wie das Lehrwerk entstand: allgemein/entstehung.md
+      - Impressum und Datenschutz: allgemein/impressum.md
+  - HB3:
+      - hb3/index.md
+      - Kursübersicht: hb3/kurs/index.md
+      - Etappe 1, Rechnen (Vorkurs und Übungen):
+          - Vorkurs HB3: hb3/vk-mathematik-vorkurs-hb3.md
+          - Übungsreihe HB3: hb3/vk-uebungsreihe-hb3.md
+          - Resultate HB3: hb3/vk-uebungsreihe-hb3-resultate.md
+      - Etappe 2, Funk verstehen:
+          - Lektion 1, Was ist Funk?: hb3/kurs/01-was-ist-funk.md
+          - Lektion 2, Frequenz und Bänder: hb3/kurs/02-frequenz-und-baender.md
+          - Lektion 3, Wellen und Periodendauer: hb3/kurs/03-wellen-und-periodendauer.md
+      - Etappe 3, Strom, Spannung und Widerstand:
+          - Lektion 4, Spannung, Strom, Widerstand: hb3/kurs/04-spannung-strom-widerstand.md
+          - Lektion 5, Ohmsches Gesetz und Leistung: hb3/kurs/05-ohmsches-gesetz-und-leistung.md
+          - Lektion 6, Reihen- und Parallelschaltung: hb3/kurs/06-reihen-und-parallelschaltung.md
+          - Lektion 7, Gleichstrom und Wechselstrom: hb3/kurs/07-gleichstrom-und-wechselstrom.md
+      - Etappe 4, Bauteile:
+          - Lektion 8, Der Widerstand: hb3/kurs/08-widerstand.md
+          - Lektion 9, Der Kondensator: hb3/kurs/09-kondensator.md
+          - Lektion 10, Die Spule: hb3/kurs/10-spule.md
+          - Lektion 11, Diode und Gleichrichtung: hb3/kurs/11-diode-und-gleichrichtung.md
+          - Lektion 12, Der Transistor: hb3/kurs/12-transistor.md
+          - Lektion 13, Transformator und Netzteil: hb3/kurs/13-transformator-und-netzteil.md
+      - Etappe 5, Schwingen, Verstärken, Filtern:
+          - Lektion 14, Schwingkreis und Filter: hb3/kurs/14-schwingkreis-und-filter.md
+          - Lektion 15, Verstärker und Dezibel: hb3/kurs/15-verstaerker-und-dezibel.md
+          - Lektion 16, Oszillator und PLL: hb3/kurs/16-oszillator-und-pll.md
+      - Etappe 6, Sender und Empfänger:
+          - Lektion 17, Modulation (AM, FM, SSB): hb3/kurs/17-modulation.md
+          - Lektion 18, Der Empfänger: hb3/kurs/18-empfaenger.md
+          - Lektion 19, Der Sender: hb3/kurs/19-sender.md
+          - Lektion 20, SDR, die Grundidee: hb3/kurs/20-sdr.md
+      - Etappe 7, Antennen und Ausbreitung:
+          - Lektion 21, Antennen: hb3/kurs/21-antennen.md
+          - Lektion 22, Kabel, Anpassung und SWR: hb3/kurs/22-kabel-anpassung-swr.md
+          - Lektion 23, Wie sich Funkwellen ausbreiten: hb3/kurs/23-ausbreitung.md
+      - Etappe 8, Praxis und Sicherheit:
+          - Lektion 24, Messen: hb3/kurs/24-messen.md
+          - Lektion 25, Störungen und EMV: hb3/kurs/25-stoerungen-emv.md
+          - Lektion 26, Sicherheit und Strahlung (NIS): hb3/kurs/26-sicherheit-nis.md
+      - Etappe 9, Betrieb und Vorschriften:
+          - Lektion 27, Rufzeichen, Buchstabieren und Q-Codes: hb3/kurs/27-rufzeichen-buchstabieren-q-codes.md
+          - Lektion 28, Die Schweizer Vorschriften für HB3: hb3/kurs/28-schweizer-vorschriften-hb3.md
+      - Etappe 10, Prüfung:
+          - Lektion 29, Abschlusstest und Prüfungstipps: hb3/kurs/29-abschlusstest-und-pruefungstipps.md
+      - Prüfungshilfen:
+          - Lerncheckliste HB3: hb3/vk-lerncheckliste-hb3.md
+          - Aussendungsarten HB3: hb3/uebungsblatt-aussendungsarten-hb3.md
+          - Übungsfragen HB3: hb3/uebungsfragen-hb3.md
+  - HB9:
+      - hb9/index.md
+      - Einführung:
+          - Einleitung: hb9/einfuehrung.md
+      - Vorkurs und Übungen:
+          - Vorkurs HB9: hb9/vk-mathematik-vorkurs.md
+          - Übungsreihe HB9: hb9/vk-uebungsreihe.md
+          - Resultate HB9: hb9/vk-uebungsreihe-resultate.md
+          - Lerncheckliste HB9: hb9/vk-lerncheckliste.md
+          - Aussendungsarten HB9: hb9/uebungsblatt-aussendungsarten-hb9.md
+      - Kapitel:
+          - "1. Elektrische Grundlagen": hb9/01-elektrische-grundlagen.md
+          - "2. Frequenz, Periodendauer und Wellenlänge": hb9/02-frequenz-wellenlaenge.md
+          - "3. Elektromagnetische Wellen": hb9/03-elektromagnetische-wellen.md
+          - "4. Grundlagen der Antennentechnik": hb9/04-antennen-grundlagen.md
+          - "5. Antennenformen und Abstrahlung": hb9/05-antennenformen.md
+          - "6. Impedanz, Anpassung und SWR": hb9/06-impedanz-anpassung-swr.md
+          - "7. Speiseleitungen": hb9/07-speiseleitungen.md
+          - "8. Funkwellenausbreitung": hb9/08-funkwellenausbreitung.md
+          - "9. Sender und Empfänger": hb9/09-sender-empfaenger.md
+          - "10. Modulation und Betriebsarten": hb9/10-modulation-betriebsarten.md
+          - "11. Elektronische Bauteile und Schaltungen": hb9/11-elektronische-bauteile-schaltungen.md
+          - "12. Messtechnik": hb9/12-messtechnik.md
+          - "13. Praktischer Antennenbau": hb9/13-praktischer-antennenbau.md
+          - "14. Funkbetrieb": hb9/14-funkbetrieb.md
+          - "15. DX, Relais und Satelliten": hb9/15-dx-relais-satelliten.md
+          - "16. Sicherheit und EMV": hb9/16-sicherheit-emv.md
+          - "17. Amateurfunk in der Schweiz": hb9/17-amateurfunk-schweiz.md
+          - "18. Vorbereitung auf die Prüfung": hb9/18-pruefungsvorbereitung.md
+          - Übungsfragen HB9: hb9/uebungsfragen-hb9.md
+  - Technisches:
+      - technik/index.md
+      - Frequenztabelle: technik/uebungsblatt-frequenztabelle.md
+      - Buchstabieralphabet: technik/uebungsblatt-buchstabieralphabet.md
+      - Q-Codes für die Prüfung: technik/uebungsblatt-q-codes-pruefung.md
+      - Alle Q-Codes: technik/uebungsblatt-q-codes-alle.md
+      - U, R, I und Leistung: technik/uebungsblatt-spannung-strom-widerstand-leistung.md
+      - Hilfsmittel zum Download: technik/downloads.md
+
+extra:
+  generator: false

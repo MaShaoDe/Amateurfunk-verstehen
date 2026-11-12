@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block extrahead %}
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1c1c1e" media="(prefers-color-scheme: dark)">
+{% endblock %}
+{% block footer %}
+  <div class="autor-fuss">
+    <div class="autor-fuss__inhalt">
+      <strong>Amateurfunk verstehen</strong> ist ein offenes Lehrwerk von <strong>Marcel Sauder</strong> (HE9QCU), 1984 bis 2026.
+      Lizenz: <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a>.
+      <a href="{{ 'allgemein/entstehung.html' | url }}">Wie es entstand</a> ·
+      <a href="{{ 'allgemein/impressum.html' | url }}">Impressum</a>
+    </div>
+  </div>
+  {{ super() }}
+{% endblock %}

@@ -189,3 +189,69 @@
         body { font-size: 11pt; }
       }
     
+/* Druck: Tabellen der Übungsblätter kompakt, damit ein Blatt auf eine Seite passt */
+@media print {
+  .uebungsblatt-table th, .uebungsblatt-table td { padding: .2rem .5rem !important; font-size: 10pt !important; line-height: 1.25 !important; }
+  .uebungsblatt-table { margin: .4rem 0 .8rem !important; }
+  .md-typeset h1 { font-size: 18pt !important; margin: 0 0 .4rem !important; }
+  .md-typeset p { margin: .4em 0 !important; }
+  .md-typeset hr { margin: .6em 0 !important; }
+}
+@media print {
+  .nato-table th, .nato-table td { padding: .1rem .4rem !important; font-size: 9.5pt !important; }
+  .md-content__inner { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+  .md-content__inner::after, .md-content__inner::before { display: none !important; }
+  .md-main__inner { margin-top: 0 !important; margin-bottom: 0 !important; }
+}
+
+/* Einklappbare Resultate: kompakte Tabelle, im Druck nicht ausgeben */
+.md-typeset details.success table { font-size: .75rem; }
+.md-typeset details.success table th, .md-typeset details.success table td { padding: .35em .8em; }
+@media print {
+  .md-typeset details { display: none !important; }
+}
+
+/* Farben pro Bereich (Pastell, dunkle Schrift): HB3 Orange, HB9 Beere, Allgemein Petrol */
+body[data-area="hb3"]       { --md-primary-fg-color: #F5B58C; --md-primary-fg-color--dark: #EFA173; --md-primary-bg-color: #3B1405; --md-primary-bg-color--light: #5A2410; --md-accent-fg-color: #C2410C; --md-typeset-a-color: #B23A0B; }
+body[data-area="hb9"]       { --md-primary-fg-color: #B5D6A7; --md-primary-fg-color--dark: #9CC68B; --md-primary-bg-color: #12300F; --md-primary-bg-color--light: #1D4A19; --md-accent-fg-color: #2E6B2E; --md-typeset-a-color: #2E6B2E; }
+body[data-area="allgemein"] { --md-primary-fg-color: #8FD1C8; --md-primary-fg-color--dark: #6FBDB2; --md-primary-bg-color: #0B2F2B; --md-primary-bg-color--light: #12423C; --md-accent-fg-color: #00695C; --md-typeset-a-color: #00695C; }
+body[data-area="start"]     { --md-primary-fg-color: #CFD8DC; --md-primary-fg-color--dark: #B8C4CA; --md-primary-bg-color: #1F2A30; --md-primary-bg-color--light: #33424A; --md-accent-fg-color: #37474F; --md-typeset-a-color: #37474F; }
+.md-typeset .md-button--primary { background-color: var(--md-primary-fg-color); border-color: var(--md-primary-fg-color); color: var(--md-primary-bg-color); }
+.md-typeset .uebungsblatt-table tr.hb3-ja { background: #FCE3D3; }
+/* Karten auf der Startseite in Bereichsfarbe */
+body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(1) { border-top: 4px solid #F5B58C; }
+body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(2) { border-top: 4px solid #B5D6A7; }
+body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(3) { border-top: 4px solid #8FD1C8; }
+body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(1) .md-button { background-color: #F5B58C; border-color: #F5B58C; color: #3B1405; }
+body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(2) .md-button { background-color: #B5D6A7; border-color: #B5D6A7; color: #12300F; }
+body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(3) .md-button { background-color: #8FD1C8; border-color: #8FD1C8; color: #0B2F2B; }
+
+/* Namensnennung in der Fusszeile */
+.autor-fuss { margin-top: 7rem; background: var(--md-primary-fg-color); color: var(--md-primary-bg-color); }
+.autor-fuss__inhalt { max-width: 61rem; margin: 0 auto; padding: .9rem 1rem; font-size: .8rem; line-height: 1.5; }
+.autor-fuss a { color: inherit; text-decoration: underline; }
+@media print { .autor-fuss { display: none; } }
+
+/* Lokale Schrift Inter (SIL Open Font License 1.1), keine Verbindung zu Google */
+@font-face { font-family: "Inter"; font-weight: 300; font-style: normal; font-display: swap; src: url("../assets/fonts/Inter-Light.woff") format("woff"); }
+@font-face { font-family: "Inter"; font-weight: 400; font-style: normal; font-display: swap; src: url("../assets/fonts/Inter-Regular.woff") format("woff"); }
+@font-face { font-family: "Inter"; font-weight: 400; font-style: italic; font-display: swap; src: url("../assets/fonts/Inter-Italic.woff") format("woff"); }
+@font-face { font-family: "Inter"; font-weight: 500; font-style: normal; font-display: swap; src: url("../assets/fonts/Inter-Medium.woff") format("woff"); }
+@font-face { font-family: "Inter"; font-weight: 700; font-style: normal; font-display: swap; src: url("../assets/fonts/Inter-Bold.woff") format("woff"); }
+@font-face { font-family: "Inter"; font-weight: 700; font-style: italic; font-display: swap; src: url("../assets/fonts/Inter-BoldItalic.woff") format("woff"); }
+:root, body { --md-text-font: "Inter", system-ui, -apple-system, "Segoe UI", Arial, sans-serif; --md-code-font: ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+body { font-family: var(--md-text-font); }
+
+/* Abbildungen mit Bildunterschrift */
+.md-typeset figure { margin: 1.5em auto; text-align: center; }
+.md-typeset figure img { max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,.25); }
+.md-typeset figcaption { font-size: .8rem; margin-top: .6em; opacity: .85; }
+.md-typeset figcaption .bildrechte { display: block; font-size: .7rem; opacity: .7; }
+
+/* Technisches: Pastell-Gold */
+body[data-area="technik"] { --md-primary-fg-color: #E9D07A; --md-primary-fg-color--dark: #DFC25E; --md-primary-bg-color: #3A2C00; --md-primary-bg-color--light: #54400A; --md-accent-fg-color: #8A6A00; --md-typeset-a-color: #7A5C00; }
+
+/* Mehr Abstand vor der Copyright-Zeile am Seitenende (nur Bildschirm) */
+@media screen {
+  .md-typeset hr:has(+ p > em:only-child) { margin-top: 3.5rem; }
+}
