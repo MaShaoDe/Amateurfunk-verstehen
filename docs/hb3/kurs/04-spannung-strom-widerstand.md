@@ -82,7 +82,7 @@ Die Regel ist dieselbe wie bei MHz und kHz: Zwischen den Einheiten liegt der Fak
 
 Zum Üben gibt es auch das [Übungsblatt zu Spannung, Strom, Widerstand und Leistung](../../technik/uebungsblatt-spannung-strom-widerstand-leistung.md).
 
-**Weiter:** Lektion 5 (folgt).
+**Weiter:** [Lektion 5: Das Ohmsche Gesetz und die Leistung](05-ohmsches-gesetz-und-leistung.md)
 
 ---
 
