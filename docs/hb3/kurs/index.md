@@ -17,7 +17,7 @@ Jede Lektion dauert etwa 20 Minuten und endet mit einer Mini-Übung.
 
 ## Etappe 3: Strom, Spannung und Widerstand
 
-- Lektion 4: Spannung, Strom und Widerstand
+- [Lektion 4: Spannung, Strom und Widerstand](04-spannung-strom-widerstand.md)
 - Lektion 5: Das Ohmsche Gesetz und die Leistung
 - Lektion 6: Reihen- und Parallelschaltung
 - Lektion 7: Gleichstrom und Wechselstrom
