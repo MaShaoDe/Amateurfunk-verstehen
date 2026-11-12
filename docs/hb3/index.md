@@ -26,6 +26,11 @@ Die HB3-Prüfung ist der Einstieg in den Amateurfunk. Du darfst damit auf ausgew
 - [Lektion 13: Transformator und Netzteil](kurs/13-transformator-und-netzteil.md)
 - [Lektion 14: Schwingkreis und Filter](kurs/14-schwingkreis-und-filter.md)
 - [Lektion 15: Verstärker und Dezibel](kurs/15-verstaerker-und-dezibel.md)
+- [Lektion 16: Oszillator und PLL](kurs/16-oszillator-und-pll.md)
+- [Lektion 17: Modulation (AM, FM, SSB)](kurs/17-modulation.md)
+- [Lektion 18: Der Empfänger](kurs/18-empfaenger.md)
+- [Lektion 19: Der Sender](kurs/19-sender.md)
+- [Lektion 20: SDR, die Grundidee](kurs/20-sdr.md)
 
 ## Das brauchst du für HB3
 
