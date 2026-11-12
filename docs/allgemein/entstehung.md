@@ -148,6 +148,8 @@ Die vielen Zettel habe ich eingelesen und mit der KI aussortieren lassen. Ich ha
 
 Jetzt sind wir bei Version 2. Wieder hilft mir eine KI, diesmal Claude, das Ganze sauber in Form zu bringen. Ich habe beschlossen, ein Open-Source-Projekt daraus zu machen, damit möglichst viele Menschen davon profitieren können.
 
+Die Idee, das Konzept und die Richtung stammen von mir, ebenso die 18 HB9-Kapitel aus meinem Lehrmittel. Den neuen HB3-Kurs mit seinen 29 Lektionen und die Übungsfragen hat Claude nach meinen Vorgaben geschrieben und gegliedert, ergänzt mit Stoff aus den BAKOM-Unterlagen von 2024. Ich habe das Ergebnis durchgesehen und entschieden, was bleibt.
+
 ---
 
 *© 1984 bis 2026 FerienBSD aka Marcel Sauder. Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de). Du darfst die Inhalte teilen und bearbeiten, wenn du den Urheber nennst.*
