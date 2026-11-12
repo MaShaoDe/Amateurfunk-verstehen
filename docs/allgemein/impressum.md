@@ -5,7 +5,7 @@
 
 ## Verantwortlich für den Inhalt
 
-| | |
+| Angabe | Inhalt |
 | --- | --- |
 | Name | Marcel Sauder |
 | Rufzeichen | HE9QCU |
