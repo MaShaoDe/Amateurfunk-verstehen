@@ -33,6 +33,17 @@ zusammengestellt.
 
 Getippt wurde das ursprüngliche Manuskript auf einem selbstgebauten Computer mit einem Zilog-Z80-Prozessor, unter dem Betriebssystem CP/M 2.2, mit der Textverarbeitung WordStar der Firma MicroPro, damals eine der verbreitetsten Textverarbeitungen im professionellen und semiprofessionellen Umfeld.
 
+
+## Die alten Dateien wieder lesbar machen
+
+Über vierzig Jahre später mussten diese Dateien für die vorliegende Neuauflage zunächst wieder lesbar gemacht werden. Dazu wurde eine CP/M-Emulation auf einem heutigen MacBook zum Laufen gebracht, um die alten WordStar-Dokumente zu öffnen und ihren Inhalt in ein zeitgemäss nutzbares Format zu überführen. Erst danach konnte die inhaltliche und didaktische Überarbeitung beginnen.
+
+## Skizzen einscannen und neu zeichnen lassen
+
+Zu den Unterlagen von damals gehörten Skizzen. Für die Neuauflage habe ich sie eingescannt und mit Hilfe einer KI neu zeichnen lassen. Die Abbildungen der heutigen Fassung sind also neu erstellt und neu beschriftet.
+
+Sie folgen bewusst keinem modernen Infografikstil, sondern den einfachen Zeichnungen aus Ausbildungsunterlagen der 1980er-Jahre. Sie sollen einen technischen Sachverhalt erklären und nicht bloss gut aussehen.
+
 ## Der Amateurfunk in der Schweiz von 1984
 
 Als dieses Lehrmaterial ursprünglich entstand, existierte das heutige BAKOM noch nicht. Zuständig für Funkkonzessionen waren die PTT, die schweizerischen Post-, Telefon- und Telegrafenbetriebe, über ihre Kreistelephondirektionen, die später zu Fernmeldekreisdirektionen wurden.
@@ -49,7 +60,6 @@ Diese umfassendere Konzession, oft auch als «Vollamateur» bezeichnet, berechti
 
 Ein UKW-Amateur, der später zusätzlich die Kurzwellenbänder nutzen wollte, musste demnach die Morseprüfung nachholen. Dieses Prinzip, volle Kurzwellenrechte nur in Verbindung mit einer Morseprüfung, war international lange Zeit üblich und wurde in der Schweiz wie auch anderswo erst deutlich später aufgegeben.
 
-Über vierzig Jahre später mussten diese Dateien für die vorliegende Neuauflage zunächst wieder lesbar gemacht werden. Dazu wurde eine CP/M-Emulation auf einem heutigen MacBook zum Laufen gebracht, um die alten WordStar-Dokumente zu öffnen und ihren Inhalt in ein zeitgemäss nutzbares Format zu überführen. Erst danach konnte die inhaltliche und didaktische Überarbeitung beginnen.
 
 ## Persönlicher Anlass der Neuauflage
 
@@ -89,15 +99,7 @@ Dabei wurde nicht lediglich der ursprüngliche Text sprachlich überarbeitet.
 
 Die gesamte Struktur wurde neu geordnet, fachlich überprüft und zu einem zusammenhängenden Lehrgang für die heutige schweizerische Amateurfunkausbildung ausgebaut.
 
-Ziel war es, aus historischen Ausbildungsnotizen ein modernes Lehrwerk zu entwickeln, das:
-
-- technisch nachvollziehbar
-- prüfungsrelevant
-- praxisbezogen
-- systematisch aufgebaut
-- auch ohne umfangreiche Vorkenntnisse verständlich
-
-ist.
+Ziel war es, aus historischen Ausbildungsnotizen ein modernes Lehrwerk zu entwickeln, das technisch nachvollziehbar, prüfungsrelevant, praxisbezogen und systematisch aufgebaut ist und auch ohne umfangreiche Vorkenntnisse verständlich bleibt.
 
 Dabei wurden veraltete technische oder regulatorische Angaben nicht ungeprüft übernommen.
 
@@ -120,19 +122,6 @@ Die Quellen werden grundsätzlich nach folgender Priorität verwendet:
 3. **schweizerische Amateurfunkvereine und Ausbildungsunterlagen**
 4. **internationale technische Fachliteratur**
 5. **ARRL als ergänzende internationale Fachquelle**
-
-Diese Reihenfolge ist insbesondere bei:
-
-- Prüfungsstoff
-- Frequenzbereichen
-- Sendeleistungen
-- Rufzeichen
-- Betriebsrechten
-- gesetzlichen Vorschriften
-
-wichtig.
-
-Internationale Amateurfunkliteratur kann technisch ausgezeichnet sein, beschreibt jedoch häufig die gesetzlichen Verhältnisse anderer Länder.
 
 ---
 
@@ -212,398 +201,11 @@ ist beispielsweise nicht dasselbe wie eine gesetzliche Frequenzzuteilung.
 
 Internationale Fachliteratur wird dort verwendet, wo sie technische Zusammenhänge vertieft oder besonders gut erklärt.
 
-Dazu gehören insbesondere Themen wie:
-
-- Hochfrequenztechnik
-- Antennen
-- Empfänger
-- Sender
-- Modulation
-- Messtechnik
-- Funkwellenausbreitung
-
 Eine wichtige historische und fachliche Quelle ist die Literatur der:
 
 **ARRL, American Radio Relay League**
 
 Sie wird in diesem Lehrwerk jedoch ergänzend und nicht als Grundlage für schweizerische Rechtsfragen verwendet.
-
----
-
-# Fachliche Grundsätze
-
-Bei der Überarbeitung wurden einige Grundregeln festgelegt.
-
-## Keine Vermutung als Tatsache
-
-Technische, rechtliche und historische Aussagen sollen nicht als gesicherte Tatsache dargestellt werden, wenn ihre Grundlage unsicher ist.
-
-Wenn eine Aussage nicht eindeutig festgestellt werden kann, soll dies erkennbar bleiben.
-
-## Technik und Vorschriften trennen
-
-Physikalische Zusammenhänge ändern sich normalerweise nicht dadurch, dass eine Verordnung geändert wird.
-
-Rechtliche Bestimmungen können sich dagegen relativ kurzfristig ändern.
-
-Deshalb werden im Lehrwerk unterschieden:
-
-**technische Grundlagen**
-
-und:
-
-**aktuelle schweizerische Vorschriften**
-
-## Theorie und Praxis verbinden
-
-Das Lehrwerk soll nicht nur erklären:
-
-**welche Formel gilt**
-
-sondern auch:
-
-**was sie technisch bedeutet**
-
-und:
-
-**wo der Zusammenhang in einer realen Funkstation vorkommt.**
-
----
-
-# Didaktischer Aufbau
-
-Die Kapitel bauen bewusst aufeinander auf.
-
-Der grundlegende Lernweg lautet:
-
-**Elektrizität**
-
-→
-
-**Frequenz und Wellenlänge**
-
-→
-
-**elektromagnetische Wellen**
-
-→
-
-**Antennen**
-
-→
-
-**Impedanz und Speiseleitungen**
-
-→
-
-**Funkwellenausbreitung**
-
-→
-
-**Sender und Empfänger**
-
-→
-
-**Modulation**
-
-→
-
-**Bauteile und Schaltungen**
-
-→
-
-**Messtechnik**
-
-→
-
-**praktischer Aufbau**
-
-→
-
-**Funkbetrieb**
-
-→
-
-**Sicherheit und Vorschriften**
-
-Die Kapitel sollen dadurch möglichst wenig isoliertes Faktenwissen erzeugen.
-
-Neue Begriffe werden nach Möglichkeit auf bereits behandelte Grundlagen zurückgeführt.
-
----
-
-# Einheitlicher Kapitelaufbau
-
-Die technischen Kapitel verwenden, soweit sinnvoll, eine einheitliche Struktur.
-
-Dazu gehören:
-
-- Lernziele
-- Formelzeichen und Symbole
-- kurzer roter Faden
-- technische Erklärung
-- Beispiele
-- Tabellen zur Abgrenzung ähnlicher Begriffe
-- Merksätze
-- Selbstkontrolle
-- Antworten
-- Prüfungsbezug HB3 und HB9
-
-Damit soll ein Kapitel sowohl:
-
-**zum ersten Lernen**
-
-als auch:
-
-**zur späteren Wiederholung**
-
-verwendet werden können.
-
----
-
-# Formeln
-
-Die mathematische Darstellung orientiert sich möglichst an der aktuellen:
-
-**BAKOM-Formelsammlung**
-
-Für Formeln werden die international gebräuchlichen Formelzeichen und SI-Einheiten verwendet.
-
-Beispiele:
-
-- Spannung \(U\) in Volt
-- Strom \(I\) in Ampere
-- Widerstand \(R\) in Ohm
-- Frequenz \(f\) in Hertz
-- Wellenlänge \(\lambda\) in Metern
-- Leistung \(P\) in Watt
-
-Griechische Formelzeichen werden beim ersten Auftreten erklärt.
-
----
-
-# Mathematik
-
-Das Lehrwerk setzt keine fortgeschrittene Mathematikausbildung voraus.
-
-Benötigt werden insbesondere:
-
-- Grundrechenarten
-- Brüche
-- Verhältnisrechnung
-- einfache Gleichungen
-- Umstellen einfacher Formeln
-- Quadrat und Quadratwurzel
-- Zehnerpotenzen
-- SI-Vorsätze
-- Logarithmen für dB-Berechnungen
-
-Ziel ist nicht, Schulmathematik umfassend nachzuholen.
-
-Ziel ist:
-
-> **technische Formeln lesen, verstehen und sicher anwenden zu können.**
-
----
-
-# HB3 und HB9
-
-Das Lehrwerk behandelt grundsätzlich den vollständigen technischen Zusammenhang.
-
-Es wird deshalb nicht für jedes Unterthema ein künstlich getrennter HB3- und HB9-Lehrgang geführt.
-
-Das BAKOM legt fest, dass bei HB3:
-
-**technische und rechnerische Fragen weniger komplex**
-
-sind.
-
-Daraus folgt für dieses Lehrwerk:
-
-## HB3
-
-Schwerpunkt auf:
-
-- Grundverständnis
-- Erkennen von Zusammenhängen
-- grundlegende Berechnungen
-- sichere Anwendung einfacher technischer Regeln
-
-## HB9
-
-zusätzlich:
-
-- vertiefte Berechnungen
-- komplexere Zusammenhänge
-- sicherer Umgang mit der gesamten BAKOM-Formelsammlung
-- stärkeres Verständnis von Schaltungen und HF-Systemen
-
-Abschnitte mit der Bezeichnung:
-
-**HB9-Vertiefung**
-
-kennzeichnen deshalb eine didaktisch vertiefte Behandlung.
-
-Sie sind keine offizielle Einzelklassifizierung des BAKOM.
-
----
-
-# Abbildungen
-
-Die Abbildungen der heutigen Fassung wurden für dieses Lehrwerk neu erstellt.
-
-Sie folgen bewusst keinem modernen Infografikstil.
-
-Die Darstellung orientiert sich an technischen Ausbildungsunterlagen und Lehrbüchern der:
-
-**1980er-Jahre**
-
-mit:
-
-- einfachen Bleistiftskizzen
-- klaren technischen Formen
-- wenigen Beschriftungen
-- möglichst wenig dekorativen Elementen
-
-Die Abbildungen sollen einen technischen Sachverhalt erklären und nicht lediglich optisch attraktiv wirken.
-
----
-
-# Historische Abbildungen und Vorlagen
-
-Die ursprünglichen Unterlagen aus den 1980er-Jahren dienten teilweise als konzeptionelle Grundlage.
-
-Die heutigen Abbildungen wurden jedoch neu erstellt und neu beschriftet.
-
-Dadurch können:
-
-- heutige Terminologie
-- einheitliche Darstellung
-- bessere Lesbarkeit
-- konsistente Nummerierung
-
-verwendet werden.
-
----
-
-# Schweizer Schreibweise
-
-Das Lehrwerk verwendet:
-
-**Schweizer Hochdeutsch**
-
-Dazu gehört insbesondere:
-
-- Verwendung von **ss** statt **ß**
-- schweizerische technische und behördliche Terminologie
-- SI-Einheiten
-- Dezimalkomma in deutschsprachigen Formeln und Beispielen
-
-Englische Fachbegriffe werden dort verwendet, wo sie im Amateurfunk international üblich sind.
-
-Beispiele:
-
-- SWR
-- Split
-- Pile-up
-- Noise Blanker
-- Software Defined Radio
-- Uplink
-- Downlink
-
-Sie werden beim ersten Auftreten erklärt.
-
----
-
-# Prüfung und praktische Funktechnik
-
-Dieses Lehrwerk ist auf die schweizerische Amateurfunkprüfung ausgerichtet.
-
-Es ist jedoch bewusst **kein reiner Fragenkatalog**.
-
-Eine Person soll nach der Prüfung nicht nur wissen:
-
-**welche Antwort angekreuzt werden muss**
-
-sondern möglichst verstehen:
-
-**warum diese Antwort technisch richtig ist.**
-
-Die Prüfung wird deshalb als:
-
-**Zwischenziel**
-
-verstanden.
-
-Das eigentliche Ziel ist der sichere und technisch verständige Umgang mit Funktechnik.
-
----
-
-# Keine Ersatzquelle für aktuelle Vorschriften
-
-Trotz sorgfältiger Überarbeitung kann ein Lehrwerk nicht garantieren, dass rechtliche Angaben unbegrenzt aktuell bleiben.
-
-Frequenzzuweisungen, Leistungen, Bewilligungsbedingungen oder Prüfungsregelungen können geändert werden.
-
-Deshalb gilt:
-
-> **Für den tatsächlichen Funkbetrieb und für die jeweils aktuelle Prüfung sind die aktuellen Veröffentlichungen des BAKOM massgebend.**
-
-Das gilt besonders für:
-
-- Frequenzbereiche
-- maximale Leistungen
-- HB3- und HB9-Rechte
-- Rufzeichen
-- Satellitenbetrieb
-- unbediente Anlagen
-- Remote-Betrieb
-- NIS
-- internationale Anerkennungen
-
----
-
-# Aufbau des Lehrwerks
-
-Das Lehrwerk umfasst derzeit folgende Hauptkapitel:
-
-1. Elektrische Grundlagen
-2. Frequenz, Periodendauer und Wellenlänge
-3. Elektromagnetische Wellen
-4. Grundlagen der Antennentechnik
-5. Antennenformen und Abstrahlung
-6. Impedanz, Anpassung und SWR
-7. Speiseleitungen
-8. Funkwellenausbreitung
-9. Sender und Empfänger
-10. Modulation und Betriebsarten
-11. Elektronische Bauteile und Schaltungen
-12. Messtechnik
-13. Praktischer Antennenbau
-14. Funkbetrieb
-15. DX, Relais und Satelliten
-16. Sicherheit und EMV
-17. Amateurfunk in der Schweiz
-18. Vorbereitung auf die Prüfung
-
----
-
-# Entwicklung des Lehrwerks
-
-Das Lehrwerk ist nicht als unveränderliches abgeschlossenes Buch gedacht.
-
-Technische Grundlagen bleiben zwar langfristig gültig, doch:
-
-- Prüfungsanforderungen
-- Funktechnik
-- digitale Betriebsarten
-- regulatorische Bedingungen
-
-entwickeln sich weiter.
-
-Die Inhalte werden deshalb bei Bedarf überprüft und aktualisiert.
-
-Änderungen sollen dabei nicht nur ergänzt, sondern in den bestehenden didaktischen Aufbau integriert werden.
 
 ---
 
