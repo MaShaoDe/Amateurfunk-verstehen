@@ -225,3 +225,9 @@ body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(3) { border-
 body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(1) .md-button { background-color: #F5B58C; border-color: #F5B58C; color: #3B1405; }
 body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(2) .md-button { background-color: #EBA9C5; border-color: #EBA9C5; color: #3E0A22; }
 body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(3) .md-button { background-color: #8FD1C8; border-color: #8FD1C8; color: #0B2F2B; }
+
+/* Namensnennung in der Fusszeile */
+.autor-fuss { background: var(--md-primary-fg-color); color: var(--md-primary-bg-color); }
+.autor-fuss__inhalt { max-width: 61rem; margin: 0 auto; padding: .9rem 1rem; font-size: .8rem; line-height: 1.5; }
+.autor-fuss a { color: inherit; text-decoration: underline; }
+@media print { .autor-fuss { display: none; } }
