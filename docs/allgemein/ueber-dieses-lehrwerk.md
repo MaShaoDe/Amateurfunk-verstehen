@@ -34,15 +34,27 @@ zusammengestellt.
 Getippt wurde das ursprüngliche Manuskript auf einem selbstgebauten Computer mit einem Zilog-Z80-Prozessor, unter dem Betriebssystem CP/M 2.2, mit der Textverarbeitung WordStar der Firma MicroPro, damals eine der verbreitetsten Textverarbeitungen im professionellen und semiprofessionellen Umfeld.
 
 
+## So entstand das Original: Karopapier, Bleistift und Mortadella
+
+Die Skizzen von damals waren ein Sammelsurium aus Karopapier und Makulatur, auf deren Rückseite ich gezeichnet habe. Ich zeichnete sie mit Bleistift, korrigierte, radierte aus und zeichnete neu. Manche Blätter haben sogar Mortadella-Flecken.
+
+Dann habe ich die Skizzen fotokopiert, ausgeschnitten und auf die Kopiervorlage geklebt. Alles andere war mit der Schreibmaschine geschrieben. Im Copy Center wurde das Ganze vervielfältigt und mehrfach gelocht. So ging das damals.
+
 ## Die alten Dateien wieder lesbar machen
 
 Über vierzig Jahre später mussten diese Dateien für die vorliegende Neuauflage zunächst wieder lesbar gemacht werden. Dazu wurde eine CP/M-Emulation auf einem heutigen MacBook zum Laufen gebracht, um die alten WordStar-Dokumente zu öffnen und ihren Inhalt in ein zeitgemäss nutzbares Format zu überführen. Erst danach konnte die inhaltliche und didaktische Überarbeitung beginnen.
 
+Ich habe dazu unter CP/M einen Batch geschrieben. Er öffnete sämtliche Dateien und speicherte sie ohne WordStar-Formatierung wieder ab. Das ging recht zügig, und so konnte ich später 350 bis 400 Dateien wieder lesen.
+
+Das hätte wohl auch eine KI erledigen können. Ich wollte es aber nicht. Ich wollte CP/M wieder fühlen und wieder erleben, wie es ist, eine Datei zu kopieren und dafür den Befehl PIP zu benutzen.
+
 ## Skizzen einscannen und neu zeichnen lassen
 
-Zu den Unterlagen von damals gehörten Skizzen. Für die Neuauflage habe ich sie eingescannt und mit Hilfe einer KI neu zeichnen lassen. Die Abbildungen der heutigen Fassung sind also neu erstellt und neu beschriftet.
+Ich habe alle Skizzen noch in einem Umschlag gefunden. Es waren früher weitaus mehr. Heute sind vielleicht 10 bis 20 davon vorhanden. Der Rest musste neu gezeichnet werden.
 
-Sie folgen bewusst keinem modernen Infografikstil, sondern den einfachen Zeichnungen aus Ausbildungsunterlagen der 1980er-Jahre. Sie sollen einen technischen Sachverhalt erklären und nicht bloss gut aussehen.
+Ich habe die Skizzen mit meinem Epson-Scanner am Mac eingescannt und von einer KI sauber nachzeichnen lassen. Die neuen Zeichnungen sind wieder im Bleistiftstil, aber viel schöner geworden. Die KI hat das sehr gut gemacht, ich musste kaum etwas korrigieren.
+
+Die Abbildungen der heutigen Fassung sind also neu erstellt und neu beschriftet. Sie folgen bewusst keinem modernen Infografikstil, sondern den einfachen Zeichnungen aus Ausbildungsunterlagen der 1980er-Jahre. Sie sollen einen technischen Sachverhalt erklären und nicht bloss gut aussehen.
 
 ## Der Amateurfunk in der Schweiz von 1984
 
@@ -102,6 +114,16 @@ Die gesamte Struktur wurde neu geordnet, fachlich überprüft und zu einem zusam
 Ziel war es, aus historischen Ausbildungsnotizen ein modernes Lehrwerk zu entwickeln, das technisch nachvollziehbar, prüfungsrelevant, praxisbezogen und systematisch aufgebaut ist und auch ohne umfangreiche Vorkenntnisse verständlich bleibt.
 
 Dabei wurden veraltete technische oder regulatorische Angaben nicht ungeprüft übernommen.
+
+## Quellen sammeln, ordnen und redigieren
+
+Ich habe unzählige Quellen zusammengesucht und seitenweise Dokumente von damals eingescannt. Dazu kam viel Material aus Büchern von damals, auch aus einem Buch von 1971, das Heini Stutz und Ueli Hofer verfasst haben. All das ist eingeflossen.
+
+Die vielen Zettel habe ich eingelesen und mit der KI aussortieren lassen. Ich habe der KI gesagt, wie ich Struktur und Aufbau haben will, und sie hat die Unterlagen dann zurechtgezupft. Meine Texte hat die KI nach meinen Vorgaben (Prompts) neu formuliert. Danach habe ich Dutzende Redigierdurchgänge gemacht, bis ich zufrieden war.
+
+## Version 2 und Open Source
+
+Jetzt sind wir bei Version 2. Wieder hilft mir eine KI, diesmal Claude, das Ganze sauber in Form zu bringen. Ich habe beschlossen, ein Open-Source-Projekt daraus zu machen, damit möglichst viele Menschen davon profitieren können.
 
 ---
 
