@@ -11,6 +11,15 @@ Diese Bücher gibt es bei einem Schweizer Fachhändler: [Lutz Electronics (HB9NB
 - **Eckart K. W. Moltrecht: Technik für HB9** («Der Weg zu HB9»). Dasselbe für die HB9-Prüfung.
 - **Harald Zisler und Thomas Lauterbach: Amateurfunk, Das umfassende Handbuch.** Ein dickes Nachschlagewerk zu Elektrotechnik, Elektronik und Funktechnik, geeignet für Einsteiger und zum Vertiefen. Auch der Funk Club Hauenstein (HB9BC) empfiehlt es zum Ergänzen (3. Auflage, ISBN 978-3-367-10068-2).
 
+## Wo du die Bücher kaufen kannst
+
+Bewusst nur Schweizer und europäische Händler. Such dort nach dem Titel und dem Autor, ob das Buch lieferbar ist, siehst du im Shop.
+
+- [Lutz Electronics](https://lutz-electronics.ch/fachliteratur-lernpakete-werkstatt/ausbildung-literatur/){ target="_blank" rel="noopener" }: Fachhändler für Amateurfunk, Schweiz. Führt die Moltrecht-Bücher für HB3 und HB9 und die Bücher von René Lutz.
+- [Orell Füssli](https://www.orellfuessli.com/){ target="_blank" rel="noopener" }: Schweizer Buchhandlung mit Onlineshop
+- [Ex Libris](https://www.exlibris.ch/de/){ target="_blank" rel="noopener" }: Schweizer Onlineshop für Bücher
+- [Lehmanns Media](https://www.lehmanns.ch/){ target="_blank" rel="noopener" }: Fachbuchhandlung mit Schweizer Shop
+
 ## Bücher für die Praxis
 
 Vom selben Händler, geschrieben von René Lutz (HB9NBG). Sie gehören nicht zum Prüfungsstoff, helfen aber beim Funken:
@@ -35,6 +44,11 @@ Zum Nachschlagen eignen sich ausserdem «Dezibel-Praxis» und «Die 100 wichtigs
 - [BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" }: Prüfungen, Konzessionen, Vorschriften und die Formelsammlung
 - [USKA](https://www.uska.ch/){ target="_blank" rel="noopener" }: Union Schweizerischer Kurzwellen-Amateure
 - [ARRL](https://www.arrl.org/){ target="_blank" rel="noopener" }: amerikanischer Verband, ergänzende Fachliteratur
+
+## Plattformen für Funkamateure
+
+- [HamQTH](https://www.hamqth.com/){ target="_blank" rel="noopener" }: Rufzeichen-Verzeichnis (Callbook) und Logbuch. Wird in einem Artikel als Alternative zu QRZ.com beschrieben. Der Betreiber hat das Rufzeichen OK2CQR, das Präfix OK gehört zu Tschechien.
+- [QRZ.com](https://www.qrz.com/){ target="_blank" rel="noopener" }: das bekannteste Rufzeichen-Verzeichnis. Es ist ein amerikanisches Angebot.
 
 ## Weiterlernen
 
