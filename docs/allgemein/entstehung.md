@@ -21,12 +21,12 @@ Mein selbstgebauter Computer war ein ELZET 80, aufgebaut aus Bausätzen der Firm
 
 <figure markdown>
   ![Werbeanzeige für die Textverarbeitung WordStar von MicroPro](../images/entstehung/wordstar-werbung.jpg){ width="55%" loading=lazy }
-  <figcaption>Werbung für WordStar von MicroPro: "What you see is what you get". <span class="bildrechte">Bildrechte: offen</span></figcaption>
+  <figcaption>Werbung für WordStar von MicroPro: "What you see is what you get". <span class="bildrechte">Quelle: Internet, Urheber unbekannt. Von der Lizenz CC BY 4.0 ausgenommen.</span></figcaption>
 </figure>
 
 <figure markdown>
   ![Titelseite eines WordStar-Prospekts mit einer Diskette](../images/entstehung/wordstar-prospekt.jpg){ width="45%" loading=lazy }
-  <figcaption>Titelseite eines WordStar-Prospekts. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+  <figcaption>Titelseite eines WordStar-Prospekts. <span class="bildrechte">Quelle: Internet, Urheber unbekannt. Von der Lizenz CC BY 4.0 ausgenommen.</span></figcaption>
 </figure>
 
 <figure markdown>
@@ -63,12 +63,12 @@ Das hätte wohl auch eine KI erledigen können. Ich wollte es aber nicht. Ich wo
 
 <figure markdown>
   ![Bildschirm unter CP/M mit Verzeichnisliste, darin das Programm PIP](../images/entstehung/cpm-bildschirm.jpg){ width="70%" loading=lazy }
-  <figcaption>So sah das unter CP/M aus: Verzeichnis mit dem Programm PIP. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+  <figcaption>So sah das unter CP/M aus: Verzeichnis mit dem Programm PIP. <span class="bildrechte">Quelle: Internet, Urheber unbekannt. Von der Lizenz CC BY 4.0 ausgenommen.</span></figcaption>
 </figure>
 
 <figure markdown>
   ![Systemhandbuch CP/M Plus von Digital Research in Schuber und Ringordner](../images/entstehung/cpm-handbuch.jpg){ width="50%" loading=lazy }
-  <figcaption>Das Systemhandbuch zu CP/M Plus von Digital Research. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+  <figcaption>Das Systemhandbuch zu CP/M Plus von Digital Research. <span class="bildrechte">Quelle: Internet, Urheber unbekannt. Von der Lizenz CC BY 4.0 ausgenommen.</span></figcaption>
 </figure>
 
 ## Skizzen einscannen und neu zeichnen lassen
