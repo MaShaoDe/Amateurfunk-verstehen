@@ -8,6 +8,10 @@ Die HB3-Prüfung ist der Einstieg in den Amateurfunk. Du darfst damit auf ausgew
 !!! note "Im Aufbau"
     Der neue HB3-Kurs mit kurzen, einfachen Lektionen entsteht gerade. Bis er fertig ist, findest du hier die bestehenden Unterlagen für HB3.
 
+## Der neue Kurs
+
+- [Lektion 1: Was ist Funk?](kurs/01-was-ist-funk.md) (Probelektion)
+
 ## Das brauchst du für HB3
 
 - **Mathematik-Vorkurs:** [Vorkurs HB3](vk-mathematik-vorkurs-hb3.md) und die [Übungsreihe HB3](vk-uebungsreihe-hb3.md) mit den [Resultaten](vk-uebungsreihe-hb3-resultate.md)
