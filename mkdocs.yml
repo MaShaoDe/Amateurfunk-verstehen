@@ -52,6 +52,7 @@ extra_javascript:
 nav:
   - Start:
       - index.md
+      - Was ist Amateurfunk?: was-ist-amateurfunk.md
       - So lernst du: lernplan.md
       - Die Prüfung auf einen Blick: pruefung.md
   - HB3:

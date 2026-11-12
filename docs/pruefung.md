@@ -49,6 +49,19 @@ Wichtig sind diese Tasten:
 
 Gängige Beispiele sind einfache wissenschaftliche Rechner der Reihen TI-30 oder Casio fx-82. Sie kosten im Handel meist 20 bis 30 Franken. Prüfe vor dem Kauf, dass dein Modell nicht programmierbar ist, und **übe von Anfang an mit dem Rechner, den du an der Prüfung brauchst.** Jedes Modell hat eigene Tastenfolgen, und die Prüfung ist nicht der Ort, sie zu entdecken.
 
+## Prüfung und Rufzeichen: was brauchst du wofür?
+
+Das ist zweierlei, und es lohnt sich, beides auseinanderzuhalten.
+
+- **Die bestandene Prüfung** ist die Voraussetzung, um überhaupt senden zu dürfen. Sie gilt ein Leben lang.
+- **Das Rufzeichen** ist deine weltweit eindeutige Kennung beim Funken. Du beantragst es nach der Prüfung beim BAKOM.
+- **Mit einem Verein geht es auch ohne eigenes Rufzeichen.** Als Mitglied darfst du mit dem Vereinsrufzeichen funken. Das erleichtert den Einstieg, weil du anfangs kein Geld für ein eigenes Rufzeichen ausgeben musst.
+- Ein persönliches Rufzeichen läuft nach 5 Jahren ohne fortlaufende Zahlung ab (Angabe eines ETH-Vereins, Stand März 2024).
+
+## Wo kommen die Fragen her?
+
+Die Fragen sind spezifisch fürs BAKOM. Ein Teil stammt nach Angabe eines ETH-Vereins aus dem früheren deutschen Fragenkatalog. Ein offizieller Lernplan lag 2024 noch nicht vor. Fragenkataloge zum Üben gibt es in Kursen und online. Dieses Lehrwerk bereitet dich auf die Themen vor, die an der Prüfung verlangt werden. Sieh dir zusätzlich Beispielfragen an, damit du das Format kennst.
+
 ## Nach der Prüfung
 
 - Die bestandene Prüfung gilt ein Leben lang.
