@@ -30,11 +30,7 @@ $$I = \frac{U}{R} \qquad\qquad R = \frac{U}{I}$$
 
 So musst du die Formel nicht auswendig umstellen. Zeichne ein Dreieck. Oben steht U, unten stehen R und I nebeneinander:
 
-```
-    U
-  -----
-  R | I
-```
+<div class="grafik" markdown="0"><svg style="width:180px;height:auto;display:block;margin:1rem auto;" viewbox="0 0 200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Formeldreieck: oben U, unten links R, unten rechts I"><polygon fill="none" points="100,10 10,170 190,170" stroke="currentColor" stroke-width="2.5"></polygon><line stroke="currentColor" stroke-width="2" x1="10" x2="190" y1="110" y2="110"></line><line stroke="currentColor" stroke-width="2" x1="100" x2="100" y1="110" y2="170"></line><text fill="currentColor" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" x="100" y="80">U</text><text fill="currentColor" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="55" y="150">R</text><text fill="currentColor" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="145" y="150">I</text></svg></div>
 
 Decke die Grösse ab, die du suchst:
 
