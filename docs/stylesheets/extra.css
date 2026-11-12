@@ -189,3 +189,17 @@
         body { font-size: 11pt; }
       }
     
+/* Druck: Tabellen der Übungsblätter kompakt, damit ein Blatt auf eine Seite passt */
+@media print {
+  .uebungsblatt-table th, .uebungsblatt-table td { padding: .2rem .5rem !important; font-size: 10pt !important; line-height: 1.25 !important; }
+  .uebungsblatt-table { margin: .4rem 0 .8rem !important; }
+  .md-typeset h1 { font-size: 18pt !important; margin: 0 0 .4rem !important; }
+  .md-typeset p { margin: .4em 0 !important; }
+  .md-typeset hr { margin: .6em 0 !important; }
+}
+@media print {
+  .nato-table th, .nato-table td { padding: .1rem .4rem !important; font-size: 9.5pt !important; }
+  .md-content__inner { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+  .md-content__inner::after, .md-content__inner::before { display: none !important; }
+  .md-main__inner { margin-top: 0 !important; margin-bottom: 0 !important; }
+}

@@ -4,7 +4,7 @@ Jeder bringt etwas anderes mit. Darum gibt es hier keinen festen Stundenplan, so
 
 ## Schritt 1: Schau, wo du stehst
 
-Geh die Lerncheckliste durch, [für HB3](hb3/vk-lerncheckliste-hb3.md) oder [für HB9](hb9/vk-lerncheckliste.md). Setz bei jedem Thema ein ✓, wenn du es sicher kannst, und einen Strich, wenn nicht. Das dauert eine Stunde und spart dir viele.
+Geh die Lerncheckliste durch, [für HB3](../hb3/vk-lerncheckliste-hb3.md) oder [für HB9](../hb9/vk-lerncheckliste.md). Setz bei jedem Thema ein ✓, wenn du es sicher kannst, und einen Strich, wenn nicht. Das dauert eine Stunde und spart dir viele.
 
 ## Schritt 2: Such dir deinen Typ
 
