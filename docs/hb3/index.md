@@ -15,9 +15,9 @@ Die HB3-Prüfung ist der Einstieg in den Amateurfunk. Du darfst damit auf ausgew
 - **Aussendungsarten:** das [Übungsblatt für HB3](uebungsblatt-aussendungsarten-hb3.md)
 - **Für beide Prüfungen:** [Frequenztabelle](../allgemein/uebungsblatt-frequenztabelle.md), [Buchstabieralphabet](../allgemein/uebungsblatt-buchstabieralphabet.md), [Q-Codes für die Prüfung](../allgemein/uebungsblatt-q-codes-pruefung.md), [U, R, I und Leistung](../allgemein/uebungsblatt-spannung-strom-widerstand-leistung.md)
 
-## HB3 und HB9 im Vergleich
+## Kurz verglichen
 
---8<-- "vergleich-hb3-hb9.md"
+--8<-- "vergleich-kurz-tief.md"
 
 ## Danach: HB9
 

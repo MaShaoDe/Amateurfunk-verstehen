@@ -203,3 +203,10 @@
   .md-content__inner::after, .md-content__inner::before { display: none !important; }
   .md-main__inner { margin-top: 0 !important; margin-bottom: 0 !important; }
 }
+
+/* Einklappbare Resultate: kompakte Tabelle, im Druck nicht ausgeben */
+.md-typeset details.success table { font-size: .75rem; }
+.md-typeset details.success table th, .md-typeset details.success table td { padding: .35em .8em; }
+@media print {
+  .md-typeset details { display: none !important; }
+}

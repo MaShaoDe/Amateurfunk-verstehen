@@ -39,6 +39,6 @@ Die HB9-Prüfung führt zur vollen Amateurfunkzulassung, auch CEPT-Lizenz genann
 - **Alle Kapitel:** siehe die Liste links, von Kapitel 1 bis 18
 - **Für beide Prüfungen:** [Allgemeiner Bereich](../allgemein/index.md)
 
-## HB3 und HB9 im Vergleich
+## Kurz verglichen
 
---8<-- "vergleich-hb3-hb9.md"
+--8<-- "vergleich-kurz-tief.md"
