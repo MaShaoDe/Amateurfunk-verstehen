@@ -187,7 +187,7 @@ Beim Empfang verhält sie sich ähnlich wie ein Mikrofon, das eine Welle aufnimm
 .
 .
 
-<div style="text-align:center;"><img alt="Abbildung 4-1" src="/HAM-Radio/educ/lizkurs/images/abbildung_4-1.png" style="width:60%; height:auto;"></div>
+<div style="text-align:center;"><img alt="Abbildung 4-1" src="images/abbildung_4-1.jpg" style="width:60%; height:auto;"></div>
 
 **Abbildung 4-1:** Eine Antenne wirkt als Koppelelement zwischen leitungsgebundener Hochfrequenzenergie und elektromagnetischer Energie im freien Raum.
 .
