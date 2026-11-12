@@ -173,12 +173,6 @@ Dieses Lehrwerk soll deshalb nicht nur zur Prüfung führen, sondern dazu beitra
 
 **vom Elektron im Leiter bis zur Funkverbindung über Tausende Kilometer.**
 
-# Navigation
-
-[↑ Zurück zum Inhaltsverzeichnis](../hb9/einfuehrung.md)
-
-[Kapitel 1: Elektrische Grundlagen →](../hb9/01-elektrische-grundlagen.md)
-
 ---
 
 *© 1984 bis 2026 FerienBSD aka Marcel Sauder. Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de). Du darfst die Inhalte teilen und bearbeiten, wenn du den Urheber nennst.*
