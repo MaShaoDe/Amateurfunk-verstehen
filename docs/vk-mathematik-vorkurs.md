@@ -1,6 +1,6 @@
 # HB9 Mathematik-Vorkurs
 
-Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet in der [HB3-Fassung dieses Vorkurses](vk-mathematik-vorkurs-hb3.html) die kürzere, auf den HB3-Umfang zugeschnittene Version.
+Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet in der [HB3-Fassung dieses Vorkurses](vk-mathematik-vorkurs-hb3.md) die kürzere, auf den HB3-Umfang zugeschnittene Version.
 
 ## Ziel
 
@@ -30,7 +30,7 @@ Für eine HB3-Vorbereitung sollten deshalb insbesondere sicher sitzen:
 - einfache Formeln
 - grundlegende dB-Verhältnisse
 
-Diese reduzierte Fassung steht eigenständig als [HB3 Mathematik-Vorkurs](vk-mathematik-vorkurs-hb3.html) zur Verfügung.
+Diese reduzierte Fassung steht eigenständig als [HB3 Mathematik-Vorkurs](vk-mathematik-vorkurs-hb3.md) zur Verfügung.
 
 Wer direkt HB9 anstrebt, sollte die vollständige folgende Liste beherrschen.
 

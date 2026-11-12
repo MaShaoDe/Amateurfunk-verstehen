@@ -198,7 +198,7 @@ Material wieder anzusetzen ist wesentlich umständlicher.
 
 ## Der Halbwellendipol
 
-Der Halbwellendipol wurde bereits in [Kapitel 4](04-antennen-grundlagen.html#der-halbwellendipol) eingeführt. Für den praktischen Bau nochmals die wichtigsten Masse:
+Der Halbwellendipol wurde bereits in [Kapitel 4](04-antennen-grundlagen.md#der-halbwellendipol) eingeführt. Für den praktischen Bau nochmals die wichtigsten Masse:
 
 Ein einfacher Halbwellendipol besteht aus zwei ungefähr gleich langen Leitern.
 
@@ -1251,11 +1251,11 @@ Für HB9 ist zusätzlich ein vertieftes Verständnis der Impedanz, des Blindante
 
 ## Navigation
 
-[← Kapitel 12: Messtechnik](12-messtechnik.html)
+[← Kapitel 12: Messtechnik](12-messtechnik.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 14: Funkbetrieb →](14-funkbetrieb.html)
+[Kapitel 14: Funkbetrieb →](14-funkbetrieb.md)
 
 ---
 

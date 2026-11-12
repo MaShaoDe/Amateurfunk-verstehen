@@ -1398,11 +1398,11 @@ Die Prüfung stellt die aktuelle Frequenz-Hilfstabelle zur Verfügung. Ziel ist 
 
 # Navigation
 
-[← Kapitel 16: Sicherheit und EMV](16-sicherheit-emv.html)
+[← Kapitel 16: Sicherheit und EMV](16-sicherheit-emv.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 18: Vorbereitung auf die Prüfung →](18-pruefungsvorbereitung.html)
+[Kapitel 18: Vorbereitung auf die Prüfung →](18-pruefungsvorbereitung.md)
 
 ---
 

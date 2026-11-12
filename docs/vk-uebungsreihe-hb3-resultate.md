@@ -153,9 +153,9 @@ AT.15 ungefähr ein Viertel (etwa 25 %)
 
 ## Navigation
 
-[← UE2-Übungsreihe](vk-uebungsreihe-hb3.html)
+[← UE2-Übungsreihe](vk-uebungsreihe-hb3.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
 ---
 

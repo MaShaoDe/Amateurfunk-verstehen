@@ -1,6 +1,6 @@
 # Übungsblatt: Aussendungsarten und Kürzel (HB9)
 
-Die dreistellige Bezeichnung einer Aussendungsart setzt sich aus Modulationsart, Signalart und Informationsart zusammen. HB9 verlangt gegenüber HB3 einen deutlich grösseren Umfang an Zeichen und Kombinationen. Dieses Merkblatt ordnet den Stoff nach Prüfungspriorität. Die HB3-Version steht separat unter [Übungsblatt: Aussendungsarten und Kürzel (HB3)](uebungsblatt-aussendungsarten-hb3.html).
+Die dreistellige Bezeichnung einer Aussendungsart setzt sich aus Modulationsart, Signalart und Informationsart zusammen. HB9 verlangt gegenüber HB3 einen deutlich grösseren Umfang an Zeichen und Kombinationen. Dieses Merkblatt ordnet den Stoff nach Prüfungspriorität. Die HB3-Version steht separat unter [Übungsblatt: Aussendungsarten und Kürzel (HB3)](uebungsblatt-aussendungsarten-hb3.md).
 
 ## 1. Erstes Zeichen: Modulationsart des Hauptträgers
 

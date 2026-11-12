@@ -2100,9 +2100,9 @@ Kondensatoren, Spulen, Blindwiderstände, Transformatoren und weiterführende Ha
 
 # Navigation
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 2: Frequenz, Periodendauer und Wellenlänge →](02-frequenz-wellenlaenge.html)
+[Kapitel 2: Frequenz, Periodendauer und Wellenlänge →](02-frequenz-wellenlaenge.md)
 
 ---
 
