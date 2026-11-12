@@ -1,6 +1,6 @@
 # UE1-Übungsreihe. HB9 Mathematik-Vorkurs
 
-Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet in [UE2](vk-uebungsreihe-hb3.html) die kürzere, auf den HB3-Umfang zugeschnittene Übungsreihe.
+Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet in [UE2](vk-uebungsreihe-hb3.md) die kürzere, auf den HB3-Umfang zugeschnittene Übungsreihe.
 
 Ablauf pro Lektion: kurze Erklärung, ein vorgerechnetes Beispiel, ein Achtung-Hinweis zu einem typischen Fehler, dann die eigenen Aufgaben. Am Ende jedes Moduls folgt eine gemischte Übung, die mehrere Lektionen kombiniert, so wie es in echten Prüfungsaufgaben vorkommt. Reihenfolge einhalten, jede Lektion erst abhaken, wenn die Aufgaben ohne Nachdenken gelingen. Am Ende steht ein grosser gemischter Abschlusstest über alle 19 Lektionen. Die Resultate stehen separat in UE1-Resultate, nummeriert nach Lektion und Aufgabe.
 

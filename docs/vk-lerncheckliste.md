@@ -1,6 +1,6 @@
 # HB9 Lerncheckliste nach dem Mathematik-Vorkurs
 
-Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet in der [HB3-Lerncheckliste](vk-lerncheckliste-hb3.html) die kürzere, auf den HB3-Umfang zugeschnittene Fassung.
+Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet in der [HB3-Lerncheckliste](vk-lerncheckliste-hb3.md) die kürzere, auf den HB3-Umfang zugeschnittene Fassung.
 
 ## Ausgangslage
 

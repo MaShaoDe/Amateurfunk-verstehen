@@ -1211,11 +1211,11 @@ Für HB9 sollte das Verständnis dieser Zusammenhänge sicher genug sein, um sie
 
 # Navigation
 
-[← Kapitel 2: Frequenz, Periodendauer und Wellenlänge](02-frequenz-wellenlaenge.html)
+[← Kapitel 2: Frequenz, Periodendauer und Wellenlänge](02-frequenz-wellenlaenge.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 4: Grundlagen der Antennentechnik →](04-antennen-grundlagen.html)
+[Kapitel 4: Grundlagen der Antennentechnik →](04-antennen-grundlagen.md)
 
 ---
 

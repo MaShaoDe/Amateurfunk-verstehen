@@ -2,9 +2,9 @@
 
 ## Ausgangslage
 
-Diese Checkliste setzt den bereits definierten **Mathematik-Vorkurs** voraus, insbesondere den reduzierten HB3-Umfang, siehe [Bemerkung zu HB3](vk-mathematik-vorkurs.html#bemerkung-zu-hb3).
+Diese Checkliste setzt den bereits definierten **Mathematik-Vorkurs** voraus, insbesondere den reduzierten HB3-Umfang, siehe [Bemerkung zu HB3](vk-mathematik-vorkurs.md#bemerkung-zu-hb3).
 
-Sie ist die auf die HB3-NOVICE-Prüfung zugeschnittene, kürzere Fassung der [HB9-Lerncheckliste](vk-lerncheckliste.html), gleiche Themenblöcke, aber auf den für HB3 relevanten Umfang reduziert.
+Sie ist die auf die HB3-NOVICE-Prüfung zugeschnittene, kürzere Fassung der [HB9-Lerncheckliste](vk-lerncheckliste.md), gleiche Themenblöcke, aber auf den für HB3 relevanten Umfang reduziert.
 
 Das BAKOM legt für HB3 grundsätzlich dieselben Themenbereiche wie für HB9 fest, jedoch mit deutlich weniger komplexen technischen und rechnerischen Fragen. Das bedeutet: Begriffe und Zusammenhänge müssen auch für HB3 verstanden werden, aber ohne die vertiefte Formel- und Rechenebene, die in diesem Lehrwerk als **HB9-Vertiefung** gekennzeichnet ist. Diese Abschnitte können für die reine HB3-Vorbereitung übersprungen werden.
 
@@ -167,7 +167,7 @@ Das BAKOM legt für HB3 grundsätzlich dieselben Themenbereiche wie für HB9 fes
 - [ ] gebräuchliche Q-Codes kennen
 - [ ] gebräuchliche Amateurfunkabkürzungen kennen
 
-**Ziel:** Die in der Prüfung verwendete Funksprache sicher verstehen, dieser Block wird für HB3 ebenfalls nicht vereinfacht, siehe [Kapitel 14](14-funkbetrieb.html).
+**Ziel:** Die in der Prüfung verwendete Funksprache sicher verstehen, dieser Block wird für HB3 ebenfalls nicht vereinfacht, siehe [Kapitel 14](14-funkbetrieb.md).
 
 # 20. Schweizer Amateurfunkvorschriften für HB3
 
@@ -178,7 +178,7 @@ Das BAKOM legt für HB3 grundsätzlich dieselben Themenbereiche wie für HB9 fes
 - [ ] Regeln für Rufzeichen kennen
 - [ ] mit der an der Prüfung abgegebenen Frequenzliste sicher arbeiten können
 
-**Ziel:** Konkrete Prüfungsfälle für die eingeschränkten HB3-Rechte richtig beurteilen können, siehe [Kapitel 17](17-amateurfunk-schweiz.html).
+**Ziel:** Konkrete Prüfungsfälle für die eingeschränkten HB3-Rechte richtig beurteilen können, siehe [Kapitel 17](17-amateurfunk-schweiz.md).
 
 # Wann ist ein Themenblock abgeschlossen?
 
@@ -200,7 +200,7 @@ Ein Block ist für die HB3-Vorbereitung ausreichend gelernt, wenn:
 
 ## Und danach?
 
-Wer nach der HB3-Zulassung später auf HB9 aufsteigen möchte, findet die vertiefte Fassung in der [HB9-Lerncheckliste](vk-lerncheckliste.html). Die dort mit **HB9-Vertiefung** gekennzeichneten Abschnitte in den Kapiteln sind genau die Stellen, die für den Aufstieg zusätzlich gelernt werden müssen.
+Wer nach der HB3-Zulassung später auf HB9 aufsteigen möchte, findet die vertiefte Fassung in der [HB9-Lerncheckliste](vk-lerncheckliste.md). Die dort mit **HB9-Vertiefung** gekennzeichneten Abschnitte in den Kapiteln sind genau die Stellen, die für den Aufstieg zusätzlich gelernt werden müssen.
 
 ---
 

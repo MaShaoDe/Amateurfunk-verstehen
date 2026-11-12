@@ -1805,11 +1805,11 @@ Impedanz, Anpassung und SWR folgen in Kapitel 6.
 
 # Navigation
 
-[← Kapitel 4: Grundlagen der Antennentechnik](04-antennen-grundlagen.html)
+[← Kapitel 4: Grundlagen der Antennentechnik](04-antennen-grundlagen.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 6: Impedanz, Anpassung und SWR →](06-impedanz-anpassung-swr.html)
+[Kapitel 6: Impedanz, Anpassung und SWR →](06-impedanz-anpassung-swr.md)
 
 ---
 

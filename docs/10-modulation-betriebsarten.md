@@ -1032,11 +1032,11 @@ Für HB9 kommen insbesondere die rechnerischen Zusammenhänge zu AM, FM, Datenü
 
 ## Navigation
 
-[← Kapitel 9: Sender und Empfänger](09-sender-empfaenger.html)
+[← Kapitel 9: Sender und Empfänger](09-sender-empfaenger.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 11: Elektronische Bauteile und Schaltungen →](11-elektronische-bauteile-schaltungen.html)
+[Kapitel 11: Elektronische Bauteile und Schaltungen →](11-elektronische-bauteile-schaltungen.md)
 
 ---
 
