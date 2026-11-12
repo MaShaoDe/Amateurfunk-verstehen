@@ -25,16 +25,16 @@ Jede Lektion dauert etwa 20 Minuten und endet mit einer Mini-Übung.
 ## Etappe 4: Bauteile
 
 - [Lektion 8: Der Widerstand](08-widerstand.md)
-- Lektion 9: Kondensator
-- Lektion 10: Spule
-- Lektion 11: Diode und Gleichrichtung
-- Lektion 12: Transistor
-- Lektion 13: Transformator und Netzteil
+- [Lektion 9: Der Kondensator](09-kondensator.md)
+- [Lektion 10: Die Spule](10-spule.md)
+- [Lektion 11: Diode und Gleichrichtung](11-diode-und-gleichrichtung.md)
+- [Lektion 12: Der Transistor](12-transistor.md)
+- [Lektion 13: Transformator und Netzteil](13-transformator-und-netzteil.md)
 
 ## Etappe 5: Schwingen, Verstärken, Filtern
 
-- Lektion 14: Schwingkreis und Filter
-- Lektion 15: Verstärker und Dezibel
+- [Lektion 14: Schwingkreis und Filter](14-schwingkreis-und-filter.md)
+- [Lektion 15: Verstärker und Dezibel](15-verstaerker-und-dezibel.md)
 - Lektion 16: Oszillator und PLL
 
 ## Etappe 6: Sender und Empfänger

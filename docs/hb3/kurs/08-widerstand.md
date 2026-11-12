@@ -119,7 +119,7 @@ Jeder Widerstand wird warm. Auf dem Gehäuse steht nicht, wie viel er aushält, 
 - Den Wert liest du am Farbcode ab: 2 Ziffern, Multiplikator, Toleranz.
 - Die Belastbarkeit in Watt muss grösser sein als die Leistung P = U · I.
 
-**Weiter:** Lektion 9 (folgt).
+**Weiter:** [Lektion 9: Der Kondensator](09-kondensator.md)
 
 ---
 
