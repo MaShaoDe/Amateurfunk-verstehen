@@ -204,7 +204,7 @@ Einfluss haben insbesondere:
 Für den Amateurfunk unterscheidet man vereinfacht:
 
 | Schicht | ungefähre Höhe | Bedeutung |
-| --- | --- | --- |
+| --- | ---: | --- |
 | D | etwa 60 bis 90 km | hauptsächlich Absorption tieferer HF-Frequenzen |
 | E | etwa 90 bis 130 km | kann bestimmte Kurzwellen zurückführen |
 | F | etwa 150 bis über 400 km | wichtigste Schicht für grosse KW-Distanzen |
