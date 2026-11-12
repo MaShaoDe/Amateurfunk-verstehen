@@ -31,6 +31,15 @@ Die HB3-Prüfung ist der Einstieg in den Amateurfunk. Du darfst damit auf ausgew
 - [Lektion 18: Der Empfänger](kurs/18-empfaenger.md)
 - [Lektion 19: Der Sender](kurs/19-sender.md)
 - [Lektion 20: SDR, die Grundidee](kurs/20-sdr.md)
+- [Lektion 21: Antennen](kurs/21-antennen.md)
+- [Lektion 22: Kabel, Anpassung und SWR](kurs/22-kabel-anpassung-swr.md)
+- [Lektion 23: Wie sich Funkwellen ausbreiten](kurs/23-ausbreitung.md)
+- [Lektion 24: Messen](kurs/24-messen.md)
+- [Lektion 25: Störungen und EMV](kurs/25-stoerungen-emv.md)
+- [Lektion 26: Sicherheit und Strahlung (NIS)](kurs/26-sicherheit-nis.md)
+- [Lektion 27: Rufzeichen, Buchstabieren und Q-Codes](kurs/27-rufzeichen-buchstabieren-q-codes.md)
+- [Lektion 28: Die Schweizer Vorschriften für HB3](kurs/28-schweizer-vorschriften-hb3.md)
+- [Lektion 29: Abschlusstest und Prüfungstipps](kurs/29-abschlusstest-und-pruefungstipps.md)
 
 ## Das brauchst du für HB3
 

@@ -73,7 +73,7 @@ SDR gibt es als einfachen Empfangs-Stick für den Computer und als Teil moderner
 - Das bringt Flexibilität und eine Spektrumanzeige.
 - Nachteile sind Rechenleistung, Stromverbrauch und Übersteuerung.
 
-**Weiter:** Lektion 21 (folgt).
+**Weiter:** [Lektion 21: Antennen](21-antennen.md)
 
 ---
 

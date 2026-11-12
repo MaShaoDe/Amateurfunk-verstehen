@@ -46,24 +46,24 @@ Jede Lektion dauert etwa 20 Minuten und endet mit einer Mini-Übung.
 
 ## Etappe 7: Antennen und Ausbreitung
 
-- Lektion 21: Antennen
-- Lektion 22: Kabel, Anpassung und SWR
-- Lektion 23: Wie sich Funkwellen ausbreiten
+- [Lektion 21: Antennen](21-antennen.md)
+- [Lektion 22: Kabel, Anpassung und SWR](22-kabel-anpassung-swr.md)
+- [Lektion 23: Wie sich Funkwellen ausbreiten](23-ausbreitung.md)
 
 ## Etappe 8: Praxis und Sicherheit
 
-- Lektion 24: Messen
-- Lektion 25: Störungen und EMV
-- Lektion 26: Sicherheit und Strahlung (NIS)
+- [Lektion 24: Messen](24-messen.md)
+- [Lektion 25: Störungen und EMV](25-stoerungen-emv.md)
+- [Lektion 26: Sicherheit und Strahlung (NIS)](26-sicherheit-nis.md)
 
 ## Etappe 9: Betrieb und Vorschriften
 
-- Lektion 27: Rufzeichen, Buchstabieren und Q-Codes
-- Lektion 28: Die Schweizer Vorschriften für HB3
+- [Lektion 27: Rufzeichen, Buchstabieren und Q-Codes](27-rufzeichen-buchstabieren-q-codes.md)
+- [Lektion 28: Die Schweizer Vorschriften für HB3](28-schweizer-vorschriften-hb3.md)
 
 ## Etappe 10: Prüfung
 
-- Lektion 29: Abschlusstest und Prüfungstipps
+- [Lektion 29: Abschlusstest und Prüfungstipps](29-abschlusstest-und-pruefungstipps.md)
 
 ---
 
