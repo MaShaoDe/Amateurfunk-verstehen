@@ -25,7 +25,7 @@ Wähle deinen Weg:
 
     ---
 
-    Die volle Zulassung. Technik, Betrieb und Vorschriften in der ganzen Tiefe. Für Einsteigerinnen und Einsteiger genauso wie für alle, die von HB3 aufsteigen.
+    Die volle Zulassung (CEPT-Lizenz). Technik, Betrieb und Vorschriften in der ganzen Tiefe. Für Einsteigerinnen und Einsteiger genauso wie für alle, die von HB3 aufsteigen.
 
     [:octicons-arrow-right-24: Zum HB9-Kurs](hb9/index.md){ .md-button .md-button--primary }
 
