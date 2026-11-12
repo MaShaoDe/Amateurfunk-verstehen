@@ -32,7 +32,7 @@ Die HB9-Prüfung führt zur vollen Amateurfunkzulassung, auch CEPT-Lizenz genann
 
 ## Das brauchst du für HB9
 
-- **Einführung:** [Über dieses Lehrwerk](00-ueber-dieses-lehrwerk.md) und die [Einleitung](einfuehrung.md)
+- **Einführung:** [Über dieses Lehrwerk](../allgemein/ueber-dieses-lehrwerk.md) und die [Einleitung](einfuehrung.md)
 - **Mathematik-Vorkurs:** [Vorkurs HB9](vk-mathematik-vorkurs.md), [Übungsreihe](vk-uebungsreihe.md) und [Resultate](vk-uebungsreihe-resultate.md)
 - **Prüfungsthemen:** die [Lerncheckliste HB9](vk-lerncheckliste.md)
 - **Aussendungsarten:** das [Übungsblatt für HB9](uebungsblatt-aussendungsarten-hb9.md)

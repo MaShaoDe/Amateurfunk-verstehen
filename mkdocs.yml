@@ -1,5 +1,6 @@
 site_name: "Amateurfunk verstehen. Lernen für HB3 und HB9 (Schweiz)"
 site_author: Marcel Sauder
+copyright: "© 1984 bis 2026 FerienBSD aka Marcel Sauder. Lizenz: <a href=\"https://creativecommons.org/licenses/by/4.0/deed.de\">CC BY 4.0</a>"
 site_description: Lernmaterial für die schweizerischen Amateurfunkprüfungen HB3 (Novice) und HB9, offen und frei nutzbar
 docs_dir: docs
 use_directory_urls: false
@@ -65,7 +66,6 @@ nav:
   - HB9:
       - hb9/index.md
       - Einführung:
-          - Über dieses Lehrwerk: hb9/00-ueber-dieses-lehrwerk.md
           - Einleitung: hb9/einfuehrung.md
       - Vorkurs und Übungen:
           - Vorkurs HB9: hb9/vk-mathematik-vorkurs.md
@@ -94,6 +94,7 @@ nav:
           - "18. Vorbereitung auf die Prüfung": hb9/18-pruefungsvorbereitung.md
   - Allgemein:
       - allgemein/index.md
+      - Über dieses Lehrwerk (Entstehung): allgemein/ueber-dieses-lehrwerk.md
       - Was ist Amateurfunk?: allgemein/was-ist-amateurfunk.md
       - So lernst du: allgemein/lernplan.md
       - Die Prüfung auf einen Blick: allgemein/pruefung.md
