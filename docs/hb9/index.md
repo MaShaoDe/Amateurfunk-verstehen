@@ -28,7 +28,7 @@ Die HB9-Prüfung führt zur vollen Amateurfunkzulassung, auch CEPT-Lizenz genann
 </div>
 
 !!! note "Im Aufbau"
-    Der HB3-Kurs und die Brücke von HB3 zu HB9 entstehen gerade. Bis dahin findest du hier das bestehende Lehrwerk mit allen 18 Kapiteln.
+    Der HB3-Kurs ist fertig. Die Brücke von HB3 zu HB9 entsteht noch. Bis dahin findest du hier das bestehende Lehrwerk mit allen 18 Kapiteln.
 
 ## Das brauchst du für HB9
 

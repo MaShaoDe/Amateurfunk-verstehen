@@ -5,41 +5,13 @@
 
 Die HB3-Prüfung ist der Einstieg in den Amateurfunk. Du darfst damit auf ausgewählten Bändern mit begrenzter Leistung senden.
 
-!!! note "Im Aufbau"
-    Der neue HB3-Kurs mit kurzen, einfachen Lektionen entsteht gerade. Bis er fertig ist, findest du hier die bestehenden Unterlagen für HB3.
+## Der Kurs
 
-## Der neue Kurs
+29 kurze Lektionen führen dich in 10 Etappen von den Grundlagen bis zur Prüfung. Jede Lektion endet mit einer Mini-Übung.
 
-- [Kursübersicht](kurs/index.md): alle geplanten Lektionen
-- [Lektion 1: Was ist Funk?](kurs/01-was-ist-funk.md) (Probelektion)
-- [Lektion 2: Frequenz und Bänder](kurs/02-frequenz-und-baender.md)
-- [Lektion 3: Elektromagnetische Wellen und Periodendauer](kurs/03-wellen-und-periodendauer.md)
-- [Lektion 4: Spannung, Strom und Widerstand](kurs/04-spannung-strom-widerstand.md)
-- [Lektion 5: Das Ohmsche Gesetz und die Leistung](kurs/05-ohmsches-gesetz-und-leistung.md)
-- [Lektion 6: Reihen- und Parallelschaltung](kurs/06-reihen-und-parallelschaltung.md)
-- [Lektion 7: Gleichstrom und Wechselstrom](kurs/07-gleichstrom-und-wechselstrom.md)
-- [Lektion 8: Der Widerstand](kurs/08-widerstand.md)
-- [Lektion 9: Der Kondensator](kurs/09-kondensator.md)
-- [Lektion 10: Die Spule](kurs/10-spule.md)
-- [Lektion 11: Diode und Gleichrichtung](kurs/11-diode-und-gleichrichtung.md)
-- [Lektion 12: Der Transistor](kurs/12-transistor.md)
-- [Lektion 13: Transformator und Netzteil](kurs/13-transformator-und-netzteil.md)
-- [Lektion 14: Schwingkreis und Filter](kurs/14-schwingkreis-und-filter.md)
-- [Lektion 15: Verstärker und Dezibel](kurs/15-verstaerker-und-dezibel.md)
-- [Lektion 16: Oszillator und PLL](kurs/16-oszillator-und-pll.md)
-- [Lektion 17: Modulation (AM, FM, SSB)](kurs/17-modulation.md)
-- [Lektion 18: Der Empfänger](kurs/18-empfaenger.md)
-- [Lektion 19: Der Sender](kurs/19-sender.md)
-- [Lektion 20: SDR, die Grundidee](kurs/20-sdr.md)
-- [Lektion 21: Antennen](kurs/21-antennen.md)
-- [Lektion 22: Kabel, Anpassung und SWR](kurs/22-kabel-anpassung-swr.md)
-- [Lektion 23: Wie sich Funkwellen ausbreiten](kurs/23-ausbreitung.md)
-- [Lektion 24: Messen](kurs/24-messen.md)
-- [Lektion 25: Störungen und EMV](kurs/25-stoerungen-emv.md)
-- [Lektion 26: Sicherheit und Strahlung (NIS)](kurs/26-sicherheit-nis.md)
-- [Lektion 27: Rufzeichen, Buchstabieren und Q-Codes](kurs/27-rufzeichen-buchstabieren-q-codes.md)
-- [Lektion 28: Die Schweizer Vorschriften für HB3](kurs/28-schweizer-vorschriften-hb3.md)
-- [Lektion 29: Abschlusstest und Prüfungstipps](kurs/29-abschlusstest-und-pruefungstipps.md)
+- [Kursübersicht](kurs/index.md): alle Lektionen im Überblick
+- [Lektion 1: Was ist Funk?](kurs/01-was-ist-funk.md): hier fängst du an
+- [Lektion 29: Abschlusstest und Prüfungstipps](kurs/29-abschlusstest-und-pruefungstipps.md): zum Schluss
 
 ## Das brauchst du für HB3
 

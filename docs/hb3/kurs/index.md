@@ -1,9 +1,6 @@
 # HB3-Kurs: Übersicht
 
-!!! note "Vorschlag"
-    Das ist der geplante Aufbau. Die Reihenfolge folgt der [Lerncheckliste HB3](../vk-lerncheckliste-hb3.md). Lektionen ohne Link folgen noch.
-
-Jede Lektion dauert etwa 20 Minuten und endet mit einer Mini-Übung.
+Die Reihenfolge folgt der [Lerncheckliste HB3](../vk-lerncheckliste-hb3.md). Jede Lektion dauert etwa 20 bis 45 Minuten und endet mit einer Mini-Übung. Der Abschlusstest in Lektion 29 prüft den ganzen Kurs.
 
 ## Etappe 1: Rechnen
 
