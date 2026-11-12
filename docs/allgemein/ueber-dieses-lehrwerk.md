@@ -33,6 +33,31 @@ zusammengestellt.
 
 Getippt wurde das ursprüngliche Manuskript auf einem selbstgebauten Computer mit einem Zilog-Z80-Prozessor, unter dem Betriebssystem CP/M 2.2, mit der Textverarbeitung WordStar der Firma MicroPro, damals eine der verbreitetsten Textverarbeitungen im professionellen und semiprofessionellen Umfeld.
 
+<figure markdown>
+  ![Werbeanzeige für die Textverarbeitung WordStar von MicroPro](../images/entstehung/wordstar-werbung.jpg){ width="55%" loading=lazy }
+  <figcaption>Werbung für WordStar von MicroPro: "What you see is what you get". <span class="bildrechte">Bildrechte: offen</span></figcaption>
+</figure>
+
+<figure markdown>
+  ![Titelseite eines WordStar-Prospekts mit einer Diskette](../images/entstehung/wordstar-prospekt.jpg){ width="45%" loading=lazy }
+  <figcaption>Titelseite eines WordStar-Prospekts. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+</figure>
+
+<figure markdown>
+  ![Computer Elzet-K mit zwei Diskettenlaufwerken und Tastatur](../images/entstehung/elzet-k.jpg){ width="80%" loading=lazy }
+  <figcaption>Der Elzet-K: ein Computer mit 8-Zoll-Diskettenlaufwerken und einer eingebauten Festplatte mit 5 Megabyte. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+</figure>
+
+<figure markdown>
+  ![Platine der Elzet-80-CPU-Karte mit Zilog Z80](../images/entstehung/cpu-karte.jpg){ width="90%" loading=lazy }
+  <figcaption>Die CPU-Karte (Elzet 80) mit dem Zilog-Z80-Prozessor. Diese Karte habe ich selbst zusammengebaut. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+</figure>
+
+<figure markdown>
+  ![Tragbarer Computer Elzet-P mit Bildschirm, Diskettenlaufwerken und Tastatur](../images/entstehung/elzet-p.jpg){ width="55%" loading=lazy }
+  <figcaption>Später kam der Elzet-P (Portable) mit 5,25-Zoll-Laufwerken. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+</figure>
+
 
 ## So entstand das Original: Karopapier, Bleistift und Mortadella
 
@@ -47,6 +72,16 @@ Dann habe ich die Skizzen fotokopiert, ausgeschnitten und auf die Kopiervorlage 
 Ich habe dazu unter CP/M einen Batch geschrieben. Er öffnete sämtliche Dateien und speicherte sie ohne WordStar-Formatierung wieder ab. Das ging recht zügig, und so konnte ich später 350 bis 400 Dateien wieder lesen.
 
 Das hätte wohl auch eine KI erledigen können. Ich wollte es aber nicht. Ich wollte CP/M wieder fühlen und wieder erleben, wie es ist, eine Datei zu kopieren und dafür den Befehl PIP zu benutzen.
+
+<figure markdown>
+  ![Bildschirm unter CP/M mit Verzeichnisliste, darin das Programm PIP](../images/entstehung/cpm-bildschirm.jpg){ width="70%" loading=lazy }
+  <figcaption>So sah das unter CP/M aus: Verzeichnis mit dem Programm PIP. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+</figure>
+
+<figure markdown>
+  ![Systemhandbuch CP/M Plus von Digital Research in Schuber und Ringordner](../images/entstehung/cpm-handbuch.jpg){ width="50%" loading=lazy }
+  <figcaption>Das Systemhandbuch zu CP/M Plus von Digital Research. <span class="bildrechte">Bildrechte: offen</span></figcaption>
+</figure>
 
 ## Skizzen einscannen und neu zeichnen lassen
 

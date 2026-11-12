@@ -241,3 +241,9 @@ body[data-area="start"] .md-typeset .grid.cards > ul > li:nth-child(3) .md-butto
 @font-face { font-family: "Inter"; font-weight: 700; font-style: italic; font-display: swap; src: url("../assets/fonts/Inter-BoldItalic.woff") format("woff"); }
 :root, body { --md-text-font: "Inter", system-ui, -apple-system, "Segoe UI", Arial, sans-serif; --md-code-font: ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; }
 body { font-family: var(--md-text-font); }
+
+/* Abbildungen mit Bildunterschrift */
+.md-typeset figure { margin: 1.5em auto; text-align: center; }
+.md-typeset figure img { max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,.25); }
+.md-typeset figcaption { font-size: .8rem; margin-top: .6em; opacity: .85; }
+.md-typeset figcaption .bildrechte { display: block; font-size: .7rem; opacity: .7; }

@@ -27,3 +27,7 @@ Diese Datei gehört nicht zur Webseite. Sie ist die interne Liste, was vor dem S
 - [ ] Branch-Schutz für `main` prüfen (Löschen und Force-Push sperren)
 - [ ] README, Mitmachen-Anleitung (CONTRIBUTING) und Lizenzdatei prüfen
 - [ ] Tag und Release setzt Marcel Sauder selbst
+
+## Bildrechte der Entstehungsseite
+- [ ] Rechte der 7 Fotos in `docs/images/entstehung/` klären (Urheber nennen oder durch eigene Fotos ersetzen). Die Werbung und der Prospekt von WordStar und das CP/M-Handbuch sind Werke Dritter. Sie sind nicht von der Lizenz CC BY 4.0 gedeckt.
+- [ ] Danach den Vermerk "Bildrechte: offen" unter den Bildern entfernen
