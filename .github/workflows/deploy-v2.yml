@@ -38,17 +38,6 @@ jobs:
       - name: Seite bauen
         run: mkdocs build --strict -d site
 
-      - name: Test, Länge der Secrets (nur Zahlen, keine Werte)
-        env:
-          S: ${{ secrets.FTP_SERVER }}
-          U: ${{ secrets.FTP_USERNAME }}
-          P: ${{ secrets.FTP_PASSWORD }}
-        run: |
-          echo "Server: ${#S} Zeichen, Benutzer: ${#U} Zeichen, Passwort: ${#P} Zeichen"
-          echo "Server endet mit Leerzeichen/Zeilenumbruch: $([[ "$S" =~ [[:space:]]$ ]] && echo ja || echo nein)"
-          echo "Benutzer endet mit Leerzeichen/Zeilenumbruch: $([[ "$U" =~ [[:space:]]$ ]] && echo ja || echo nein)"
-          echo "Passwort endet mit Leerzeichen/Zeilenumbruch: $([[ "$P" =~ [[:space:]]$ ]] && echo ja || echo nein)"
-
       - name: Per FTPS in den Unterordner v2 hochladen
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
