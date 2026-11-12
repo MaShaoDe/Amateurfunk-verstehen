@@ -63,6 +63,10 @@ P = 14,4 × 2 = 28,8 W
 1.5 U = 27 V, I = 1,5 A. P?
 1.6 Summe: 8,9 + 16,4 = ?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion1"
+
 ---
 
 ### Lektion 2: Klammern und Rechenreihenfolge
@@ -89,6 +93,10 @@ R = 1 / 0,1 = 10 Ω
 2.5 R1 = 60 Ω, R2 = 40 Ω. R = ?
 2.6 R1 = 1.000 Ω, R2 = 1.000 Ω. R = ?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion2"
+
 ---
 
 ### Lektion 3: Positive und negative Zahlen
@@ -111,6 +119,10 @@ Ein Kabel dämpft mit -2 dB, ein Vorverstärker liefert +15 dB.
 3.5 -12 - (-5) = ?
 3.6 -2 + (-3) = ?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion3"
+
 ---
 
 ### Gemischte Übung Modul A
@@ -122,6 +134,10 @@ GA.2 Ein Signal durchläuft nacheinander -4 dB, +9 dB und -3 dB. Gesamtbilanz?
 GA.3 Zwei Geräte hängen an derselben Quelle mit 13,8 V. Gerät 1 zieht 4 A, Gerät 2 zieht 1,5 A. Gesamtleistung mit `P = U × (I1 + I2)`?
 
 GA.4 Berechne (20 - 8) × (3 + 2) = ?
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:modula"
 
 ---
 
@@ -147,6 +163,10 @@ Ein Bruch ist eine Division. `1/(2πfC)` bedeutet: 1 geteilt durch (2 × π × f
 4.5 1/(2 × π × 500 × 0,00000002) = ? (f in Hz, C in F)
 4.6 7/8 als Dezimalzahl?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion4"
+
 ---
 
 ### Lektion 5: Verhältnisrechnung
@@ -166,6 +186,10 @@ Trafo mit 30 Windungen primär, 15 Windungen sekundär.
 5.4 Trafo mit 60 Windungen primär, 20 sekundär. Verhältnis?
 5.5 Ein Signal ist 12-mal stärker als ein anderes. Verhältnis als x:1?
 5.6 Wie oft grösser ist 1:50 im Vergleich zu 1:10?
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion5"
 
 ---
 
@@ -187,6 +211,10 @@ Sender nimmt 200 W auf, gibt 140 W ab.
 6.5 Ein Widerstand hat 470 Ω, Toleranz 5 %. Bereich?
 6.6 Ein Wert steigt von 80 auf 100. Zunahme in %?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion6"
+
 ---
 
 ### Gemischte Übung Modul B
@@ -198,6 +226,10 @@ GB.2 Ein Wert wird auf 3/4 seines ursprünglichen Werts reduziert. Wie viel Proz
 GB.3 Ein Verhältnis von 5:1, als Bruch und als Prozentwert des kleineren zum grösseren Wert ausgedrückt?
 
 GB.4 Trafo mit 50 Windungen primär, 10 sekundär, Wirkungsgrad 85 %. Bei 40 W Primärleistung: wie viel Leistung kommt sekundär abzüglich Verlust ungefähr an?
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:modulb"
 
 ---
 
@@ -225,6 +257,10 @@ Die Einheit Hz zeigt: es handelt sich um eine Frequenz, keine Spannung oder Leis
 7.5 Welche Einheit hat die elektrische Leistung?
 7.6 Welche Einheit hat die Zeit?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion7"
+
 ---
 
 ### Lektion 8: Einheiten umrechnen und SI-Vorsätze
@@ -250,6 +286,10 @@ Merke: nach oben (k, M, G) wird die Zahl kleiner, nach unten (m, µ, n, p) wird 
 8.6 145 MHz = ? kHz
 8.7 68 nF = ? pF
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion8"
+
 ---
 
 ### Lektion 9: Zehnerpotenzen und wissenschaftliche Schreibweise
@@ -270,6 +310,10 @@ Merke: nach oben (k, M, G) wird die Zahl kleiner, nach unten (m, µ, n, p) wird 
 
 Taschenrechner-Tipp: EXP- oder EE-Taste verwenden, nicht "× 10 ^" manuell eintippen.
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion9"
+
 ---
 
 ### Gemischte Übung Modul C
@@ -281,6 +325,10 @@ GC.2 Ein Kondensator mit C = 100 pF und ein Widerstand mit R = 4,7 kΩ. Beide We
 GC.3 3,6 MHz und 360 kHz, welche Frequenz ist grösser, und um welchen Faktor als Zehnerpotenz?
 
 GC.4 0,0022 µF in wissenschaftlicher Schreibweise ausdrücken.
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:modulc"
 
 ---
 
@@ -305,6 +353,10 @@ Warum das zählt: an der Prüfung liegt die Formelsammlung vor. Entscheidend ist
 10.4 Lies `R = U/I` in Worten.
 10.5 Lies `C = Q/U` in Worten.
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion10"
+
 ---
 
 ### Lektion 11: Formeln umstellen
@@ -327,6 +379,10 @@ Bei P = 55 W, I = 4 A: U = 55/4 = 13,75 V
 11.5 P = 45 W, I = 3 A. U?
 11.6 Aus `U = R × I`: R = ?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion11"
+
 ---
 
 ### Lektion 12: Quadrat und Quadratwurzel
@@ -346,6 +402,10 @@ P = I² × R = 16 × 10 = 160 W
 12.4 I = 5 A, R = 8 Ω. P = I² × R = ?
 12.5 P = 98 W, R = 2 Ω. U = √(P×R) = ?
 12.6 Kreisfläche mit r = 6 mm: A = π × r² = ?
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion12"
 
 ---
 
@@ -368,6 +428,10 @@ A = π × r² = π × 2,25 ≈ 7,07 mm²
 13.4 Ein Leiter hat einen Durchmesser von 5 mm. Wie gross ist der Radius?
 13.5 Leiterquerschnitt bei r = 3 mm: A = π × r² = ?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion13"
+
 ---
 
 ### Lektion 14: Kehrwert und verschachtelte Brüche
@@ -387,6 +451,10 @@ T = 1/f = 1/250 = 0,004 s
 14.4 f = 250 Hz. T = 1/f = ?
 14.5 R1 = 120 Ω, R2 = 80 Ω. R = 1/(1/R1 + 1/R2) = ?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion14"
+
 ---
 
 ### Gemischte Übung Modul D
@@ -398,6 +466,10 @@ GD.2 f = 2,5 kHz, C = 10 nF. Berechne `XC = 1/(2πfC)`.
 GD.3 Ein Draht hat d = 2,5 mm. Berechne die Querschnittsfläche, danach den Kehrwert des Ergebnisses (reine Rechenübung).
 
 GD.4 f = 1 kHz, C = 100 nF. Berechne `XC = 1/(2πfC)`.
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:moduld"
 
 ---
 
@@ -426,6 +498,10 @@ g = 10 × lg(10) = 10 × 1 = 10 dB
 15.4 P1 = 2 W, P2 = 200 W. g in dB?
 15.5 P1 = 8 W, P2 = 8 W. g in dB?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion15"
+
 ---
 
 ### Lektion 16: Natürlicher Logarithmus ln
@@ -445,6 +521,10 @@ ln(1) = 0, da e hoch 0 gleich 1 ist.
 16.4 ln(100) berechnen.
 16.5 ln(e) berechnen. (e ist eine feste Taschenrechner-Taste, ungefähr 2,718)
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion16"
+
 ---
 
 ### Lektion 17: Zehn hoch x, Rückrechnung aus dB
@@ -462,6 +542,10 @@ g = 10 dB. Verhältnis = 10^(10/10) = 10^1 = 10:1
 17.4 Verstärkung 30 dB entspricht welchem Leistungsverhältnis?
 17.5 -3 dB entspricht ungefähr welchem Verhältnis?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion17"
+
 ---
 
 ### Gemischte Übung Modul E
@@ -473,6 +557,10 @@ GE.2 lg(50) und ln(50) berechnen. Wie gross ist die Differenz der beiden Werte?
 GE.3 Eine Verstärkung von 6 dB soll als Leistungsverhältnis dargestellt werden. Rückrechnung mit `10^(g/10)`.
 
 GE.4 P1 = 1 W, P2 = 4 W. Berechne g in dB.
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:module"
 
 ---
 
@@ -497,6 +585,10 @@ sin(45°) ≈ 0,707
 18.4 sin(0°) = ?
 18.5 sin(60°) = ?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion18"
+
 ---
 
 ### Lektion 19: Betrag, Proportionalität, Runden
@@ -516,6 +608,10 @@ f verdoppelt sich, also wird T = 1/f halb so gross: umgekehrt proportional.
 19.4 |-15| = ?
 19.5 Frequenz verdreifacht sich, was passiert mit der Periodendauer T = 1/f?
 
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:lektion19"
+
 ---
 
 ### Gemischte Übung Modul F
@@ -527,6 +623,10 @@ GF.2 f verdreifacht sich. Was passiert mit T = 1/f, und wie gross ist T bei f = 
 GF.3 Widerstand 1 kΩ, Toleranz ±10 %. Bereich bestimmen und sinnvoll runden.
 
 GF.4 Widerstand 680 Ω, Toleranz ±5 %. Bereich bestimmen und sinnvoll runden.
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:modulf"
 
 ---
 
@@ -575,6 +675,11 @@ AT.19 |-20| = ?
 AT.20 Widerstand 560 Ω, Toleranz ±10 %. Bereich?
 
 Bestanden, wenn alle 20 Aufgaben ohne Nachschlagen gelöst werden. Danach direkt weiter mit Elektronik- und Funktechnik-Themen, nicht mit weiterer abstrakter Mathematik.
+
+
+??? success "Resultate anzeigen"
+
+    --8<-- "hb9-resultate.md:at"
 
 ---
 
