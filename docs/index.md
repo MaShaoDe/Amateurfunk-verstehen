@@ -1,7 +1,6 @@
 ---
 title: Start
 hide:
-  - navigation
   - toc
 ---
 
@@ -38,6 +37,11 @@ Wähle deinen Weg:
     [:octicons-arrow-right-24: Zum Allgemeinen Bereich](allgemein/index.md){ .md-button }
 
 </div>
+
+## Gut zu wissen
+
+- [So lernst du: dein eigener Plan](lernplan.md): finde heraus, wo du anfängst
+- [Die Prüfung auf einen Blick](pruefung.md): Ablauf, Kosten, Anmeldung und Taschenrechner
 
 ## Was ist der Unterschied?
 
