@@ -13,7 +13,7 @@ Jede Lektion dauert etwa 20 Minuten und endet mit einer Mini-Übung.
 
 - [Lektion 1: Was ist Funk?](01-was-ist-funk.md)
 - [Lektion 2: Frequenz und Bänder](02-frequenz-und-baender.md)
-- Lektion 3: Elektromagnetische Wellen und Periodendauer
+- [Lektion 3: Elektromagnetische Wellen und Periodendauer](03-wellen-und-periodendauer.md)
 
 ## Etappe 3: Strom, Spannung und Widerstand
 

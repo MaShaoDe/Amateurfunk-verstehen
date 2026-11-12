@@ -76,7 +76,7 @@ Die Namen sind also gerundet. Die genauen Frequenzen eines Bands stehen in der [
 - Zwischen kHz, MHz und GHz liegt immer der Faktor 1 000.
 - Der Bandname ist die gerundete Wellenlänge: λ = 300 / f (in MHz).
 
-**Weiter:** Lektion 3 (folgt).
+**Weiter:** [Lektion 3: Elektromagnetische Wellen und Periodendauer](03-wellen-und-periodendauer.md)
 
 ---
 
