@@ -24,6 +24,17 @@ jobs:
       - name: Abhängigkeiten installieren
         run: pip install -r requirements.txt
 
+      - name: MathJax holen (liegt danach auf dem eigenen Server)
+        run: |
+          set -e
+          npm pack mathjax@3.2.2 --silent
+          tar -xzf mathjax-3.2.2.tgz
+          mkdir -p docs/assets/mathjax
+          cp -r package/es5/. docs/assets/mathjax/
+          cp package/LICENSE docs/assets/mathjax/LICENSE || true
+          test -f docs/assets/mathjax/tex-mml-chtml.js
+          rm -rf package mathjax-3.2.2.tgz
+
       - name: Seite bauen
         run: mkdocs build --strict -d site
 
