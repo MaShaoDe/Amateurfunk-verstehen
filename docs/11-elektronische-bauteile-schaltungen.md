@@ -910,7 +910,7 @@ eingesetzt.
 
 ## Wirkungsgrad
 
-Der Wirkungsgrad beschreibt das Verhältnis zwischen nutzbarer Ausgangsleistung und zugeführter Leistung, dasselbe Grundprinzip wie beim [Antennenwirkungsgrad in Kapitel 4](04-antennen-grundlagen.html#wirkungsgrad), hier jedoch auf eine Verstärkerstufe bezogen.
+Der Wirkungsgrad beschreibt das Verhältnis zwischen nutzbarer Ausgangsleistung und zugeführter Leistung, dasselbe Grundprinzip wie beim [Antennenwirkungsgrad in Kapitel 4](04-antennen-grundlagen.md#wirkungsgrad), hier jedoch auf eine Verstärkerstufe bezogen.
 
 Es gilt:
 
@@ -1642,11 +1642,11 @@ Die dafür wichtigen Formeln sind in der BAKOM-Formelsammlung enthalten.
 
 ## Navigation
 
-[← Kapitel 10: Modulation und Betriebsarten](10-modulation-betriebsarten.html)
+[← Kapitel 10: Modulation und Betriebsarten](10-modulation-betriebsarten.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 12: Messtechnik →](12-messtechnik.html)
+[Kapitel 12: Messtechnik →](12-messtechnik.md)
 
 ---
 

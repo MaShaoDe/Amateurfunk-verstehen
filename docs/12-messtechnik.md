@@ -224,7 +224,7 @@ Ein falsch eingestellter Messmodus kann zu einem falschen oder unbrauchbaren Erg
 
 ## Effektivwert und Spitze-Spitze-Wert
 
-Effektivwert, Spitzenwert und Spitze-Spitze-Wert werden bereits in [Kapitel 1](01-elektrische-grundlagen.html) hergeleitet.
+Effektivwert, Spitzenwert und Spitze-Spitze-Wert werden bereits in [Kapitel 1](01-elektrische-grundlagen.md) hergeleitet.
 
 Für die Messtechnik zählt vor allem:
 
@@ -909,11 +909,11 @@ Für HB9 kommen vertieftere Berechnungen hinzu, beispielsweise:
 
 ## Navigation
 
-[← Kapitel 11: Elektronische Bauteile und Schaltungen](11-elektronische-bauteile-schaltungen.html)
+[← Kapitel 11: Elektronische Bauteile und Schaltungen](11-elektronische-bauteile-schaltungen.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 13: Praktischer Antennenbau →](13-praktischer-antennenbau.html)
+[Kapitel 13: Praktischer Antennenbau →](13-praktischer-antennenbau.md)
 
 ---
 

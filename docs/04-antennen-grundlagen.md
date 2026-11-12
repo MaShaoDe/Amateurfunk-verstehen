@@ -1525,11 +1525,11 @@ Der praktische Antennenbau wird in Kapitel 13 zusammengeführt.
 
 # Navigation
 
-[← Kapitel 3: Elektromagnetische Wellen](03-elektromagnetische-wellen.html)
+[← Kapitel 3: Elektromagnetische Wellen](03-elektromagnetische-wellen.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 5: Antennenformen und Abstrahlung →](05-antennenformen.html)
+[Kapitel 5: Antennenformen und Abstrahlung →](05-antennenformen.md)
 
 ---
 

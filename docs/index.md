@@ -79,109 +79,109 @@ Das Grundprinzip lautet:
 
 Strom, Spannung, Widerstand, Leistung, Energie, Wechselstrom und grundlegende elektrische Zusammenhänge.
 
-[Kapitel_1_Elektrische_Grundlagen](01-elektrische-grundlagen.html)
+[Kapitel_1_Elektrische_Grundlagen](01-elektrische-grundlagen.md)
 
 ## 2. Frequenz, Periodendauer und Wellenlänge
 
 Frequenz, Hertz, Periodendauer, elektromagnetische Ausbreitung und Berechnung der Wellenlänge.
 
-[Kapitel 2 öffnen](02-frequenz-wellenlaenge.html)
+[Kapitel 2 öffnen](02-frequenz-wellenlaenge.md)
 
 ## 3. Elektromagnetische Wellen
 
 Elektrische und magnetische Felder, elektromagnetische Strahlung, Nahfeld und Fernfeld.
 
-[Kapitel 3 öffnen](03-elektromagnetische-wellen.html)
+[Kapitel 3 öffnen](03-elektromagnetische-wellen.md)
 
 ## 4. Grundlagen der Antennentechnik
 
 Was eine Antenne ist, Strom und Spannung auf Antennen, Resonanz und elektrische Länge.
 
-[Kapitel 4 öffnen](04-antennen-grundlagen.html)
+[Kapitel 4 öffnen](04-antennen-grundlagen.md)
 
 ## 5. Antennenformen und Abstrahlung
 
 Dipole, Vertikalantennen, Radiale, Richtantennen, Polarisation und Strahlungsdiagramme.
 
-[Kapitel 5 öffnen](05-antennenformen.html)
+[Kapitel 5 öffnen](05-antennenformen.md)
 
 ## 6. Impedanz, Anpassung und SWR
 
 Antennenimpedanz, Anpassung, Stehwellen, reflektierte Leistung und praktische Abstimmung.
 
-[Kapitel 6 öffnen](06-impedanz-anpassung-swr.html)
+[Kapitel 6 öffnen](06-impedanz-anpassung-swr.md)
 
 ## 7. Speiseleitungen
 
 Koaxialkabel, Paralleldrahtleitungen, Verluste, Transformation und Mantelwellen.
 
-[Kapitel 7 öffnen](07-speiseleitungen.html)
+[Kapitel 7 öffnen](07-speiseleitungen.md)
 
 ## 8. Funkwellenausbreitung
 
 Bodenwelle, Raumwelle, direkte Ausbreitung, Ionosphäre sowie Ausbreitung auf HF, VHF und UHF.
 
-[Kapitel 8 öffnen](08-funkwellenausbreitung.html)
+[Kapitel 8 öffnen](08-funkwellenausbreitung.md)
 
 ## 9. Sender und Empfänger
 
 Grundaufbau von Sendern und Empfängern, Frequenzaufbereitung, Filter und Verstärker.
 
-[Kapitel 9 öffnen](09-sender-empfaenger.html)
+[Kapitel 9 öffnen](09-sender-empfaenger.md)
 
 ## 10. Modulation und Betriebsarten
 
 AM, FM, SSB, CW sowie Grundlagen digitaler Betriebsarten und Datenübertragung.
 
-[Kapitel 10 öffnen](10-modulation-betriebsarten.html)
+[Kapitel 10 öffnen](10-modulation-betriebsarten.md)
 
 ## 11. Elektronische Bauteile und Schaltungen
 
 Widerstände, Kondensatoren, Spulen, Halbleiter, Transistoren, Filter und Schwingkreise.
 
-[Kapitel 11 öffnen](11-elektronische-bauteile-schaltungen.html)
+[Kapitel 11 öffnen](11-elektronische-bauteile-schaltungen.md)
 
 ## 12. Messtechnik
 
 Multimeter, Oszilloskop, Frequenzzähler, Leistungsmessung, SWR-Meter und NanoVNA.
 
-[Kapitel 12 öffnen](12-messtechnik.html)
+[Kapitel 12 öffnen](12-messtechnik.md)
 
 ## 13. Praktischer Antennenbau
 
 Berechnung, Konstruktion, Abstimmung und Messung einfacher Amateurfunkantennen.
 
-[Kapitel 13 öffnen](13-praktischer-antennenbau.html)
+[Kapitel 13 öffnen](13-praktischer-antennenbau.md)
 
 ## 14. Funkbetrieb
 
 Rufzeichen, Q-Gruppen, Buchstabieralphabet, Rapporte und Durchführung einer Funkverbindung.
 
-[Kapitel 14 öffnen](14-funkbetrieb.html)
+[Kapitel 14 öffnen](14-funkbetrieb.md)
 
 ## 15. DX, Relais und Satelliten
 
 Internationale Verbindungen, Relaisfunk, Satelliten und besondere Betriebsarten.
 
-[Kapitel 15 öffnen](15-dx-relais-satelliten.html)
+[Kapitel 15 öffnen](15-dx-relais-satelliten.md)
 
 ## 16. Sicherheit und EMV
 
 Elektrische Sicherheit, Hochfrequenz, Erdung, Blitzschutz und Vermeidung von Funkstörungen.
 
-[Kapitel 16 öffnen](16-sicherheit-emv.html)
+[Kapitel 16 öffnen](16-sicherheit-emv.md)
 
 ## 17. Amateurfunk in der Schweiz
 
 HB3 und HB9, Frequenzbereiche, Bandpläne und gesetzliche Grundlagen.
 
-[Kapitel 17 öffnen](17-amateurfunk-schweiz.html)
+[Kapitel 17 öffnen](17-amateurfunk-schweiz.md)
 
 ## 18. Vorbereitung auf die Prüfung
 
 Wiederholung des Prüfungsstoffs, Formeln, typische Aufgaben und Vorbereitung auf die BAKOM-Prüfung.
 
-[Kapitel 18 öffnen](18-pruefungsvorbereitung.html)
+[Kapitel 18 öffnen](18-pruefungsvorbereitung.md)
 
 # Und danach?
 

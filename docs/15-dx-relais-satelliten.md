@@ -498,7 +498,7 @@ Deshalb muss die jeweilige Relaisinformation beachtet werden.
 
 ## Squelch
 
-Squelch (Rauschsperre, siehe [Kapitel 9](09-sender-empfaenger.html#squelch)) schaltet den Lautsprecher stumm, solange kein ausreichendes Signal vorhanden ist.
+Squelch (Rauschsperre, siehe [Kapitel 9](09-sender-empfaenger.md#squelch)) schaltet den Lautsprecher stumm, solange kein ausreichendes Signal vorhanden ist.
 
 Squelch und CTCSS dürfen nicht verwechselt werden.
 
@@ -1279,11 +1279,11 @@ Die detaillierten schweizerischen Vorschriften und die aktuell zulässigen Frequ
 
 ## Navigation
 
-[← Kapitel 14: Funkbetrieb](14-funkbetrieb.html)
+[← Kapitel 14: Funkbetrieb](14-funkbetrieb.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 16: Sicherheit und EMV →](16-sicherheit-emv.html)
+[Kapitel 16: Sicherheit und EMV →](16-sicherheit-emv.md)
 
 ---
 

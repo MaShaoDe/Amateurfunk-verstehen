@@ -1,8 +1,8 @@
 # UE2-Übungsreihe. HB3 Mathematik-Vorkurs
 
-Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet hier die kürzere, auf den HB3-Umfang zugeschnittene Übungsreihe. Wer direkt auf HB9 vorbereitet, findet in [UE1](vk-uebungsreihe.html) die vollständige, ausführlichere Übungsreihe.
+Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet hier die kürzere, auf den HB3-Umfang zugeschnittene Übungsreihe. Wer direkt auf HB9 vorbereitet, findet in [UE1](vk-uebungsreihe.md) die vollständige, ausführlichere Übungsreihe.
 
-Diese Übungsreihe deckt den reduzierten mathematischen Umfang ab, der für die HB3-NOVICE-Prüfung sicher sitzen sollte, siehe [Bemerkung zu HB3](vk-mathematik-vorkurs.html#bemerkung-zu-hb3) im Mathematik-Vorkurs.
+Diese Übungsreihe deckt den reduzierten mathematischen Umfang ab, der für die HB3-NOVICE-Prüfung sicher sitzen sollte, siehe [Bemerkung zu HB3](vk-mathematik-vorkurs.md#bemerkung-zu-hb3) im Mathematik-Vorkurs.
 
 Ablauf pro Lektion: kurze Erklärung, ein vorgerechnetes Beispiel, ein Achtung-Hinweis zu einem typischen Fehler, dann die eigenen Aufgaben. Reihenfolge einhalten, jede Lektion erst abhaken, wenn die Aufgaben ohne Nachdenken gelingen. Am Ende steht ein grosser gemischter Abschlusstest, der alle Themen durcheinander kombiniert, so wie es an der echten Prüfung vorkommt. Die Resultate stehen separat in UE2-Resultate, nummeriert nach Lektion und Aufgabe.
 
@@ -318,11 +318,11 @@ AT.15 Ein Signal wird um 6 dB gedämpft. Welcher Bruchteil der ursprünglichen L
 
 ## Navigation
 
-[← Mathematik-Vorkurs](vk-mathematik-vorkurs.html)
+[← Mathematik-Vorkurs](vk-mathematik-vorkurs.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[UE2-Resultate: Lösungen zur Übungsreihe →](vk-uebungsreihe-hb3-resultate.html)
+[UE2-Resultate: Lösungen zur Übungsreihe →](vk-uebungsreihe-hb3-resultate.md)
 
 ---
 

@@ -292,7 +292,7 @@ Zuerst muss technisch untersucht werden.
 
 ## Oberwellen
 
-Was Oberwellen sind und wie sie entstehen, wurde bereits in [Kapitel 9](09-sender-empfaenger.html#oberwellen) gezeigt.
+Was Oberwellen sind und wie sie entstehen, wurde bereits in [Kapitel 9](09-sender-empfaenger.md#oberwellen) gezeigt.
 
 Für die EMV-Betrachtung zählt vor allem: Unerwünschte Oberwellen können andere Funkdienste beziehungsweise andere Amateurfunkbereiche stören.
 
@@ -352,7 +352,7 @@ sondern zunächst:
 
 ## ALC
 
-ALC (Automatic Level Control, siehe [Kapitel 9](09-sender-empfaenger.html#alc)) begrenzt die Aussteuerung innerhalb eines vorgesehenen Bereichs.
+ALC (Automatic Level Control, siehe [Kapitel 9](09-sender-empfaenger.md#alc)) begrenzt die Aussteuerung innerhalb eines vorgesehenen Bereichs.
 
 Wird eine Senderstufe trotzdem massiv übersteuert, kann ein unsauberes und unnötig breites Signal entstehen.
 
@@ -1515,11 +1515,11 @@ Bei rechtlichen NIS- und Blitzschutzanforderungen sind immer die aktuellen schwe
 
 # Navigation
 
-[← Kapitel 15: DX, Relais und Satelliten](15-dx-relais-satelliten.html)
+[← Kapitel 15: DX, Relais und Satelliten](15-dx-relais-satelliten.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 17: Amateurfunk in der Schweiz →](17-amateurfunk-schweiz.html)
+[Kapitel 17: Amateurfunk in der Schweiz →](17-amateurfunk-schweiz.md)
 
 ---
 

@@ -1391,13 +1391,13 @@ Für HB9 sollte zusätzlich die sichere Anwendung der Formeln und Einheiten sowi
 
 # Navigation
 
-[← Kapitel 1: Elektrische Grundlagen](01-elektrische-grundlagen.html)
+[← Kapitel 1: Elektrische Grundlagen](01-elektrische-grundlagen.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 3: Elektromagnetische Wellen →](index.html)
+[Kapitel 3: Elektromagnetische Wellen →](index.md)
 
-[Kapitel 3: Elektromagnetische Wellen →](03-elektromagnetische-wellen.html)
+[Kapitel 3: Elektromagnetische Wellen →](03-elektromagnetische-wellen.md)
 
 ---
 

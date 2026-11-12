@@ -903,11 +903,11 @@ Die dafür benötigten Grundformeln sind in der BAKOM-Formelsammlung enthalten.
 
 ## Navigation
 
-[← Kapitel 6: Impedanz, Anpassung und SWR](06-impedanz-anpassung-swr.html)
+[← Kapitel 6: Impedanz, Anpassung und SWR](06-impedanz-anpassung-swr.md)
 
-[↑ Zurück zum Inhaltsverzeichnis](index.html)
+[↑ Zurück zum Inhaltsverzeichnis](index.md)
 
-[Kapitel 8: Funkwellenausbreitung →](08-funkwellenausbreitung.html)
+[Kapitel 8: Funkwellenausbreitung →](08-funkwellenausbreitung.md)
 
 ---
 
