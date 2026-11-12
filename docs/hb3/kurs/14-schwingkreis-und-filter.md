@@ -15,6 +15,8 @@ Diese Frequenz heisst **Resonanzfrequenz**:
 
 $$f_0 = \frac{1}{2\pi\sqrt{L \cdot C}}$$
 
+Die Formel steht in der BAKOM-Formelsammlung. Bei Resonanz sind die Blindwiderstände von Spule und Kondensator gleich gross (X<sub>L</sub> = X<sub>C</sub>).
+
 Du musst für HB3 vor allem wissen:
 
 - Grösseres L oder grösseres C ergibt eine **tiefere** Resonanzfrequenz

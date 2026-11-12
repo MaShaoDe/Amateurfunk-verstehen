@@ -5,7 +5,7 @@
     - Wie er sich bei Gleich- und Wechselstrom verhält
     - Wie du Kapazitäten umrechnest und zusammenschaltest
 
-*Dauer: etwa 25 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 8](08-widerstand.md).*
+*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 8](08-widerstand.md).*
 
 ## Aufbau und Aufgabe
 
@@ -32,6 +32,17 @@ Die **Kapazität** gibt an, wie viel Ladung er speichern kann. Das Zeichen ist *
 
 !!! note "Merksatz"
     Der Kondensator sperrt Gleichstrom und lässt Wechselstrom durch, hohe Frequenzen besser als tiefe.
+
+### Der Blindwiderstand
+
+Der Widerstand eines Kondensators für Wechselstrom heisst **Blindwiderstand** (kapazitive Reaktanz) X<sub>C</sub>:
+
+$$X_C = \frac{1}{2\pi \cdot f \cdot C}$$
+
+Je höher die Frequenz f oder die Kapazität C, desto kleiner ist X<sub>C</sub>.
+
+!!! example "Beispiel"
+    Ein Kondensator mit 100 nF bei 1 kHz: X<sub>C</sub> = 1 / (2π · 1 000 · 100 · 10<sup>-9</sup>) = **etwa 1 590 Ω**. Bei 10 kHz sind es nur noch etwa 159 Ω.
 
 ## Einsatz im Funkgerät
 
@@ -67,6 +78,7 @@ Beim Kondensator ist es umgekehrt wie beim Widerstand:
 3. Zwei Kondensatoren mit 10 nF und 22 nF liegen parallel. Wie gross ist die Gesamtkapazität?
 4. Was passiert mit einem Kondensator an Gleichspannung, wenn er voll geladen ist?
 5. Welcher Kondensatortyp ist gepolt?
+6. Wie gross ist der Blindwiderstand eines Kondensators mit 1 µF bei 1 kHz?
 
 ??? success "Resultate anzeigen"
 
@@ -77,6 +89,7 @@ Beim Kondensator ist es umgekehrt wie beim Widerstand:
     | 3 | 10 + 22 = 32 nF |
     | 4 | Es fliesst kein Strom mehr, er sperrt |
     | 5 | der Elektrolytkondensator (Elko) |
+    | 6 | X<sub>C</sub> = 1 / (2π · 1 000 · 10<sup>-6</sup>) = etwa 159 Ω |
 
 ## Das Wichtigste in 3 Sätzen
 

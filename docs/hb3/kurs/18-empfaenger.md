@@ -5,7 +5,7 @@
     - Was Mischer und Zwischenfrequenz tun
     - Was Empfindlichkeit und Selektivität bedeuten
 
-*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 17](17-modulation.md).*
+*Dauer: etwa 40 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 17](17-modulation.md).*
 
 ## Das Blockschaltbild
 
@@ -47,6 +47,40 @@ Beides ist wichtig: Ein Empfänger kann sehr empfindlich sein und trotzdem im Ba
 !!! tip "Prüfungstipp"
     Die Reihenfolge im Blockschaltbild: Antenne, HF-Vorstufe, Mischer, ZF, Demodulator, NF-Verstärker, Lautsprecher.
 
+## Rauschen und Signal-Rausch-Verhältnis
+
+Jeder Empfänger rauscht. Das **thermische Rauschen** entsteht in den Bauteilen und im Empfangsweg. Es gilt:
+
+- Eine **grössere Bandbreite** lässt mehr Rauschen durch
+- Die **ersten Stufen** bestimmen das Rauschen am stärksten, darum ist die HF-Vorstufe wichtig
+
+Das **Signal-Rausch-Verhältnis (SNR)** vergleicht das Nutzsignal mit dem Rauschen und wird in dB angegeben. Je grösser, desto besser verständlich.
+
+## Geradeausempfänger und Superhet
+
+- **Geradeausempfänger:** Das Signal wird auf der Empfangsfrequenz verstärkt und direkt demoduliert. Einfach, aber wenig selektiv.
+- **Überlagerungsempfänger (Superhet):** wie oben beschrieben, mit Mischer und fester ZF. Das ist heute die Regel.
+
+## Die Spiegelfrequenz rechnen
+
+Liegt der Oszillator über dem Empfangssignal, gilt:
+
+$$f_{Spiegel} = f_E + 2 \cdot f_{ZF}$$
+
+Die Formel steht in der BAKOM-Formelsammlung. Im Beispiel oben: 14,2 + 2 · 9 = 32,2 MHz.
+
+## Bedienelemente und Hilfen
+
+| Funktion | Wirkung |
+| --- | --- |
+| AGC | regelt die Verstärkung automatisch, damit die Lautstärke gleich bleibt und der Empfänger nicht übersteuert |
+| Squelch | schaltet den Ton bei fehlendem Signal stumm (Rauschsperre) |
+| BFO | Überlagerungsoszillator, nötig für SSB und CW, damit man sie hört |
+| Notch-Filter | unterdrückt einen schmalen Störton, zum Beispiel einen Pfeifton |
+| Noise Blanker | bekämpft impulsförmige Störungen |
+| RIT | verstimmt nur den Empfang leicht, ohne die Sendefrequenz zu ändern |
+| IF-Shift | verschiebt das ZF-Durchlassband, um einen Nachbarn auszublenden |
+
 ## Mini-Übung
 
 1. Wie lautet die Reihenfolge der Stufen im Superhet?
@@ -54,6 +88,9 @@ Beides ist wichtig: Ein Empfänger kann sehr empfindlich sein und trotzdem im Ba
 3. Wie hoch läuft der Oszillator bei Empfang auf 7 MHz und ZF 9 MHz (obere Variante)?
 4. Welche Eigenschaft bestimmt, wie schwache Signale noch hörbar sind?
 5. Welche Eigenschaft trennt Nachbarsender?
+6. Wie berechnest du die Spiegelfrequenz bei 7 MHz Empfang und 9 MHz ZF (Oszillator oben)?
+7. Was macht der Squelch?
+8. Wofür braucht man einen BFO?
 
 ??? success "Resultate anzeigen"
 
@@ -64,6 +101,9 @@ Beides ist wichtig: Ein Empfänger kann sehr empfindlich sein und trotzdem im Ba
     | 3 | 7 + 9 = 16 MHz |
     | 4 | die Empfindlichkeit |
     | 5 | die Selektivität (Trennschärfe) |
+    | 6 | 7 + 2 · 9 = 25 MHz |
+    | 7 | er schaltet den Ton bei fehlendem Signal stumm |
+    | 8 | für den Empfang von SSB und CW |
 
 ## Das Wichtigste in 3 Sätzen
 

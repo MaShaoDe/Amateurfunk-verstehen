@@ -5,7 +5,7 @@
     - Was elektrische Leistung ist und wie du sie berechnest
     - Wie du Formeln mit dem Formeldreieck umstellst
 
-*Dauer: etwa 25 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 4](04-spannung-strom-widerstand.md).*
+*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 4](04-spannung-strom-widerstand.md).*
 
 ## Das Ohmsche Gesetz
 
@@ -64,6 +64,31 @@ Bei grossen und kleinen Leistungen helfen wieder die Vorsilben:
 !!! tip "Prüfungstipp"
     In der Prüfung darfst du die Formelsammlung benutzen. Das Umstellen und das Einsetzen musst du aber selbst können. Schreib immer zuerst die Formel hin, dann die Zahlen mit Einheit. Rechne vorher in V, A und Ω um (siehe Lektion 4).
 
+## Leistung mit Strom oder Spannung allein
+
+Mit dem Ohmschen Gesetz lässt sich die Leistung auch so berechnen:
+
+$$P = I^2 \cdot R \qquad\qquad P = \frac{U^2}{R}$$
+
+!!! example "Beispiel"
+    An einem Widerstand von 100 Ω liegen 12 V: P = 12² / 100 = 144 / 100 = **1,44 W**
+
+## Arbeit und Energie
+
+Die **Arbeit** (Energie) ist Leistung mal Zeit:
+
+$$W = P \cdot t$$
+
+Die Einheit ist die **Wattsekunde (Ws)**, auch Joule genannt. Im Alltag nimmt man die **Wattstunde (Wh)** oder die **Kilowattstunde (kWh)**.
+
+- 1 Wh = 3 600 Ws
+- 1 kWh = 1 000 Wh
+
+!!! example "Beispiel"
+    Ein Funkgerät nimmt 60 W auf und läuft 2 Stunden.
+
+    W = 60 · 2 = **120 Wh**
+
 ## Mini-Übung
 
 1. An einem Widerstand von 6 Ω liegen 12 V. Wie gross ist der Strom?
@@ -71,6 +96,8 @@ Bei grossen und kleinen Leistungen helfen wieder die Vorsilben:
 3. An einem Gerät liegen 230 V, es fliessen 2 A. Wie gross ist der Widerstand?
 4. Ein Gerät nimmt bei 12 V einen Strom von 2 A auf. Wie gross ist die Leistung?
 5. Ein Gerät mit 60 W läuft an 12 V. Wie gross ist der Strom?
+6. Durch einen Widerstand von 50 Ω fliessen 2 A. Wie gross ist die Leistung?
+7. Ein Gerät nimmt 60 W auf und läuft 3 Stunden. Wie viel Energie ist das?
 
 ??? success "Resultate anzeigen"
 
@@ -81,6 +108,8 @@ Bei grossen und kleinen Leistungen helfen wieder die Vorsilben:
     | 3 | R = 230 / 2 = 115 Ω |
     | 4 | P = 12 · 2 = 24 W |
     | 5 | I = 60 / 12 = 5 A |
+    | 6 | P = 2² · 50 = 200 W |
+    | 7 | W = 60 · 3 = 180 Wh |
 
 ## Das Wichtigste in 3 Sätzen
 

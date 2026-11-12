@@ -5,7 +5,7 @@
     - Dipol, Vertikalantenne und Richtantenne zu erkennen
     - Was Polarisation bedeutet
 
-*Dauer: etwa 30 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 20](20-sdr.md).*
+*Dauer: etwa 40 Minuten. Du brauchst einen Taschenrechner. Voraussetzung: [Lektion 20](20-sdr.md).*
 
 ## Was macht eine Antenne?
 
@@ -32,6 +32,12 @@ Der **Dipol** ist die wichtigste Grundantenne. Er besteht aus zwei gleich langen
 
 Ein waagrecht gespannter Dipol strahlt am stärksten **senkrecht zum Draht**. Das Strahlungsdiagramm sieht von oben wie eine Acht aus. In Richtung der Drahtenden strahlt er kaum.
 
+### Strom, Spannung und Speisepunkt
+
+Beim mittengespeisten Halbwellendipol liegt in der **Mitte das Strommaximum**. An den **Enden** liegt das **Spannungsmaximum**. Der Speisepunktwiderstand in der Mitte beträgt etwa **73 Ω**, oft werden 75 Ω angegeben. Das passt grob zu einem 50-Ω-System.
+
+Ein **Faltdipol** besteht aus zwei parallelen Leitern, die an den Enden verbunden sind. Sein Speisepunktwiderstand beträgt etwa **300 Ω**. Man findet ihn oft als gespeistes Element in VHF- und UHF-Yagis.
+
 ## Die Vertikalantenne
 
 Die **Groundplane** ist ein senkrechter Stab von einer Viertelwellenlänge. Dazu kommen **Radiale**, das sind waagrechte oder schräg nach unten laufende Drähte, die das Gegengewicht bilden. Ohne Radiale funktioniert sie schlecht.
@@ -49,13 +55,24 @@ Die **Groundplane** ist ein senkrechter Stab von einer Viertelwellenlänge. Dazu
 
 Eine **Yagi-Antenne** hat mehrere Stäbe: einen **Reflektor** hinten, den **Strahler** in der Mitte und **Direktoren** vorn. Sie bündelt die Energie in eine Richtung. Das bringt **Gewinn** in dieser Richtung, sie muss dafür auf die Gegenstation ausgerichtet werden.
 
+Die Hauptstrahlrichtung zeigt zu den Direktoren.
+
+Das **Strahlungsdiagramm** zeigt, in welche Richtung eine Antenne wie stark abstrahlt:
+
+- **Hauptkeule:** die Richtung mit der stärksten Strahlung
+- **Nebenkeulen** und **Rückkeule:** unerwünschte Strahlung in andere Richtungen
+- **Vor-Rück-Verhältnis:** Vergleich von Vorwärts- und Rückwärtsrichtung
+- **Öffnungswinkel:** Breite der Hauptkeule zwischen den Punkten, an denen die Leistung um 3 dB gesunken ist
+
+Weitere Richtantennen, die du kennen solltest: **HB9CV** (zwei gekoppelte Elemente), **Quad**, **Parabol- und Hornantennen** (bei sehr hohen Frequenzen) und die **Helix**. Eine **Magnetic Loop** ist eine Schleife, die mit einem Kondensator einen Schwingkreis bildet.
+
 Der Gewinn wird in dB angegeben (Lektion 15). Bezug ist entweder der Dipol (dBd) oder ein gedachter Kugelstrahler (dBi). Es gilt: dBi = dBd + 2,15 dB.
 
 ## Polarisation
 
 Die **Polarisation** ist die Richtung des elektrischen Feldes der Welle. Sie entspricht der Lage der Antenne: waagrecht ist **horizontal**, senkrecht ist **vertikal**.
 
-Sende- und Empfangsantenne sollten **gleich polarisiert** sein. Sind sie um 90 Grad verdreht, kommt viel weniger Signal an. Auf UKW mit FM ist vertikale Polarisation üblich, bei SSB auf UKW eher horizontale.
+Sende- und Empfangsantenne sollten **gleich polarisiert** sein. Sind sie um 90 Grad verdreht, kommt viel weniger Signal an. Auf UKW mit FM ist vertikale Polarisation üblich, bei SSB auf UKW eher horizontale. Neben horizontal und vertikal gibt es die **zirkulare Polarisation**, bei der sich das Feld dreht. Eine axial betriebene Helix kann zirkular polarisiert sein, das ist bei Satelliten nützlich.
 
 !!! note "Merksatz"
     Eine halbe Welle ergibt den Dipol, eine Viertelwelle mit Radialen die Groundplane. Höhere Frequenz bedeutet kürzere Antenne.
@@ -70,6 +87,9 @@ Sende- und Empfangsantenne sollten **gleich polarisiert** sein. Sind sie um 90 G
 3. Welche Antenne strahlt rundum: Dipol (waagrecht) oder Groundplane?
 4. Wozu dienen die Radiale an der Groundplane?
 5. Was bringt eine Richtantenne?
+6. Wo liegt beim Halbwellendipol das Strommaximum, wo das Spannungsmaximum?
+7. Wie gross ist der Speisepunktwiderstand eines Faltdipols ungefähr?
+8. Was beschreibt das Vor-Rück-Verhältnis?
 
 ??? success "Resultate anzeigen"
 
@@ -80,6 +100,9 @@ Sende- und Empfangsantenne sollten **gleich polarisiert** sein. Sind sie um 90 G
     | 3 | die Groundplane |
     | 4 | sie bilden das Gegengewicht zum Stab |
     | 5 | Gewinn in einer Hauptrichtung, muss dafür ausgerichtet werden |
+    | 6 | Strom in der Mitte, Spannung an den Enden |
+    | 7 | etwa 300 Ω |
+    | 8 | den Vergleich von Vorwärts- und Rückwärtsrichtung |
 
 ## Das Wichtigste in 3 Sätzen
 

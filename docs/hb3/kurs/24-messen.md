@@ -5,7 +5,7 @@
     - Die wichtigsten Messgeräte im Funkbetrieb zu kennen
     - Typische Fehler zu vermeiden
 
-*Dauer: etwa 25 Minuten. Voraussetzung: [Lektion 23](23-ausbreitung.md).*
+*Dauer: etwa 30 Minuten. Voraussetzung: [Lektion 23](23-ausbreitung.md).*
 
 ## Das Multimeter
 
@@ -27,6 +27,12 @@ Das **Multimeter** misst Spannung, Strom und Widerstand. Es hat einen Wahlschalt
 - Bei Wechselspannung zeigt das Multimeter meist den **Effektivwert** an (Lektion 7)
 - Die Messleitungen in die richtigen Buchsen stecken
 
+## Messfehler und Signalform
+
+- Ein Messgerät **beeinflusst** immer die Schaltung ein wenig. Darum soll ein Voltmeter hochohmig und ein Amperemeter niederohmig sein.
+- Die **Signalform** spielt eine Rolle. Die Umrechnung Û = U<sub>eff</sub> · √2 gilt nur für **sinusförmige** Signale. Einfache Multimeter zeigen bei anderen Formen falsche Werte. **True-RMS-Geräte** messen den Effektivwert auch bei anderen Formen richtig.
+- Auflösung und Genauigkeit sind nicht dasselbe: Eine Anzeige mit vielen Stellen ist nicht automatisch genau.
+
 ## Weitere Messgeräte
 
 - **HF-Wattmeter:** misst die Sendeleistung
@@ -34,6 +40,7 @@ Das **Multimeter** misst Spannung, Strom und Widerstand. Es hat einen Wahlschalt
 - **Kunstantenne (Dummy Load):** ein Widerstand mit 50 Ω, der die Leistung in Wärme umsetzt. Du kannst damit senden und testen, ohne etwas abzustrahlen.
 - **Frequenzzähler:** misst die Frequenz genau
 - **Oszilloskop:** zeigt den Spannungsverlauf über der Zeit als Kurve. Damit siehst du Form, Höhe und Periodendauer eines Signals.
+- **Spektrumanalysator:** zeigt ein Signal über der Frequenz. Damit erkennst du Oberwellen und Nachbarsignale.
 
 !!! note "Merksatz"
     Spannung parallel, Strom in Reihe. Widerstand nur spannungsfrei.
@@ -48,6 +55,9 @@ Das **Multimeter** misst Spannung, Strom und Widerstand. Es hat einen Wahlschalt
 3. Wann darf man einen Widerstand messen?
 4. Wozu dient eine Kunstantenne?
 5. Welche Grösse zeigt ein Multimeter bei Wechselspannung meist an?
+6. Wie soll der Innenwiderstand eines Voltmeters sein?
+7. Wie soll der Innenwiderstand eines Amperemeters sein?
+8. Was zeigt ein Spektrumanalysator?
 
 ??? success "Resultate anzeigen"
 
@@ -58,6 +68,9 @@ Das **Multimeter** misst Spannung, Strom und Widerstand. Es hat einen Wahlschalt
     | 3 | nur spannungsfrei, am besten ausgebaut |
     | 4 | zum Testen und Senden ohne Abstrahlung, die Leistung wird zu Wärme |
     | 5 | den Effektivwert |
+    | 6 | möglichst hoch |
+    | 7 | möglichst klein |
+    | 8 | das Signal über der Frequenz |
 
 ## Das Wichtigste in 3 Sätzen
 

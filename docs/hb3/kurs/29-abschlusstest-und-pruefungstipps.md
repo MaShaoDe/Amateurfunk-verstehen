@@ -9,7 +9,11 @@
 
 ## So läuft die Prüfung
 
-Nach den Prüfungsvorschriften des BAKOM von 2024 ist die Prüfung **schriftlich** und besteht aus **Multiple-Choice-Fragen**. Du hast **95 Minuten** Zeit. Erlaubt sind ein **nicht programmierbarer Taschenrechner**, die **Formelsammlung** und die **Frequenzliste**.
+Nach den Prüfungsvorschriften des BAKOM von 2024 (Ziffer 4.1) ist die Prüfung **schriftlich** und besteht aus **gemischten Multiple-Choice-Fragen**. Sie dauert **95 Minuten** und umfasst zwei Fächer: die Vorschriften und die Grundlagen der Elektro- und Funktechnik. Für den Einsteigerausweis (HB3) sind die Fragen technisch und rechnerisch weniger komplex (Ziffer 4.4).
+
+Wer schon den Einsteigerausweis hat und das volle Fähigkeitszeugnis will, macht eine kürzere Prüfung mit 75 Minuten, nur zu den Grundlagen. Ob die Prüfung für den Einsteigerausweis selbst gleich lange dauert, steht im Dokument nicht ausdrücklich. Frage das bei der Anmeldung beim BAKOM nach.
+
+Erlaubt sind ein **nicht programmierbarer Taschenrechner**, die **Formelsammlung** und die **Frequenzliste**.
 
 Einen Überblick findest du auf der Seite [Die Prüfung auf einen Blick](../../allgemein/pruefung.md). Informationen zur Anmeldung gibt das [BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" }.
 
@@ -91,7 +95,7 @@ Viel Erfolg bei der Prüfung!
 
 ## Das Wichtigste in 3 Sätzen
 
-- Die Prüfung ist schriftlich mit Multiple Choice und dauert 95 Minuten.
+- Die Prüfung ist schriftlich mit Multiple Choice, die Dauer steht in den BAKOM-Vorschriften.
 - Formelsammlung, Frequenzliste und Taschenrechner sind erlaubt.
 - Zeit einteilen, genau lesen, Einheiten umrechnen.
 
