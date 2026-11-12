@@ -52,6 +52,16 @@ extra_javascript:
   - assets/mathjax/tex-mml-chtml.js
 nav:
   - Start: index.md
+  - Allgemein:
+      - allgemein/index.md
+      - Was ist Amateurfunk?: allgemein/was-ist-amateurfunk.md
+      - So lernst du: allgemein/lernplan.md
+      - Die Prüfung auf einen Blick: allgemein/pruefung.md
+      - Lernvideos und Nachschlagewerke: allgemein/lernquellen.md
+      - Bücher, Quellen und Dank: allgemein/buecher-quellen.md
+      - Über dieses Lehrwerk: allgemein/ueber-dieses-lehrwerk.md
+      - Wie das Lehrwerk entstand: allgemein/entstehung.md
+      - Impressum und Datenschutz: allgemein/impressum.md
   - HB3:
       - hb3/index.md
       - Kursübersicht: hb3/kurs/index.md
@@ -131,16 +141,6 @@ nav:
           - "17. Amateurfunk in der Schweiz": hb9/17-amateurfunk-schweiz.md
           - "18. Vorbereitung auf die Prüfung": hb9/18-pruefungsvorbereitung.md
           - Übungsfragen HB9: hb9/uebungsfragen-hb9.md
-  - Allgemein:
-      - allgemein/index.md
-      - Was ist Amateurfunk?: allgemein/was-ist-amateurfunk.md
-      - So lernst du: allgemein/lernplan.md
-      - Die Prüfung auf einen Blick: allgemein/pruefung.md
-      - Lernvideos und Nachschlagewerke: allgemein/lernquellen.md
-      - Bücher, Quellen und Dank: allgemein/buecher-quellen.md
-      - Über dieses Lehrwerk: allgemein/ueber-dieses-lehrwerk.md
-      - Wie das Lehrwerk entstand: allgemein/entstehung.md
-      - Impressum und Datenschutz: allgemein/impressum.md
   - Technisches:
       - technik/index.md
       - Frequenztabelle: technik/uebungsblatt-frequenztabelle.md
