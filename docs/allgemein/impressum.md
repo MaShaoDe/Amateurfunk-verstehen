@@ -1,7 +1,7 @@
 # Impressum und Datenschutz
 
 !!! warning "Entwurf, vor der Veröffentlichung ergänzen"
-    Die Angaben mit "offen" fehlen noch (GitHub-Ticketliste). Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
+    Die GitHub-Links funktionieren erst, wenn das Projekt öffentlich ist. Dieser Text ist keine Rechtsberatung. Prüfe ihn vor der Veröffentlichung selbst oder mit einer Fachperson.
 
 ## Verantwortlich für den Inhalt
 
@@ -16,7 +16,9 @@
 
 "Amateurfunk verstehen" ist ein privates, nicht kommerzielles Lehrwerk zur Vorbereitung auf die schweizerischen Amateurfunkprüfungen HB3 und HB9. Es gibt keine Werbung, keinen Verkauf und keine Benutzerkonten.
 
-Es ist **keine amtliche Publikation**. Verbindlich sind allein die Angaben des Bundesamts für Kommunikation (BAKOM). Prüfungsstoff, Gebühren, Termine und Vorschriften können sich ändern. Prüfe sie vor der Anmeldung beim BAKOM.
+Das Lehrwerk ist ein **Open-Source-Projekt**. Der gesamte Quelltext liegt auf [GitHub](https://github.com/MaShaoDe/amateurfunk-verstehen){ target="_blank" rel="noopener" }. Du kannst ihn lesen, weiterverwenden, Fehler melden und Verbesserungen vorschlagen.
+
+Es ist **keine amtliche Publikation**. Verbindlich sind allein die Angaben des Bundesamts für Kommunikation ([BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" }). Prüfungsstoff, Gebühren, Termine und Vorschriften können sich ändern. Prüfe sie vor der Anmeldung beim BAKOM.
 
 ## Lizenz und Urheberrecht
 
@@ -42,7 +44,7 @@ Die Inhalte wurden sorgfältig erstellt. Für Richtigkeit, Vollständigkeit und 
 
 ## Kontakt
 
-Fehler gefunden oder Verbesserungsvorschlag? Melde dich unter der E-Mail-Adresse oben oder über die Ticketliste des offenen Projekts auf GitHub (offen, sobald das Projekt öffentlich ist).
+Fehler gefunden oder Verbesserungsvorschlag? Melde dich unter der E-Mail-Adresse oben oder über die [Ticketliste auf GitHub](https://github.com/MaShaoDe/amateurfunk-verstehen/issues){ target="_blank" rel="noopener" }.
 
 ---
 

@@ -4,7 +4,7 @@ Diese Datei gehört nicht zur Webseite. Sie ist die interne Liste, was vor dem S
 
 ## Rechtliches und Angaben
 - [x] Impressum: Anschrift, E-Mail, Hoster eingetragen (`docs/allgemein/impressum.md`)
-- [ ] Impressum: Hinweis auf GitHub-Ticketliste ergänzen, sobald das Projekt öffentlich ist
+- [x] Impressum nennt das Open-Source-Projekt mit Link zu GitHub und zur Ticketliste. Die Links laufen ins Leere, solange das Repository privat ist
 - [ ] Hinweis "Entwurf" im Impressum entfernen
 - [ ] Prüfen, ob die Abbildungen selbst erstellt sind (Lizenz CC BY 4.0 nur dann möglich)
 - [ ] Fremdtexte nur paraphrasiert, BAKOM-Material nur verlinkt
@@ -23,6 +23,7 @@ Diese Datei gehört nicht zur Webseite. Sie ist die interne Liste, was vor dem S
 - [ ] Alte Kurs-Seiten unter `lizkurs/` durch v2 ersetzen
 
 ## GitHub
+- [ ] Ticketliste (Issues) im Repository aktivieren, damit der Link im Impressum funktioniert
 - [ ] Repository auf öffentlich stellen (nur Marcel Sauder)
 - [ ] Branch-Schutz für `main` prüfen (Löschen und Force-Push sperren)
 - [ ] README, Mitmachen-Anleitung (CONTRIBUTING) und Lizenzdatei prüfen

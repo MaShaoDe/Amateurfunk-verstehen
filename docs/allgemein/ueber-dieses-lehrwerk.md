@@ -10,7 +10,7 @@ Es richtet sich insbesondere an angehende Funkamateurinnen und Funkamateure, die
 
 Der Schwerpunkt liegt auf der vollständigen schweizerischen Amateurfunkprüfung **HB9**. Wo es didaktisch sinnvoll ist, wird zusätzlich darauf hingewiesen, welche Inhalte für die **HB3-NOVICE-Prüfung** typischerweise weniger vertieft behandelt werden.
 
-> **Wichtig:** Die im Lehrwerk verwendeten Hinweise wie «HB9-Vertiefung» sind didaktische Kennzeichnungen. Sie stellen keine offizielle punktweise Abgrenzung des BAKOM-Prüfungsstoffes zwischen HB3 und HB9 dar. Das BAKOM legt fest, dass die technischen und rechnerischen Fragen für HB3 weniger komplex sind.
+> **Wichtig:** Die im Lehrwerk verwendeten Hinweise wie «HB9-Vertiefung» sind didaktische Kennzeichnungen. Sie stellen keine offizielle punktweise Abgrenzung des BAKOM-Prüfungsstoffes zwischen HB3 und HB9 dar. Das [BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" } legt fest, dass die technischen und rechnerischen Fragen für HB3 weniger komplex sind.
 
 ---
 
@@ -31,10 +31,10 @@ Für prüfungsbezogene und regulatorische Aussagen haben deshalb schweizerische 
 Die Quellen werden grundsätzlich nach folgender Priorität verwendet:
 
 1. **Bundesamt für Kommunikation BAKOM**
-2. **USKA und schweizerische Amateurfunkpraxis**
+2. **[USKA](https://www.uska.ch/){ target="_blank" rel="noopener" } und schweizerische Amateurfunkpraxis**
 3. **schweizerische Amateurfunkvereine und Ausbildungsunterlagen**
 4. **internationale technische Fachliteratur**
-5. **ARRL als ergänzende internationale Fachquelle**
+5. **[ARRL](https://www.arrl.org/){ target="_blank" rel="noopener" } als ergänzende internationale Fachquelle**
 
 ---
 
