@@ -35,14 +35,14 @@ Jede Lektion dauert etwa 20 Minuten und endet mit einer Mini-Übung.
 
 - [Lektion 14: Schwingkreis und Filter](14-schwingkreis-und-filter.md)
 - [Lektion 15: Verstärker und Dezibel](15-verstaerker-und-dezibel.md)
-- Lektion 16: Oszillator und PLL
+- [Lektion 16: Oszillator und PLL](16-oszillator-und-pll.md)
 
 ## Etappe 6: Sender und Empfänger
 
-- Lektion 17: Modulation (AM, FM, SSB)
-- Lektion 18: Der Empfänger
-- Lektion 19: Der Sender
-- Lektion 20: SDR, die Grundidee
+- [Lektion 17: Modulation (AM, FM, SSB)](17-modulation.md)
+- [Lektion 18: Der Empfänger](18-empfaenger.md)
+- [Lektion 19: Der Sender](19-sender.md)
+- [Lektion 20: SDR, die Grundidee](20-sdr.md)
 
 ## Etappe 7: Antennen und Ausbreitung
 

@@ -82,7 +82,7 @@ Gegenmittel: Eingangspegel oder Mikrofonverstärkung zurücknehmen und die Leist
 - 3 dB sind doppelte, 10 dB zehnfache Leistung, die dB werden addiert.
 - Übersteuerung verzerrt das Signal und erzeugt Oberwellen.
 
-**Weiter:** Lektion 16 (folgt).
+**Weiter:** [Lektion 16: Oszillator und PLL](16-oszillator-und-pll.md)
 
 ---
 
