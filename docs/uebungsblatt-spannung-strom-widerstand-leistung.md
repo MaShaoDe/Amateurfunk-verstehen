@@ -20,10 +20,7 @@ Jedes Material bremst die Elektronen ein wenig. Der Widerstand ist wie eine Vere
 
 U, R und I sind untrennbar miteinander verbunden. Wer zwei Werte kennt, kann den dritten immer berechnen. Merkhilfe: das Dreieck. U steht oben, R und I stehen unten nebeneinander. Den gesuchten Buchstaben zudecken, übrig bleibt die Formel.
 
-U
-R
-I
-·
+<div class="grafik" markdown="0"><svg style="width:180px;height:auto;display:block;margin:1rem auto;" viewbox="0 0 200 180" xmlns="http://www.w3.org/2000/svg"><polygon fill="none" points="100,10 10,170 190,170" stroke="#333" stroke-width="2.5"></polygon><line stroke="#333" stroke-width="2" x1="10" x2="190" y1="110" y2="110"></line><line stroke="#333" stroke-width="2" x1="100" x2="100" y1="110" y2="170"></line><text fill="#222" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" x="100" y="80">U</text><text fill="#222" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="55" y="150">R</text><text fill="#222" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="145" y="150">I</text><text fill="#666" font-family="sans-serif" font-size="20" text-anchor="middle" x="100" y="146">·</text></svg></div>
 
 - U gesucht? U zudecken → übrig bleibt `R · I`
 - I gesucht? I zudecken → übrig bleibt `U / R`
@@ -48,12 +45,7 @@ I
 
 Die Elektronen müssen nacheinander durch mehrere Widerstände fliessen, es gibt nur einen Weg.
 
-+
-
-R1
-
-R2
-V
+<div class="grafik" markdown="0"><svg style="width:260px;height:auto;display:block;margin:1rem auto;" viewbox="0 0 260 160" xmlns="http://www.w3.org/2000/svg"><!-- battery --><line stroke="#333" stroke-width="3" x1="20" x2="20" y1="60" y2="100"></line><line stroke="#333" stroke-width="3" x1="30" x2="30" y1="70" y2="90"></line><text fill="#333" font-family="sans-serif" font-size="13" x="8" y="55">+</text><!-- wires --><line stroke="#333" stroke-width="2" x1="20" x2="20" y1="60" y2="20"></line><line stroke="#333" stroke-width="2" x1="20" x2="240" y1="20" y2="20"></line><line stroke="#333" stroke-width="2" x1="30" x2="30" y1="100" y2="140"></line><line stroke="#333" stroke-width="2" x1="30" x2="240" y1="140" y2="140"></line><line stroke="#333" stroke-width="2" x1="240" x2="240" y1="20" y2="140"></line><!-- R1 zigzag --><polyline fill="none" points="90,20 96,8 104,32 112,8 120,32 128,8 136,20" stroke="#333" stroke-width="2"></polyline><text fill="#222" font-family="sans-serif" font-size="15" text-anchor="middle" x="113" y="55">R1</text><!-- R2 zigzag --><polyline fill="none" points="160,20 166,8 174,32 182,8 190,32 198,8 206,20" stroke="#333" stroke-width="2"></polyline><text fill="#222" font-family="sans-serif" font-size="15" text-anchor="middle" x="183" y="55">R2</text><text fill="#222" font-family="sans-serif" font-size="15" x="0" y="85">V</text></svg></div>
 
 - Der Strom ist überall in der Kette gleich gross: `Iges = I1 = I2`
 - Die Spannung teilt sich auf: an jedem Widerstand fällt ein Teil der Gesamtspannung ab
@@ -64,11 +56,7 @@ V
 
 Die Strecke teilt sich in mehrere Spuren auf, die Elektronen nehmen den einfachsten Weg.
 
-R1
-
-R2
-
-V
+<div class="grafik" markdown="0"><svg style="width:220px;height:auto;display:block;margin:1rem auto;" viewbox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><!-- battery --><line stroke="#333" stroke-width="3" x1="20" x2="20" y1="65" y2="95"></line><line stroke="#333" stroke-width="3" x1="30" x2="30" y1="72" y2="88"></line><!-- top / bottom rails --><line stroke="#333" stroke-width="2" x1="20" x2="20" y1="65" y2="20"></line><line stroke="#333" stroke-width="2" x1="20" x2="210" y1="20" y2="20"></line><line stroke="#333" stroke-width="2" x1="30" x2="30" y1="95" y2="140"></line><line stroke="#333" stroke-width="2" x1="30" x2="210" y1="140" y2="140"></line><!-- branch R1 --><line stroke="#333" stroke-width="2" x1="90" x2="90" y1="20" y2="55"></line><polyline fill="none" points="90,55 78,61 102,69 78,77 102,85 78,93 90,99" stroke="#333" stroke-width="2"></polyline><line stroke="#333" stroke-width="2" x1="90" x2="90" y1="99" y2="140"></line><text fill="#222" font-family="sans-serif" font-size="15" text-anchor="middle" x="65" y="80">R1</text><!-- branch R2 --><line stroke="#333" stroke-width="2" x1="150" x2="150" y1="20" y2="55"></line><polyline fill="none" points="150,55 138,61 162,69 138,77 162,85 138,93 150,99" stroke="#333" stroke-width="2"></polyline><line stroke="#333" stroke-width="2" x1="150" x2="150" y1="99" y2="140"></line><text fill="#222" font-family="sans-serif" font-size="15" text-anchor="middle" x="180" y="80">R2</text><line stroke="#333" stroke-width="2" x1="150" x2="210" y1="20" y2="20"></line><line stroke="#333" stroke-width="2" x1="150" x2="210" y1="140" y2="140"></line><text fill="#222" font-family="sans-serif" font-size="15" x="0" y="85">V</text></svg></div>
 
 - Die Spannung ist an jedem Widerstand gleich gross: `Uges = U1 = U2`
 - Der Strom teilt sich auf: durch den kleineren Widerstand fliesst mehr Strom
@@ -79,15 +67,7 @@ V
 
 Ein Teil der Schaltung liegt in Reihe, ein anderer Teil parallel.
 
-R1
-
-R2
-
-R3
-
-R4
-
-V
+<div class="grafik" markdown="0"><svg style="width:300px;height:auto;display:block;margin:1rem auto;" viewbox="0 -14 320 174" xmlns="http://www.w3.org/2000/svg"><!-- battery --><line stroke="#333" stroke-width="3" x1="20" x2="20" y1="65" y2="95"></line><line stroke="#333" stroke-width="3" x1="30" x2="30" y1="72" y2="88"></line><line stroke="#333" stroke-width="2" x1="20" x2="20" y1="65" y2="20"></line><line stroke="#333" stroke-width="2" x1="20" x2="80" y1="20" y2="20"></line><line stroke="#333" stroke-width="2" x1="30" x2="30" y1="95" y2="140"></line><line stroke="#333" stroke-width="2" x1="30" x2="290" y1="140" y2="140"></line><!-- R1 in series (top left) --><polyline fill="none" points="80,20 86,8 94,32 102,8 110,32 118,8 126,20" stroke="#333" stroke-width="2"></polyline><text fill="#222" font-family="sans-serif" font-size="14" text-anchor="middle" x="103" y="4">R1</text><line stroke="#333" stroke-width="2" x1="126" x2="150" y1="20" y2="20"></line><!-- parallel block R2 / R3 --><line stroke="#333" stroke-width="2" x1="150" x2="150" y1="20" y2="55"></line><polyline fill="none" points="150,55 138,61 162,69 138,77 162,85 138,93 150,99" stroke="#333" stroke-width="2"></polyline><line stroke="#333" stroke-width="2" x1="150" x2="150" y1="99" y2="140"></line><text fill="#222" font-family="sans-serif" font-size="14" text-anchor="middle" x="122" y="80">R2</text><line stroke="#333" stroke-width="2" x1="210" x2="210" y1="20" y2="55"></line><polyline fill="none" points="210,55 198,61 222,69 198,77 222,85 198,93 210,99" stroke="#333" stroke-width="2"></polyline><line stroke="#333" stroke-width="2" x1="210" x2="210" y1="99" y2="140"></line><text fill="#222" font-family="sans-serif" font-size="14" text-anchor="middle" x="238" y="80">R3</text><line stroke="#333" stroke-width="2" x1="150" x2="210" y1="20" y2="20"></line><!-- R4 in series after the parallel block --><line stroke="#333" stroke-width="2" x1="210" x2="234" y1="20" y2="20"></line><polyline fill="none" points="234,20 240,8 248,32 256,8 264,32 272,8 280,20" stroke="#333" stroke-width="2"></polyline><text fill="#222" font-family="sans-serif" font-size="14" text-anchor="middle" x="257" y="4">R4</text><line stroke="#333" stroke-width="2" x1="280" x2="290" y1="20" y2="20"></line><line stroke="#333" stroke-width="2" x1="290" x2="290" y1="20" y2="140"></line><text fill="#222" font-family="sans-serif" font-size="15" x="0" y="85">V</text></svg></div>
 
 Lösungsstrategie:
 
@@ -115,9 +95,7 @@ Lösungsstrategie:
 
 Die Leistung gibt an, wie viel Arbeit in einem kurzen Augenblick verrichtet wird, zum Beispiel die Helligkeit einer Lampe. Einheit: Watt (W).
 
-P
-U
-I
+<div class="grafik" markdown="0"><svg style="width:180px;height:auto;display:block;margin:1rem auto;" viewbox="0 0 200 180" xmlns="http://www.w3.org/2000/svg"><polygon fill="none" points="100,10 10,170 190,170" stroke="#333" stroke-width="2.5"></polygon><line stroke="#333" stroke-width="2" x1="10" x2="190" y1="110" y2="110"></line><line stroke="#333" stroke-width="2" x1="100" x2="100" y1="110" y2="170"></line><text fill="#222" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" x="100" y="80">P</text><text fill="#222" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="55" y="150">U</text><text fill="#222" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="145" y="150">I</text></svg></div>
 
 Merkhilfe «PUI»: Spannung mal Strom ergibt Leistung, `P = U · I`.
 
@@ -125,9 +103,7 @@ Merkhilfe «PUI»: Spannung mal Strom ergibt Leistung, `P = U · I`.
 
 Die Arbeit ist die Leistung, die über eine bestimmte Zeitspanne verbraucht oder erzeugt wird. Einheit: Wattsekunde (Ws) beziehungsweise Wattstunden (Wh) oder Kilowattstunden (kWh).
 
-W
-P
-t
+<div class="grafik" markdown="0"><svg style="width:180px;height:auto;display:block;margin:1rem auto;" viewbox="0 0 200 180" xmlns="http://www.w3.org/2000/svg"><polygon fill="none" points="100,10 10,170 190,170" stroke="#333" stroke-width="2.5"></polygon><line stroke="#333" stroke-width="2" x1="10" x2="190" y1="110" y2="110"></line><line stroke="#333" stroke-width="2" x1="100" x2="100" y1="110" y2="170"></line><text fill="#222" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" x="100" y="80">W</text><text fill="#222" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="55" y="150">P</text><text fill="#222" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="145" y="150">t</text></svg></div>
 
 Formel: `W = P · t` (Leistung mal Zeit) oder `W = U · I · t` (Spannung mal Strom mal Zeit).
 
