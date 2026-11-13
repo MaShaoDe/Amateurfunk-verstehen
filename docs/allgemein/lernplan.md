@@ -1,3 +1,7 @@
+---
+description: "Dein Lernplan für die Amateurfunkprüfung: finde heraus, wo du anfängst, und wähle den passenden Weg für HB3 oder HB9."
+---
+
 # So lernst du: dein eigener Plan
 
 Jeder bringt etwas anderes mit. Darum gibt es hier keinen festen Stundenplan, sondern deinen eigenen.

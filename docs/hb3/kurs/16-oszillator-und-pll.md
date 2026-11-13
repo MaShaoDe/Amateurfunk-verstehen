@@ -1,3 +1,7 @@
+---
+description: "Oszillator und PLL: wie ein Funkgerät seine Frequenz erzeugt und stabil hält. Grundidee ohne Mathematik, mit Übungen für HB3."
+---
+
 # Lektion 16: Oszillator und PLL
 
 !!! abstract "Das lernst du in dieser Lektion"

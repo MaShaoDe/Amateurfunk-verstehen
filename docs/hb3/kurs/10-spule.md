@@ -1,3 +1,7 @@
+---
+description: "Die Spule: Induktivität, Blindwiderstand und Verhalten bei hohen Frequenzen, einfach erklärt, mit Formeln und Übungen für die Prüfung HB3."
+---
+
 # Lektion 10: Die Spule
 
 !!! abstract "Das lernst du in dieser Lektion"

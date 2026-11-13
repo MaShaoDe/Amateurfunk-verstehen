@@ -1,3 +1,7 @@
+---
+description: "Resultate und Lösungswege zur Übungsreihe des HB9-Vorkurses."
+---
+
 # UE1-Resultate. HB9 Mathematik-Vorkurs
 
 Resultate zu: **UE1-Übungsreihe. HB9 Mathematik-Vorkurs**

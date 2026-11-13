@@ -1,3 +1,7 @@
+---
+description: "Allgemeine Informationen zum Amateurfunk und zur Prüfung in der Schweiz: Einstieg, Lernplan, Prüfung, Quellen und Hintergründe."
+---
+
 # Allgemein
 
 Dieser Bereich gilt für HB3 und HB9.

@@ -1,3 +1,7 @@
+---
+description: "Übungsblatt zu Spannung, Strom, Widerstand und Leistung mit Rechenaufgaben und Lösungen."
+---
+
 # Übungsblatt: Spannung, Strom, Widerstand, Leistung
 
 Ein separates, ausdruckbares Übungsblatt zum Ohmschen Gesetz, zu Widerstandsschaltungen sowie zu elektrischer Leistung und Arbeit. Die Theorie dazu steht bereits ausführlich in [Kapitel 1: Elektrische Grundlagen](../hb9/01-elektrische-grundlagen.md). Dieses Blatt ergänzt sie um kompakte Merkdreiecke, Schaltbilder und durchnummerierte Rechenaufgaben zum Üben.

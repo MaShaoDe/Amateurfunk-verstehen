@@ -1,3 +1,7 @@
+---
+description: "Antennen für den Amateurfunk: Dipol, Strahlungsdiagramm, Polarisation, Gewinn und gängige Antennentypen, einfach erklärt, mit Übungen für HB3."
+---
+
 # Lektion 21: Antennen
 
 !!! abstract "Das lernst du in dieser Lektion"

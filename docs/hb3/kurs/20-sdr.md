@@ -1,3 +1,7 @@
+---
+description: "SDR, Software Defined Radio: die Grundidee, wie ein digitaler Empfänger arbeitet und worin er sich von klassischen Geräten unterscheidet."
+---
+
 # Lektion 20: SDR, die Grundidee
 
 !!! abstract "Das lernst du in dieser Lektion"

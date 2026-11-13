@@ -1,3 +1,7 @@
+---
+description: "Antennenformen und Abstrahlung für HB9: Dipol, Vertikalantenne, Yagi und weitere Typen mit ihren Strahlungsdiagrammen."
+---
+
 # Kapitel 5: Antennenformen und Abstrahlung
 
 ## Lernziele

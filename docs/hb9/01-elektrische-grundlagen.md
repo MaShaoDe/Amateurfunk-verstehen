@@ -1,3 +1,7 @@
+---
+description: "Elektrische Grundlagen für die Amateurfunkprüfung HB9: Spannung, Strom, Widerstand, Leistung, Bauteile und Schaltungen mit Formeln und Beispielen."
+---
+
 # Kapitel 1: Elektrische Grundlagen
 
 ## Lernziele

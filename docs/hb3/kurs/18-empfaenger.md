@@ -1,3 +1,7 @@
+---
+description: "Der Empfänger: Geradeausempfänger und Superhet, Zwischenfrequenz, Spiegelfrequenz, Rauschen und Bedienelemente. Mit Übungen zur HB3-Prüfung."
+---
+
 # Lektion 18: Der Empfänger
 
 !!! abstract "Das lernst du in dieser Lektion"

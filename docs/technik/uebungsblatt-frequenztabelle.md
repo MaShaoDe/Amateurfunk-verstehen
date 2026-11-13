@@ -1,3 +1,7 @@
+---
+description: "Übungsblatt mit Frequenztabelle: Amateurfunkbänder und Wellenlängen zum Üben."
+---
+
 # Übungsblatt: HB3 und HB9 Frequenztabelle Schweiz
 
 Für den Ausdruck empfiehlt sich das PDF, sauber im Querformat aufbereitet mit wiederholten Tabellenköpfen.

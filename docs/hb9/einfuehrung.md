@@ -1,3 +1,7 @@
+---
+description: "Einführung in das HB9-Lehrwerk: Aufbau, Lernziele und wie du die 18 Kapitel für die Amateurfunkprüfung am besten nutzt."
+---
+
 # Amateurfunk verstehen
 
 ## Technische Grundlagen für Ausbildung, Experiment und Praxis

@@ -1,3 +1,7 @@
+---
+description: "Der Transistor als Schalter und Verstärker: Aufbau, Stromverstärkung β und Grundschaltungen, einfach erklärt, mit Übungen für HB3."
+---
+
 # Lektion 12: Der Transistor
 
 !!! abstract "Das lernst du in dieser Lektion"

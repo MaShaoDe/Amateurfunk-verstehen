@@ -1,3 +1,7 @@
+---
+description: "Impressum und Datenschutz von Amateurfunk verstehen: Verantwortlicher, Lizenz, Haftung und Hinweise zu Daten."
+---
+
 # Impressum und Datenschutz
 
 ## Verantwortlich für den Inhalt

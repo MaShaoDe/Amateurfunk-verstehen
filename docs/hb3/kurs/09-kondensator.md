@@ -1,3 +1,7 @@
+---
+description: "Der Kondensator: Aufbau, Kapazität, Blindwiderstand und Verhalten bei Gleich- und Wechselstrom. Mit Formeln und Übungen für HB3."
+---
+
 # Lektion 9: Der Kondensator
 
 !!! abstract "Das lernst du in dieser Lektion"

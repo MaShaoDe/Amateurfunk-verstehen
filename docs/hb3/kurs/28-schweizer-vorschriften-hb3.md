@@ -1,3 +1,7 @@
+---
+description: "Die Schweizer Vorschriften für HB3: was Inhaber des Einsteigerausweises dürfen, Leistung, Bänder und Pflichten. Verbindlich ist das BAKOM."
+---
+
 # Lektion 28: Die Schweizer Vorschriften für HB3
 
 !!! abstract "Das lernst du in dieser Lektion"
