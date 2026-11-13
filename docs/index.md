@@ -45,6 +45,7 @@ Wähle deinen Weg:
 - [Was ist Amateurfunk?](allgemein/was-ist-amateurfunk.md): was du damit machen kannst und wozu die Prüfung da ist
 - [So lernst du: dein eigener Plan](allgemein/lernplan.md): finde heraus, wo du anfängst
 - [Die Prüfung auf einen Blick](allgemein/pruefung.md): Ablauf, Kosten, Anmeldung und Taschenrechner
+- [Das Projekt unterstützen](allgemein/unterstuetzen.md): frei zugänglich, Spenden sind freiwillig
 
 ## Kurz verglichen
 
