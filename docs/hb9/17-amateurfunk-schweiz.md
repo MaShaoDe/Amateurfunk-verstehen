@@ -1,3 +1,7 @@
+---
+description: "Amateurfunk in der Schweiz für HB9: Vorschriften, Rechte und Pflichten, Bänder, Leistung und Organisation. Verbindlich ist das BAKOM."
+---
+
 # Kapitel 17: Amateurfunk in der Schweiz
 
 ## Lernziele

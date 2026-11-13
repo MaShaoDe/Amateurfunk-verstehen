@@ -1,3 +1,7 @@
+---
+description: "Lernvideos und Nachschlagewerke zum Amateurfunk: empfohlene Kanäle, Bücher und Formelsammlungen für die Prüfung."
+---
+
 # Lernvideos und Nachschlagewerke
 
 Hier sammeln wir geprüfte Quellen, die beim Lernen helfen.

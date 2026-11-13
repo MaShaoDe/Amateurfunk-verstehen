@@ -1,3 +1,7 @@
+---
+description: "Was Funk ist und wie ein Funksignal von der Antenne zum Empfänger kommt: die Grundidee für den Einstieg in den Amateurfunk, einfach erklärt."
+---
+
 # Lektion 1: Was ist Funk?
 
 !!! abstract "Das lernst du in dieser Lektion"

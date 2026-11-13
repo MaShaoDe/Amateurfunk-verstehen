@@ -1,3 +1,7 @@
+---
+description: "Elektronische Bauteile und Schaltungen für HB9: Widerstand, Kondensator, Spule, Diode, Transistor, Transformator und Operationsverstärker."
+---
+
 # Kapitel 11: Elektronische Bauteile und Schaltungen
 
 ## Lernziele

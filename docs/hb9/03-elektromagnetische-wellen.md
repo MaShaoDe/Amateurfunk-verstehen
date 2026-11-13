@@ -1,3 +1,7 @@
+---
+description: "Elektromagnetische Wellen für HB9: Entstehung, Polarisation, Feldstärke und Ausbreitung, verständlich erklärt, mit Beispielen zur Prüfung."
+---
+
 # Kapitel 3: Elektromagnetische Wellen
 
 ## Lernziele

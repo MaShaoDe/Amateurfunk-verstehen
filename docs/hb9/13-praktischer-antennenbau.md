@@ -1,3 +1,7 @@
+---
+description: "Praktischer Antennenbau für HB9: Dipol, Langdraht, Vertikal und Anpassung selbst bauen, mit Berechnung, Material und Aufbauhinweisen."
+---
+
 # Kapitel 13: Praktischer Antennenbau
 
 ## Lernziele

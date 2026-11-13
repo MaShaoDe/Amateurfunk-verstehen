@@ -1,3 +1,7 @@
+---
+description: "Messen im Amateurfunk: Multimeter, Messfehler, Oszilloskop und Spektrumanalysator, einfach erklärt, mit Übungen für HB3."
+---
+
 # Lektion 24: Messen
 
 !!! abstract "Das lernst du in dieser Lektion"

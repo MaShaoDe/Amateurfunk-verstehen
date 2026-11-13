@@ -1,3 +1,7 @@
+---
+description: "Wie sich Funkwellen ausbreiten: Bodenwelle, Raumwelle, Ionosphäre, Sporadic E und weitere Ausbreitungsarten, mit Übungen für die Prüfung HB3."
+---
+
 # Lektion 23: Wie sich Funkwellen ausbreiten
 
 !!! abstract "Das lernst du in dieser Lektion"

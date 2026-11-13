@@ -1,3 +1,7 @@
+---
+description: "Übungsblatt mit den wichtigsten Q-Codes im Amateurfunk und ihren Bedeutungen."
+---
+
 # Übungsblatt: Alle Q-Codes
 
 Alle 20 Q-Codes dieses Lehrwerks. Die mit **Prüfung** markierten gehören zur Kernliste des [BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" } und sind für HB3 und HB9 verlangt. Die übrigen sind im Funkbetrieb nützlich. Für die Prüfung genügt das Blatt [Q-Codes für die Prüfung](uebungsblatt-q-codes-pruefung.md).

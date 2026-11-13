@@ -1,5 +1,6 @@
 site_name: "Amateurfunk verstehen. Lernen für HB3 und HB9 (Schweiz)"
 site_author: Marcel Sauder
+site_url: https://www.sauder.ch/HAM-Radio/educ/lizkurs/
 site_description: Lernmaterial für die schweizerischen Amateurfunkprüfungen HB3 (Novice) und HB9, offen und frei nutzbar
 docs_dir: docs
 use_directory_urls: false

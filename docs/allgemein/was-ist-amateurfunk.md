@@ -1,3 +1,7 @@
+---
+description: "Was ist Amateurfunk? Was du damit machen kannst, wer dabei ist und wozu die Prüfung in der Schweiz gebraucht wird."
+---
+
 # Was ist Amateurfunk?
 
 Amateurfunk ist ein technisches Hobby. Du sendest und empfängst Funksignale auf Frequenzen, die dafür freigegeben sind. Wer sendet, braucht eine bestandene Prüfung und ein Rufzeichen. Das gibt dir die Sicherheit, dass du dein Gerät beherrschst und andere nicht störst.

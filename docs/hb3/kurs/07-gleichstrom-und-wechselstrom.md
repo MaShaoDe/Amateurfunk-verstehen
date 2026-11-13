@@ -1,3 +1,7 @@
+---
+description: "Gleichstrom und Wechselstrom: Effektivwert, Scheitelwert und Frequenz einfach erklärt, mit Übungen zur Amateurfunkprüfung HB3."
+---
+
 # Lektion 7: Gleichstrom und Wechselstrom
 
 !!! abstract "Das lernst du in dieser Lektion"

@@ -1,3 +1,7 @@
+---
+description: "Funkbetrieb für HB9: Rufzeichen, Q-Codes, Funkalphabet, Betriebsabwicklung und Verhalten im Amateurfunkverkehr."
+---
+
 # Kapitel 14: Funkbetrieb
 
 ## Lernziele

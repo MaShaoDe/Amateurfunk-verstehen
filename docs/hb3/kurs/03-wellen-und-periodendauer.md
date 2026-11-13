@@ -1,3 +1,7 @@
+---
+description: "Elektromagnetische Wellen, Periodendauer und Wellenlänge verständlich erklärt, mit Rechenbeispielen und den Grundlagen zu Feldern und Induktion."
+---
+
 # Lektion 3: Elektromagnetische Wellen und Periodendauer
 
 !!! abstract "Das lernst du in dieser Lektion"

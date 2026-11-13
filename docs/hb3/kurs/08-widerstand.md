@@ -1,3 +1,7 @@
+---
+description: "Der Widerstand als Bauteil: Aufbau, Farbcode, E-Reihe, Belastbarkeit sowie NTC, PTC und LDR. Mit Übungen zur HB3-Prüfung."
+---
+
 # Lektion 8: Der Widerstand
 
 !!! abstract "Das lernst du in dieser Lektion"

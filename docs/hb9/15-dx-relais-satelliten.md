@@ -1,3 +1,7 @@
+---
+description: "DX, Relais und Satelliten für HB9: Weitverkehr, Relaisstellen, Satellitenfunk und besondere Ausbreitungsarten im Amateurfunk."
+---
+
 # Kapitel 15: DX, Relais und Satelliten
 
 ## Lernziele

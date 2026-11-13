@@ -1,3 +1,7 @@
+---
+description: "Modulation und Betriebsarten für HB9: AM, FM, SSB, CW und digitale Verfahren mit Bandbreite, Modulationsgrad und Hub."
+---
+
 # Kapitel 10: Modulation und Betriebsarten
 
 ## Lernziele

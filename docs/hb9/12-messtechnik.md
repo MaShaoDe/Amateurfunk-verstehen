@@ -1,3 +1,7 @@
+---
+description: "Messtechnik für HB9: Multimeter, Oszilloskop, SWR-Meter, Frequenzzähler und Messfehler in der Amateurfunkpraxis."
+---
+
 # Kapitel 12: Messtechnik
 
 ## Lernziele

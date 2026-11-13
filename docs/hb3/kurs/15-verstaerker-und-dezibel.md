@@ -1,3 +1,7 @@
+---
+description: "Verstärker und Dezibel: Verstärkung, Dämpfung und der Umgang mit dB einfach erklärt. Mit Rechenbeispielen und Übungen für HB3."
+---
+
 # Lektion 15: Verstärker und Dezibel
 
 !!! abstract "Das lernst du in dieser Lektion"
