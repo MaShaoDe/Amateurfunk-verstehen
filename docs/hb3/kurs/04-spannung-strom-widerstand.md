@@ -1,3 +1,7 @@
+---
+description: "Spannung, Strom und Widerstand verstehen: die drei Grundgrössen der Elektrotechnik mit anschaulichen Vergleichen und Übungen für die HB3-Prüfung."
+---
+
 # Lektion 4: Spannung, Strom und Widerstand
 
 !!! abstract "Das lernst du in dieser Lektion"

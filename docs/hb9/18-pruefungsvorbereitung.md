@@ -1,3 +1,7 @@
+---
+description: "Vorbereitung auf die Amateurfunkprüfung HB9: Ablauf, Lernplan, Hilfsmittel und Hinweise zum Prüfungstag."
+---
+
 # Kapitel 18: Vorbereitung auf die Prüfung
 
 ## Lernziele

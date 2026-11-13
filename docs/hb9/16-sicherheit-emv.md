@@ -1,3 +1,7 @@
+---
+description: "Sicherheit und EMV für HB9: Schutz vor Netzspannung, Blitz und Strahlung, Störungen und Gegenmassnahmen im Amateurfunk."
+---
+
 # Kapitel 16: Sicherheit und EMV
 
 ## Lernziele

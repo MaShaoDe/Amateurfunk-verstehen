@@ -1,3 +1,7 @@
+---
+description: "Speiseleitungen für HB9: Koaxkabel, Paralleldrahtleitung, Wellenwiderstand, Verkürzungsfaktor und Dämpfung, mit Rechenbeispielen."
+---
+
 # Kapitel 7: Speiseleitungen
 
 ## Lernziele

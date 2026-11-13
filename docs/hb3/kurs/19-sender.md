@@ -1,3 +1,7 @@
+---
+description: "Der Sender: Aufbau, Endstufe, Filter und Regelung (ALC) von Amateurfunksendern. Verständlich erklärt, mit Übungen zur Prüfung HB3."
+---
+
 # Lektion 19: Der Sender
 
 !!! abstract "Das lernst du in dieser Lektion"

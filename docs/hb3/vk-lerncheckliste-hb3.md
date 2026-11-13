@@ -1,3 +1,7 @@
+---
+description: "Lerncheckliste für den HB3-Vorkurs: Hake ab, was du schon kannst, und sieh, was noch fehlt."
+---
+
 # HB3 Lerncheckliste nach dem Mathematik-Vorkurs
 
 ## Ausgangslage

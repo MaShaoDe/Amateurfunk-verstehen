@@ -1,3 +1,7 @@
+---
+description: "Rufzeichen, Buchstabieren und Q-Codes im Amateurfunk: das Funkalphabet, wichtige Abkürzungen und Funkbetrieb, mit Übungen für HB3."
+---
+
 # Lektion 27: Rufzeichen, Buchstabieren und Q-Codes
 
 !!! abstract "Das lernst du in dieser Lektion"

@@ -1,3 +1,7 @@
+---
+description: "Kabel, Anpassung und Stehwellenverhältnis (SWR): Speiseleitungen, Verkürzungsfaktor und Reflexion einfach erklärt, mit Übungen für HB3."
+---
+
 # Lektion 22: Kabel, Anpassung und SWR
 
 !!! abstract "Das lernst du in dieser Lektion"

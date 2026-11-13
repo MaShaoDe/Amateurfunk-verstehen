@@ -1,3 +1,7 @@
+---
+description: "Grundlagen der Antennentechnik für HB9: Strahlung, Gewinn, Wirkungsgrad und Richtwirkung, mit Formeln und Beispielen zur Amateurfunkprüfung."
+---
+
 # Kapitel 4: Grundlagen der Antennentechnik
 
 ## Lernziele

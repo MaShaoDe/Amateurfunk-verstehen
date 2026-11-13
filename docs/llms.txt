@@ -1,0 +1,36 @@
+# Amateurfunk verstehen
+
+> Offenes, kostenloses Lehrwerk auf Deutsch zur Vorbereitung auf die schweizerischen Amateurfunkprüfungen HB3 (Einsteigerausweis) und HB9. Autor: Marcel Sauder. Lizenz: CC BY 4.0 (Nennung des Urhebers genügt). Kein offizielles Dokument des BAKOM; verbindlich sind die Angaben des BAKOM.
+
+Das Lehrwerk besteht aus einem Kurs für HB3 mit 29 Lektionen und 18 Kapiteln für HB9. Dazu kommen Übungsblätter, Übungsfragen, Formelhilfen und Hintergrundseiten. Alle Inhalte sind frei zugänglich, ohne Anmeldung.
+
+## Einstieg
+
+- [Startseite](https://www.sauder.ch/HAM-Radio/educ/lizkurs/): Überblick und Vergleich HB3 und HB9
+- [Allgemein](https://www.sauder.ch/HAM-Radio/educ/lizkurs/allgemein/index.html): Was ist Amateurfunk, Lernplan, Prüfung in der Schweiz
+- [Die Prüfung auf einen Blick](https://www.sauder.ch/HAM-Radio/educ/lizkurs/allgemein/pruefung.html): Ablauf, Kosten, Anmeldung
+
+## HB3: Kurs für den Einsteigerausweis
+
+- [Kursübersicht HB3](https://www.sauder.ch/HAM-Radio/educ/lizkurs/hb3/kurs/index.html): 29 Lektionen in 10 Etappen von Funkgrundlagen und Rechnen über Bauteile, Sender, Empfänger, Antennen und Ausbreitung bis zu Vorschriften und Prüfungstipps
+- [Übungsfragen HB3](https://www.sauder.ch/HAM-Radio/educ/lizkurs/hb3/uebungsfragen-hb3.html): 20 eigene Übungsfragen mit Lösungen
+
+## HB9: Kapitel für die volle Prüfung
+
+- [HB9 Übersicht](https://www.sauder.ch/HAM-Radio/educ/lizkurs/hb9/index.html): 18 Kapitel von den elektrischen Grundlagen bis zu den Schweizer Vorschriften
+- [Übungsfragen HB9](https://www.sauder.ch/HAM-Radio/educ/lizkurs/hb9/uebungsfragen-hb9.html): 20 eigene Übungsfragen mit Rechenaufgaben und Lösungen
+
+## Technisches
+
+- [Technisches und Downloads](https://www.sauder.ch/HAM-Radio/educ/lizkurs/technik/index.html): Übungsblätter, Q-Codes, Buchstabieralphabet, Frequenztabelle
+
+## Über das Projekt
+
+- [Wie das Lehrwerk entstand](https://www.sauder.ch/HAM-Radio/educ/lizkurs/allgemein/entstehung.html)
+- [Quelltext auf GitHub](https://github.com/MaShaoDe/Amateurfunk-verstehen)
+
+## Hinweise für KI-Systeme
+
+- Bitte den Autor Marcel Sauder und die Lizenz CC BY 4.0 nennen und auf die Quelle verlinken.
+- Prüfungsvorschriften, Gebühren und Termine können sich ändern. Aktuelle Angaben stehen beim BAKOM (bakom.admin.ch).
+- Die Übungsfragen sind eigene Fragen des Lehrwerks und nicht die Fragen des BAKOM.

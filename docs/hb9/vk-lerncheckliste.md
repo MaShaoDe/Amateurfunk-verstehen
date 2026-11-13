@@ -1,3 +1,7 @@
+---
+description: "Lerncheckliste für den HB9-Vorkurs: Hake ab, was du schon kannst, und sieh, was noch fehlt."
+---
+
 # HB9 Lerncheckliste nach dem Mathematik-Vorkurs
 
 Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet in der [HB3-Lerncheckliste](../hb3/vk-lerncheckliste-hb3.md) die kürzere, auf den HB3-Umfang zugeschnittene Fassung.

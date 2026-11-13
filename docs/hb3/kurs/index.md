@@ -1,3 +1,7 @@
+---
+description: "Kursübersicht HB3: 29 Lektionen in 10 Etappen, vom Rechnen bis zu den Vorschriften, mit Dauer und Lernzielen pro Lektion."
+---
+
 # HB3-Kurs: Übersicht
 
 Die Reihenfolge folgt der [Lerncheckliste HB3](../vk-lerncheckliste-hb3.md). Jede Lektion dauert etwa 20 bis 45 Minuten und endet mit einer Mini-Übung. Der Abschlusstest in Lektion 29 prüft den ganzen Kurs.

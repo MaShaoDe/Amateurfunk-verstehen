@@ -1,3 +1,7 @@
+---
+description: "Technisches zum Amateurfunk: Übungsblätter, Tabellen, Q-Codes, Buchstabieralphabet und Downloads zum Ausdrucken."
+---
+
 # Technisches
 
 Hier findest du Tabellen, Übungsblätter und Hilfsmittel. Sie gelten für HB3 und HB9.

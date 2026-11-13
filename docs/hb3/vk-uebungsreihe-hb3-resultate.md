@@ -1,3 +1,7 @@
+---
+description: "Resultate und Lösungswege zur Übungsreihe des HB3-Vorkurses."
+---
+
 # UE2-Resultate. HB3 Mathematik-Vorkurs
 
 Resultate zu: **UE2-Übungsreihe. HB3 Mathematik-Vorkurs**

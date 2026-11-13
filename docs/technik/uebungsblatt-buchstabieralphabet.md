@@ -1,3 +1,7 @@
+---
+description: "Übungsblatt zum Buchstabieralphabet im Amateurfunk, zum Ausdrucken und Üben."
+---
+
 # Übungsblatt: Buchstabieralphabet
 
 Ein ausdruckbares Blatt zum Auswendiglernen der internationalen Buchstabiertabelle. Sie gilt für HB3 und HB9. Ausführlich erklärt wird sie in [Kapitel 14: Funkbetrieb](../hb9/14-funkbetrieb.md).

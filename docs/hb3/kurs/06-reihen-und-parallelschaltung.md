@@ -1,3 +1,7 @@
+---
+description: "Reihen- und Parallelschaltung von Widerständen, Spannungsquellen, Innenwiderstand, Leerlauf und Kurzschluss. Mit Beispielen und Übungen für HB3."
+---
+
 # Lektion 6: Reihen- und Parallelschaltung
 
 !!! abstract "Das lernst du in dieser Lektion"

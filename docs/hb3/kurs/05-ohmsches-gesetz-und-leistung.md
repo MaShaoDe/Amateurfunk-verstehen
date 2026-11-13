@@ -1,3 +1,7 @@
+---
+description: "Das Ohmsche Gesetz und die elektrische Leistung: Formeln, Formeldreieck, Arbeit und Energie. Mit Rechenbeispielen und Übungen für HB3."
+---
+
 # Lektion 5: Das Ohmsche Gesetz und die Leistung
 
 !!! abstract "Das lernst du in dieser Lektion"

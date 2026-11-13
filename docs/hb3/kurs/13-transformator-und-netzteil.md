@@ -1,3 +1,7 @@
+---
+description: "Transformator und Netzteil: Übersetzungsverhältnis, Spannungswandlung und Aufbau eines einfachen Netzteils. Mit Übungen für die Prüfung HB3."
+---
+
 # Lektion 13: Transformator und Netzteil
 
 !!! abstract "Das lernst du in dieser Lektion"

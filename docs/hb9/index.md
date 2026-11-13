@@ -1,3 +1,7 @@
+---
+description: "Das Lehrwerk für die Amateurfunkprüfung HB9: 18 Kapitel von den elektrischen Grundlagen bis zu den Schweizer Vorschriften, kostenlos."
+---
+
 # HB9
 
 !!! tip "Neu hier?"

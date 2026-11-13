@@ -1,3 +1,7 @@
+---
+description: "Störungen und elektromagnetische Verträglichkeit (EMV): Ursachen, Oberwellen, Filter und Abhilfe, mit Übungen zur Amateurfunkprüfung HB3."
+---
+
 # Lektion 25: Störungen und EMV
 
 !!! abstract "Das lernst du in dieser Lektion"

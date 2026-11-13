@@ -1,3 +1,7 @@
+---
+description: "Das Projekt unterstützen: Amateurfunk verstehen ist frei und kostenlos, freiwillige Spenden und weitere Wege zu helfen."
+---
+
 # Das Projekt unterstützen
 
 "Amateurfunk verstehen" ist frei und bleibt es. Es gibt keine Werbung, keinen Verkauf und keine Konten.
