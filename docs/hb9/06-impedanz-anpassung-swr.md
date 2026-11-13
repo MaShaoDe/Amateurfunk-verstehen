@@ -1,3 +1,7 @@
+---
+description: "Impedanz, Anpassung und Stehwellenverhältnis (SWR) für HB9: Reflexion, Transformation und Messung, mit Formeln und Beispielen."
+---
+
 # Kapitel 6: Impedanz, Anpassung und SWR
 
 ## Lernziele

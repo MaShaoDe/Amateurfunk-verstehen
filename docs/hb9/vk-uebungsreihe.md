@@ -1,3 +1,7 @@
+---
+description: "Übungsreihe zum HB9-Vorkurs mit Aufgaben zu Rechnen, Einheiten und Umformen."
+---
+
 # UE1-Übungsreihe. HB9 Mathematik-Vorkurs
 
 Wer auf die HB3-NOVICE-Prüfung vorbereitet, findet in [UE2](../hb3/vk-uebungsreihe-hb3.md) die kürzere, auf den HB3-Umfang zugeschnittene Übungsreihe.

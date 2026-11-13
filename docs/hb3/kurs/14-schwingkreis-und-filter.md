@@ -1,3 +1,7 @@
+---
+description: "Schwingkreis, Resonanzfrequenz und Filter (Tiefpass, Hochpass, Bandpass): verständlich erklärt, mit Formeln und Übungen zur HB3-Prüfung."
+---
+
 # Lektion 14: Schwingkreis und Filter
 
 !!! abstract "Das lernst du in dieser Lektion"

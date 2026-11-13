@@ -1,3 +1,7 @@
+---
+description: "Downloads zum Amateurfunk-Lehrwerk: Übungsblätter und Unterlagen zum Ausdrucken, frei nutzbar unter CC BY 4.0."
+---
+
 # Hilfsmittel zum Download
 
 Auf dieser Seite stehen offizielle Hilfsdokumente und ergänzendes Material als PDF zum Herunterladen bereit. Die Liste wird laufend erweitert.

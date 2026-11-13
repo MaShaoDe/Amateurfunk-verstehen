@@ -1,3 +1,7 @@
+---
+description: "Was Frequenz bedeutet, wie Frequenzbänder eingeteilt sind und welche Bänder Funkamateure nutzen. Mit Beispielen und Übungen zur Prüfung HB3."
+---
+
 # Lektion 2: Frequenz und Bänder
 
 !!! abstract "Das lernst du in dieser Lektion"

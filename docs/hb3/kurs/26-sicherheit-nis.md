@@ -1,3 +1,7 @@
+---
+description: "Sicherheit und nichtionisierende Strahlung (NIS): Schutz beim Umgang mit Netzspannung, Antennen und Sendeleistung, mit Übungen für HB3."
+---
+
 # Lektion 26: Sicherheit und Strahlung (NIS)
 
 !!! abstract "Das lernst du in dieser Lektion"

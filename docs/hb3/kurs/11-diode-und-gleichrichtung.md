@@ -1,3 +1,7 @@
+---
+description: "Diode und Gleichrichtung: Aufbau, Durchlassrichtung, Gleichrichterschaltungen und LED. Mit Beispielen und Übungen zur HB3-Prüfung."
+---
+
 # Lektion 11: Diode und Gleichrichtung
 
 !!! abstract "Das lernst du in dieser Lektion"

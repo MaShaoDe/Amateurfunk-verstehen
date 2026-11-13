@@ -1,3 +1,7 @@
+---
+description: "Übungsblatt mit den Q-Codes, die du für die Amateurfunkprüfung kennen solltest."
+---
+
 # Übungsblatt: Q-Codes für die Prüfung
 
 Das sind die 13 Q-Codes der Kernliste des [BAKOM](https://www.bakom.admin.ch/){ target="_blank" rel="noopener" }. Sie gelten für HB3 und HB9. Q-Codes sind keine Abkürzungen, sondern feststehende Drei-Buchstaben-Codes mit international festgelegter Bedeutung.

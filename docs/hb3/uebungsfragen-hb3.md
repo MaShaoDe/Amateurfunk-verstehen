@@ -1,3 +1,7 @@
+---
+description: "20 Übungsfragen für HB3 mit Multiple Choice und Lösungen. Eigene Fragen des Lehrwerks, nicht die Fragen des BAKOM."
+---
+
 # Übungsfragen HB3
 
 !!! note "Eigene Übungsfragen"

@@ -1,3 +1,7 @@
+---
+description: "Sender und Empfänger für HB9: Aufbau, Blockschaltbilder, Superhet, Filter und wichtige Kenngrössen, mit Beispielen zur Amateurfunkprüfung."
+---
+
 # Kapitel 9: Sender und Empfänger
 
 ## Lernziele

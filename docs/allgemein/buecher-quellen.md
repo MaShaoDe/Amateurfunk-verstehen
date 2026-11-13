@@ -1,3 +1,7 @@
+---
+description: "Bücher, Quellen und Dank: Literatur, Unterlagen und Hilfe, auf denen das Lehrwerk Amateurfunk verstehen aufbaut."
+---
+
 # Bücher, Quellen und Dank
 
 !!! note "So sind die Angaben entstanden"

@@ -1,3 +1,7 @@
+---
+description: "Die Amateurfunkprüfung in der Schweiz auf einen Blick: Ablauf, Kosten, Anmeldung beim BAKOM und erlaubter Taschenrechner."
+---
+
 # Die Prüfung auf einen Blick
 
 Hier steht, was du vor der Prüfung wissen musst: Ablauf, Kosten, erlaubte Hilfsmittel und was danach kommt.

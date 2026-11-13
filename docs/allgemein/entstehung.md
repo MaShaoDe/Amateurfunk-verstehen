@@ -1,3 +1,7 @@
+---
+description: "Wie das Lehrwerk entstand: die Geschichte von 1984 bis heute, vom Karopapier über CP/M bis zum offenen Projekt."
+---
+
 # Wie dieses Lehrwerk entstand
 
 Die ursprüngliche Fassung dieses Lehrmaterials entstand im:

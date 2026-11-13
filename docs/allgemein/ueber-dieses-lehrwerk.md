@@ -1,3 +1,7 @@
+---
+description: "Über das Lehrwerk Amateurfunk verstehen: Zweck, Aufbau, Lizenz CC BY 4.0 und Autor Marcel Sauder."
+---
+
 # Über dieses Lehrwerk
 
 ## Amateurfunk verstehen

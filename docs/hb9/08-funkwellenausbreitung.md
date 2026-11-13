@@ -1,3 +1,7 @@
+---
+description: "Funkwellenausbreitung für HB9: Ionosphäre, Bodenwelle, Raumwelle, Sonnenaktivität und Ausbreitung auf den Amateurfunkbändern."
+---
+
 # Kapitel 8: Funkwellenausbreitung
 
 ## Lernziele

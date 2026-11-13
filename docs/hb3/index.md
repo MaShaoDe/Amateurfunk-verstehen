@@ -1,3 +1,7 @@
+---
+description: "Der Kurs für die schweizerische Amateurfunkprüfung HB3 (Einsteigerausweis): 29 Lektionen mit Vorkurs, Übungen und Prüfungshilfen, kostenlos."
+---
+
 # HB3 (Novice)
 
 !!! tip "Neu hier?"

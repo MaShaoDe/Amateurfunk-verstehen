@@ -1,3 +1,7 @@
+---
+description: "Übungsblatt zu den Aussendungsarten im Amateurfunk für HB3 mit Lösungen."
+---
+
 # Übungsblatt: Aussendungsarten und Kürzel (HB3)
 
 Die dreistellige Bezeichnung einer Aussendungsart setzt sich aus Modulationsart, Signalart und Informationsart zusammen. Dieses Merkblatt deckt den für HB3 verlangten, kleineren Umfang ab. Die vollständige HB9-Version steht separat unter [Übungsblatt: Aussendungsarten und Kürzel (HB9)](../hb9/uebungsblatt-aussendungsarten-hb9.md).

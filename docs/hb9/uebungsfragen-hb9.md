@@ -1,3 +1,7 @@
+---
+description: "20 Übungsfragen für HB9 mit Rechenaufgaben und Lösungen. Eigene Fragen des Lehrwerks, nicht die Fragen des BAKOM."
+---
+
 # Übungsfragen HB9
 
 !!! note "Eigene Übungsfragen"

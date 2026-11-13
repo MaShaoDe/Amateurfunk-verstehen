@@ -1,3 +1,7 @@
+---
+description: "Frequenz, Periodendauer und Wellenlänge für HB9: Zusammenhänge, Formeln und Rechenbeispiele zur Amateurfunkprüfung."
+---
+
 # Kapitel 2: Frequenz, Periodendauer und Wellenlänge
 
 ## Lernziele

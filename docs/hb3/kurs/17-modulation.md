@@ -1,3 +1,7 @@
+---
+description: "Modulation im Amateurfunk: AM, FM und SSB, Bandbreite, Modulationsgrad und Aussendungsbezeichnungen. Mit Beispielen und Übungen für HB3."
+---
+
 # Lektion 17: Modulation (AM, FM, SSB)
 
 !!! abstract "Das lernst du in dieser Lektion"

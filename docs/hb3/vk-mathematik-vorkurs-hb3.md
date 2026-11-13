@@ -1,3 +1,7 @@
+---
+description: "Mathematik-Vorkurs für HB3: Bruchrechnen, Potenzen, Umformen und Zehnerpotenzen, die du für die Amateurfunkprüfung brauchst."
+---
+
 # HB3 Mathematik-Vorkurs
 
 Dies ist die auf die HB3-NOVICE-Prüfung zugeschnittene, kürzere Fassung des [HB9-Mathematik-Vorkurses](../hb9/vk-mathematik-vorkurs.md), siehe dort auch die [Bemerkung zu HB3](../hb9/vk-mathematik-vorkurs.md#bemerkung-zu-hb3).

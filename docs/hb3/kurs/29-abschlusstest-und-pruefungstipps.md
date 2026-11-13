@@ -1,3 +1,7 @@
+---
+description: "Abschlusstest und Prüfungstipps für die Amateurfunkprüfung HB3: Kurztest mit 20 Fragen, Ablauf der Prüfung und Hinweise zur Vorbereitung."
+---
+
 # Lektion 29: Abschlusstest und Prüfungstipps
 
 !!! abstract "Das lernst du in dieser Lektion"
