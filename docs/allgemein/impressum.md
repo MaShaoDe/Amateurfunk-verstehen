@@ -11,7 +11,7 @@
 
 ## Zweck und Art dieses Angebots
 
-"Amateurfunk verstehen" ist ein privates, nicht kommerzielles Lehrwerk zur Vorbereitung auf die schweizerischen Amateurfunkprüfungen HB3 und HB9. Es gibt keine Werbung, keinen Verkauf und keine Benutzerkonten.
+"Amateurfunk verstehen" ist ein privates, nicht kommerzielles Lehrwerk zur Vorbereitung auf die schweizerischen Amateurfunkprüfungen HB3 und HB9. Es gibt keine Werbung, keinen Verkauf und keine Benutzerkonten. Freiwillige Spenden sind möglich (siehe [Das Projekt unterstützen](unterstuetzen.md)). Sie begründen keinen Anspruch auf Leistungen, und alle Inhalte bleiben für alle kostenlos zugänglich.
 
 Das Lehrwerk ist ein **Open-Source-Projekt**. Der gesamte Quelltext liegt auf [GitHub](https://github.com/MaShaoDe/Amateurfunk-verstehen){ target="_blank" rel="noopener" }. Du kannst ihn lesen, weiterverwenden, Fehler melden und Verbesserungen vorschlagen.
 
