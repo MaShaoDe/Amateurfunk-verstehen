@@ -28,6 +28,7 @@ Das Lehrwerk besteht aus einem Kurs für HB3 mit 29 Lektionen und 18 Kapiteln f�
 
 - [Wie das Lehrwerk entstand](https://www.sauder.ch/HAM-Radio/educ/lizkurs/allgemein/entstehung.html)
 - [Quelltext auf GitHub](https://github.com/MaShaoDe/Amateurfunk-verstehen)
+- [Das Projekt unterstützen](https://www.sauder.ch/HAM-Radio/educ/lizkurs/allgemein/unterstuetzen.html): freiwillige Spenden, alle Inhalte bleiben kostenlos
 
 ## Hinweise für KI-Systeme
 
